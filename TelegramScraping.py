@@ -1,4 +1,5 @@
 #https://medium.com/game-of-data/telegram-channel-data-extraction-users-information-chats-and-specific-messages-and-data-21bb54710fd3
+#https://docs.telethon.dev/en/stable/basic/quick-start.html
 
 from telethon import TelegramClient
 from telethon import events
