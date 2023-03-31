@@ -1,0 +1,64 @@
+Agava
+Xizmatlari
+
+internetQachon asos solingan
+
+1998Joylashuvi
+
+MoskvaAsoschi(lari)
+
+Vladimir PanfilovichIshchilar soni
+
+250 dan ortiqVebsayti
+
+http://www.agava.com
+
+Bu atamaning boshqa maʼnolari ham mavjud. Qarang: Agava (maʼnolari).
+
+AGAVA kompaniyasi 1998-yil MFTI bitiruvchilari tomonidan asos solingan. Boshida kompaniya buyurtmaga programma taʼminoti yaratishga ixtisoslashgan edi. Hozirgi kunda AGAVA Software Company – keng miqiyosli hizmat koʻrsatish boʻyicha Rossiyadagi eng yirik IT kompaniyalaridan biri xisoblanadi.Kompaniyada yuqori dajarali mutaxassis va ishchilar ish olib boradi.Kompaniya IT sanoatining turli yoʻnalishlarida  yangidan-yangi  proektlar  yaratib va yildan – yilga rivojlanib bormoqda.
+
+
+Kompaniya tarixi[tahrir | manbasini tahrirlash]
+1998-yil MFTI birituvchisi Vladimir Panfilovich  kichik bir tashkilotni yaratgan, u buyurtmaga programma taʼminoti yaratishga ixtisoslashgan.Kompaniyaga AGAVA  nomi berildi (Bu nomning shu nomli Meksika kaktusi, undan tayyorlangan ichimlik va Grek mifologiyasi ga hech qanday aloqasi yoq). Kompaniyaga nom tanlash uchun maʼlum bir fonetik kriteriyalar tanlangan  edi va topilgan barcha variantlar ichidan (ushbu kriteriyalarga mos keladiganlari ichidan) “agava” oʻsimlik nomi tanlandi. “Kemani qanday nomlasang…” iborasi oʻzini namoyon eta boshladi, kompaniyani  kaktusga oʻxshab uzoq vaqt umr koʻrishi va oʻzining mevasini bera boshladi.Agava ning ilk mevasi bu – JobList proekti hisoblanadi, u 1999-yil tashkil etilgan. Ushbu sayt ish qidirish va personal tanlashga ixtisoslashgan.Hozirda ushbu proekt bozorda yuqori pogo`nalarni egallagan va Internet foydalanuvchilari orasida unga talab katta va qariiy mustaqil brend  hisoblanadi. 
+2000-yilda hosting yo`nalishi ishga tushadi.Shuningdek yillar davomida rivojlanib kelmoqda va hozirgi kunda AGAVA Rossiya eng yirik Hosting  kompaniyalari beshligi Wayback Machine saytida arxivlandi (2007-12-18). ga kiradi.Agava kompaniyasi o`z proektlari sonini oshirib bormoqda, o`z ishchilari sonini oshirib va ko`plab foydalanuvchilar ishonchini qozonib bormoqda. Hozirda Agava kompaniyasi Internet biznesning turli yo`nalishlarida unumli faoliyat olib bormoqda.Kompaniya 10 dan ortiq mustaqil veb-proektlar ga ega va ularni yildan - yilga rivojlantirib bormoqda.Kompaniya  Moskvada bir nechta ofislari va Dubna, Bishkek, Kiev, Minskda filiallariga ega.Agava kompaniyasiga har yili turli nominatsiyalar bo’yicha yutuq va premiyalar  topshiriladi.
+
+Kompaniyaning asosiy faoliyat turi:[tahrir | manbasini tahrirlash]
+•	Veb hosting – keng miqiyosli tariff rejalari va hizmatlar (Perl, PHP, MySQL, veb-interfeys orqali pochta, IMAP, POP3, SMTP, antivirus, spam-filtr, saytni boshqarish paneli va boshqalar), hohlagan to`lov turini amalgam oshirish imkoniyati, individual yondoshuv.
+•	Ajratilgan jismoniy server- Dedicated Wayback Machine saytida arxivlandi (2007-12-17). renter.ru hizmatlari(ajratilgan serverlarni ijaraga olish) va Colocation (internetga o`z jihozlarni o`rnatish) Rossiyada qaytarib sotib olish.Arzon narxlar, keng miqiyosli konfiguratsiyalar, chegaralanmagan bepul trafik.
+•	Domenlar ro`yhatidan o`tish - .ru, .ws, .msk.ru, .spb.ru, .com1.ru, .kod095.ru, .kod812.ru, .com, .net, .org, .info, .biz zonalari. Hosting egalariga  chegirtmalar.Domenni tezda tekshirish.
+
+Internetda reklama:[tahrir | manbasini tahrirlash]
+Agava reklama agentligi – Internet – reklama bozorida 7 yildan buyon samarali faoliyat olib bormoqda.Ushbu vaqt davomida  bilim, tajriba va yuqori darajali hamkorlarni yig’ishga erishdi.Agava reklama agentligi mutaxassislari internet foydalanuvchilari ichida  sayt, tovar va hizmatlarni tashkil etish va o`tkazishga yordam berishadi.
+•	Agava kompaniyasi ploshadkasida reklama - iFolder.ru, JobList.ru, JDU.ru, Vsem.ru, Maillist.ru, TBN.ru, ADBN.ru, Interstishialz.
+•	Kontekst reklama - Yandex, Rambler, Begun
+•	Banner reklama – reklama tashish moslamalarini yaratish va joylashtirish,turli formatlar, ijodiy yondashuv va mijoz hohishiga rioya qilish.
+•	Mediyarejalashtirish- jami mavjud marketing marosimlari.
+•	Marketing tadqiqodlari – Internetda keng miqiyosli marketing tadqiqodlari o`tkazish imkoniyati borligi.Mahsulot va xizmatlaringiz iste`molchilarini  on –line so`rov yo`li bilan keng miqiyosli tadqiqod o`tkazish mumkinligi.
+
+Fayl:Fire box big.jpg
+Programma taʼminoti yaratish:[tahrir | manbasini tahrirlash]
+Fayl:Aag box big.jpg
+•	AGAVA SpamProtexx – spam filtr, electron xabar tarkibini tekshirishga asoslangan.Agava Spamprotexx spamga qarshi kurashishni yuqori pog`onaga  ko`tardi.
+•	AGAVA Firewall – kompyuterni setda ishonchli himoya qiluvchi  shaxsiy fayrvoldir. AGAVA Firewall  tashqi bosqinlardan, qonunbuzarlarning local setda harakat qilishidan sizni himoya qiladi.
+•	AGAVA AntiSpy Wayback Machine saytida arxivlandi (2007-12-18). -  spyware ga qarshi himoya.
+•	Buyurtmaga programma ta`minoti – Agava mutahassislari  sizga turli qiyinlikdagi, zamonaviy texnologiyalar va boy tajribaga asoslangan holda tezda va  sifatli programma ta`minotini yaratib berishadi.
+
+Veb – proektlar:[tahrir | manbasini tahrirlash]
+.       Xitmusic.uz Wayback Machine saytida arxivlandi (2018-07-20). - Eng yangi orginal ovozli reklamasiz musiqalar,kliplar,mobil va HD kinolar android,windows mobile,java va boshqa koplab modeldagi telefon smartfonlar uchun o'yin tema dasturla shuningdek kompyuterlar uchun xam.Betakror va ommabop fotolar,online tv,xar kunlik teledasturlar ro'yxati va koplab servislarga ega.Saytdan tas-ix tizimida bepul foydalanish mumkin.
+.	MailList.ru Wayback Machine saytida arxivlandi (2018-03-18). – elektron rassilka hizmati. Eng actual va  turli  mavzulardagi yuzlab rassilkalar.O`z shaxsiy rassilkangizni yaratish imkonining mavjudligi.
+•	JobList.ru Wayback Machine saytida arxivlandi (2011-10-29).– Portal ish, ishchilar va ish beruvchilar uchun. Kuniga 2500 yangi ish o`rinlari va rezyumelar. Ish izlashni va personal tanlashni engillashtiruvchi turli qo`shimcha xizmatlarning mavjudligi.
+•	edu.JobList Wayback Machine saytida arxivlandi (2016-03-03). – o`qish, kurslar, treninglar va seminarlar.
+•	Vsem.ru – on – layn supermarket.Bu erda siz o`zingizga eng kerakli bo’lgan narsalarni sotib olishingiz mumkin.Avtomobil, kompyuter, turli hayvonlar va shunga o`hshash ko`pgina narsalar.
+•	Testbox.ru Wayback Machine saytida arxivlandi (2017-09-19).– tanlangan psixologik testlar to`plami. Intellekt va shaxsiyatni bilish testlari, harakter va biznes sifatlarni bilish testlari, ayollar va erkaklar uchun maxsus testlar.
+•	iFolder.ru– fayl hosting sayti. Siz  fayllaringizni yuklashingiz va saqlashingiz yoki boshqalar tomonidan saqlangan faylarni o`zingizga yuklashingiz mumkin.
+•	JDU.ru-  tanishuv serveri, bu erda dunyoning 3 millionga yaqin faol foydalanuvchilar jamlangan.
+•	TBN.ru Wayback Machine saytida arxivlandi (2021-04-11). – Bannerli set,Rossiyada kattaligi bo`yicha uchinchi o`rinda. Kuniga 112 mln. bannerni besh taniqli formatda aylantiradi.
+•	ADBN Wayback Machine saytida arxivlandi (2020-03-07). - Eng  taniqli rus tilli reklama ploshadkalari, turli hil targetinglar.
+•	mne.ru – pulli pochtali hosting.Sizga yangi imkoniyatlar va 100 foizli kafolatlarni ochib beradi.
+•	Holm.ru – bepul veb - hosting hamma uchun
+
+Havolalar[tahrir | manbasini tahrirlash]
+Xitmusic.uz Wayback Machine saytida arxivlandi (2018-07-20).
+
+
+

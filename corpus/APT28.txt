@@ -1,0 +1,142 @@
+Fancy Bear (ingliz tilidan. – Fashion Bear[1] yoki Fancy Bear) (shuningdek, Fancy Bears, APT28, Sofacy, Pawn storm, Sednit va Strontium) xakerlar guruhidir. 2004-yildan beri faoliyat koʻrsatmoqda. Xorijiy davlatlarning hukumat, axborot, harbiy va boshqa tuzilmalariga, shuningdek, rossiyalik muxolifatchilar va jurnalistlarga kiberhujumlar bilan tanilgan[2]. Amerikalik kiberxavfsizlik mutaxassislari guruhni Rossiya razvedka xizmatlari bilan bogʻlaydi[3].
+2018-yilda Qoʻshma Shtatlarda bir qator rus harbiy razvedka xodimlariga nisbatan rasmiy ayblov qoʻyildi, bu esa 26165 (maxsus xizmatning 85-bosh markazi) va 74455-sonli harbiy qism harbiy xizmatchilari Fancy Bear[4][5] ortida turganligini koʻrsatdi.[6] 2020-yilda Germaniya Bosh prokuraturasi 2015-yilda Fancy Bear aʼzosi va GRU[7] xodimi sifatida Bundestagga kiberhujum sodir etganlikda gumon qilingan Dmitriy Badinni hibsga olishga order berdi. Yevropa Ittifoqi va Buyuk Britaniya GRUning 85-Maxsus xizmatlar bosh markazi (GRU 26165, Fancy Bear) va Dmitriy Badinga Bundestag (2015) va OPCW (2018) ga kiberhujumlar uchun sanksiyalar kiritdi[8].
+
+
+Xavfsizlik xizmatlari reytingi[tahrir | manbasini tahrirlash]
+Hackerlar guruhiga laqab Amerikaning CrowdStrike antivirus kompaniyasining kiberxavfsizlik boʻyicha mutaxassisi Dmitriy Alperovich tomonidan guruh tomonidan “shaxmat strategiyasiga oʻxshash aniq nishonga hujum qilish uchun ikki yoki undan ortiq tegishli vositalar/taktikalardan” foydalanganligi sababli berilgan[9], piyon hujumi sifatida tanilgan. U, shuningdek, boshqa xakerlar guruhini Cozy Bear deb atadi, u ham Rossiya maxsus xizmatlari bilan bogʻlangan[10].
+FireEye tarmoq xavfsizligi firmasi 2014-yil oktyabr oyida Fancy Bear haqida hisobot chiqardi. Guruh “Advanced Persistent Threat 28” deb nomlanadi, uning aʼzolari xakerlik hujumi paytida Microsoft Windows va Adobe Flashda nol kunlik zaiflikdan foydalangan[11]. Hujjatda tezkor maʼlumotlarga asoslanib, guruhning asosi “Moskvadagi davlat homiysi” deb nomlanadi. Ushbu xulosani qoʻllab-quvvatlash uchun tergovchilar zararli dastur kodidagi rus tilida soʻzlashuvchilarga xos boʻlgan uslubni, shuningdek, dastur Moskva vaqt zonasida ish vaqtida tahrirlanganligini taʼkidlaydilar[12]. FireEye kompaniyasining tahdidlar boʻyicha direktori Laura Galante guruhning faoliyatini “davlat josusligi”[13] deb taʼrifladi, bu ham “ommaviy axborot vositalari yoki taʼsir oʻtkazuvchilar”[14][15] ni nishonga oladi.
+ESET maʼlumotlariga koʻra, xakerlar oʻnlab davlatlar elchixonalari, Argentina, Bangladesh, Turkiya, Janubiy Koreya va Ukraina mudofaa vazirliklari, NATO xodimlari, ukrainalik siyosatchilar va Sharqiy Yevropadan kelgan jurnalistlarga hujum qilgan. FireEye’ga oʻxshab, ESET mutaxassislari xakerlarning faolligi UTC+3 soat 9:00 dan 17:00 gacha (Moskvaga toʻgʻri keladi) toʻgʻri kelishini ta’kidladilar.
+
+Atributli kiberhujumlar[tahrir | manbasini tahrirlash]
+Germaniya[tahrir | manbasini tahrirlash]
+Germaniya Konstitutsiyasini himoya qilish federal xizmati Rossiyani Germaniya davlat muassasalariga kiberhujumlarda ayblaydi[2]. 2016-yil 13-may kuni xizmat rahbari Hans-George Maassen 2015-yilda Bundestag axborot tizimiga qilingan hujumlar ortida va rahbari nemis boʻlgan Germaniya Xristian-Demokratik Ittifoqiga qilingan hujumlar ortida aynan Sofacy turganini aytdi. Maassenning soʻzlariga koʻra, guruh oʻn yildan koʻproq vaqt davomida nemis axborot tizimlariga kirib borishga harakat qilgan va shu vaqt davomida nemis kontrrazvedkasi uni kuzatgan[2]. Hukumat muassasalaridan tashqari, elektr stansiyalari va boshqa muhim sanoat va infratuzilma obyektlari kiberhujumlar nishoniga aylandi[2].
+2020-yilning may oyida Germaniya Bosh prokuraturasi rossiyalik Dmitriy Badinni 2015-yilda Bundestagga hujum uyushtirganlikda gumon qilingan Fancy Bear guruhi aʼzosi va GRU xodimi sifatida hibsga olish uchun order berdi. 2020-yil 13-mayda kansler Merkel 2015-yilda Bundestagga uyushtirilgan kiberhujumga Rossiyaning aloqadorligi haqida dalillar borligini ma’lum qildi. Merkelning taʼkidlashicha, hujum gibrid urush strategiyasining bir qismi boʻlib, unda notoʻgʻri maʼlumot berish va yoʻnalishni yoʻqotish ham kiradi[7][16][17].
+
+Fransiya[tahrir | manbasini tahrirlash]
+2015 -yil 8-aprelda Fransiyaning TV5 Monde telekanali kiberhujum qurboni boʻldi; kanalning efiri uch soatga toʻxtatildi[18]. Dastlabki versiyaga koʻra, hujum ortida “Islom davlati ” terrorchilik tashkilotiga aloqador CyberCaliphate xakerlik guruhi turgan. Biroq, keyinchalik fransuz tergovchilari hujum ortida Sofacy guruhi[19] boʻlishi mumkinligi haqida shubha uygʻotdi. Fransiya Bosh vaziri Manuel Valls hujumni “axborot erkinligiga yoʻl qoʻyib boʻlmaydigan hujum” deb atadi[20].
+
+AQSh va NATO[tahrir | manbasini tahrirlash]
+2015-yil avgust oyida Sofacy Oq uy va NATO axborot tizimlariga firibgarlik hujumini amalga oshirdi. Xakerlar electronicfrontierfoundation.org[21][22] ning soxta URL manzili bilan “fishing ” usulidan foydalangan.
+2016-yilning yozida AQSH Demokratik partiyasining ichki tarmogʻiga xakerlik hujumi sodir boʻlganida, xakerlik oqibatlarini bartaraf etgan CrowdStrike kompaniyasi buni Fancy Bear va Cozy Bear guruhlari tashkil qilganini maʼlum qilgan edi.[23]
+
+Xalqaro tashkilotlar[tahrir | manbasini tahrirlash]
+WADA
+Fancy Bear 2016-yil avgust oyida Butunjahon antidoping agentligi veb-saytini buzib kirganlikda ayblanmoqda. Xakerlik xalqaro tashkilot Rossiyani sportchilar uchun davlat tomonidan qoʻllab-quvvatlanadigan doping tizimini yaratishda ayblagan hisobotini eʼlon qilganidan keyin amalga oshirildi[24].
+2016-yilda Fancy Bear Butunjahon antidoping agentligining ADAMS elektron tizimi maʼlumotlariga kirish huquqiga ega boʻldi va baʼzi materiallarni oʻz veb-saytida eʼlon qildi. Agentlik materiallarning haqiqiyligini tasdiqladi.
+13-sentabr kuni doping-testlari ijobiy boʻlgan sportchilarning birinchi roʻyxati xakerlar guruhi[25][26][27][28] saytida e’lon qilindi. Hammasi boʻlib beshta roʻyxat[29] va AQSh Dopingga qarshi agentligi xodimining yozishmalari eʼlon qilindi, ular 2015-yilda Qoʻshma Shtatlardan 200 dan ortiq sportchilar terapevtik maqsadlarda doping deb hisoblangan taqiqlangan dori vositalaridan foydalanishga ruxsat olganlar[30].
+2018-yil yanvar oyida Xalqaro olimpiya qoʻmitasi xodimlari va WADA oʻrtasidagi yozishmalar chop etildi[31].
+
+Windows[tahrir | manbasini tahrirlash]
+2016-yil noyabr oyi boshida Microsoft Windowsning soʻnggi versiyasini buzganini eʼlon qildi. Kiberxavfsizlik boʻyicha mutaxassislarning fikricha, buzgʻunchilikni Strontium (Fancy Bear) xakerlar guruhi amalga oshirgan.
+
+Manbalar[tahrir | manbasini tahrirlash]
+
+
+↑ „Кто такие Fancy Bears?“. 18-sentabr 2016-yilda asl nusxadan arxivlandi. Qaraldi: 18-sentabr 2016-yil.
+
+
+
+↑ 2,0 2,1 2,2 2,3 „«Russia 'was behind German parliament hack'»“. 15-may 2016-yilda asl nusxadan arxivlandi. Qaraldi: 14-may 2016-yil.
+
+
+
+↑ „Познакомьтесь с Cozy Bear и Fancy Bear — российскими группами, стоящими за взломом сети Национального комитета Демократической партии“. 16-yanvar 2018-yilda asl nusxadan arxivlandi. Qaraldi: 16-yanvar 2018-yil.
+
+
+
+↑ „Indicting 12 Russian Hackers Could Be Mueller's Biggest Move Yet“. Wired.com. 30-dekabr 2021-yilda asl nusxadan arxivlandi. Qaraldi: 4-oktabr 2018-yil.
+
+
+
+↑ „Козачек, он же Kazak, он же blablabla1234565 12 сотрудников ГРУ обвинили во вмешательстве в американские выборы. Кто они и что сделали (по версии США)“. Meduza (13-iyul 2018-yil). Qaraldi: 17-noyabr 2017-yil.
+
+↑ „Козачек, он же Kazak, он же blablabla1234565 12 сотрудников ГРУ обвинили во вмешательстве в американские выборы. Кто они и что сделали (по версии США)“. Meduza (13-iyul 2018-yil). Qaraldi: 17-noyabr 2017-yil.
+
+↑ 7,0 7,1 Auswärtiges Amt. „Auswärtiges Amt zum Hackerangriff auf den Deutschen Bundestag“ (de).  Auswärtiges Amt. 29-may 2020-yilda asl nusxadan arxivlandi. Qaraldi: 28-may 2020-yil.
+
+
+
+↑ „ЕС ввел санкции против начальника ГРУ и Fancy Bear — подразделения военной разведки России. Из-за кибератаки на бундестаг и Ангелу Меркель“. meduza.io (8 mart). 26-mart 2022-yilda asl nusxadan arxivlandi. Qaraldi: 22-oktabr 2020-yil.
+
+
+
+↑ „Operation Pawn Storm: Using Decoys to Evade Detection“.  Trend Micro (2014). 13-sentabr 2016-yilda asl nusxadan arxivlandi. Qaraldi: 11-oktabr 2016-yil.
+
+
+
+↑ „Российских хакеров обвинили во взломе сетей штаба Демократической партии“. 3-oktabr 2017-yilda asl nusxadan arxivlandi. Qaraldi: 16-yanvar 2018-yil.
+
+
+
+↑ Menn, Joseph. „Russian cyber attackers used two unknown flaws: security company“. Reuters (18-aprel 2015-yil). Qaraldi: 28-sentabr 2017-yil.
+
+↑ Kumar, Mohit. „APT28 — State Sponsored Russian Hacker Group“. The Hacker News (30-oktabr 2014-yil). Qaraldi: 30-iyun 2020-yil.
+
+↑ Mamiit, Aaron. „Meet APT28, Russian-backed malware for gathering intelligence from governments, militaries: Report“. Tech Times (30-oktabr 2014-yil). Qaraldi: 11-oktabr 2016-yil.
+
+↑ „APT28: A Window into Russia's Cyber Espionage Operations?“.  FireEye (27-oktabr 2014-yil). 11-sentabr 2016-yilda asl nusxadan arxivlandi. Qaraldi: 11-oktabr 2016-yil.
+
+
+
+↑ Weissman, Cale Guthrie. „France: Russian hackers posed as ISIS to hack a French TV broadcaster“. Business Insider (11-iyun 2015-yil). Qaraldi: 11-oktabr 2016-yil.
+
+↑ „Меркель не исключила санкций из-за атак «российских хакеров» на бундестаг“ (ru).  РБК. 20-may 2020-yilda asl nusxadan arxivlandi. Qaraldi: 13-may 2020-yil.
+
+
+
+↑ Deutsche Welle (www.dw.com).  DW | 28.05.2020“ (ru).  DW.COM. 14-iyun 2020-yilda asl nusxadan arxivlandi. Qaraldi: 28-may 2020-yil.
+
+
+
+↑ „Isil hackers seize control of France's TV5Monde network in 'unprecedented' attack“. Daily Telegraph (9-aprel 2015-yil). Qaraldi: 10-aprel 2015-yil.
+
+↑ „France probes Russian lead in TV5Monde hacking: sources“. Reuters (10-iyun 2015-yil). Qaraldi: 9-iyul 2015-yil.
+
+↑ „French media groups to hold emergency meeting after Isis cyber-attack“. The Guardian (9-aprel 2015-yil). Qaraldi: 10-aprel 2015-yil.
+
+↑ Doctorow, Cory. „Spear phishers with suspected ties to Russian government spoof fake EFF domain, attack White House“. Boing Boing (28-avgust 2015-yil). Qaraldi: 30-iyun 2020-yil.
+
+↑ „New Spear Phishing Campaign Pretends to be EFF“.  EFF (27-avgust 2015-yil). 7-avgust 2019-yilda asl nusxadan arxivlandi. Qaraldi: 15-may 2016-yil.
+
+
+
+↑ Елизавета Фохт. „Ответственность за взлом сетей Демократической партии взял хакер-одиночка“.  РБК (16-iyun 2016-yil). 16-iyun 2016-yilda asl nusxadan arxivlandi. Qaraldi: 25-iyul 0116-yil.
+
+
+
+↑ Hyacinth Mascarenhas. „Russian hackers 'Fancy Bear' likely breached Olympic drug-testing agency and DNC, experts say“. International Business Times (23-avgust 2016-yil). 21-aprel 2021-yilda asl nusxadan arxivlandi. Qaraldi: 25-avgust 2016-yil.
+
+
+
+↑ „Боксёр из РФ Миша Алоян сдал положительный допинг-тест в Рио — Хакеры“. 18-sentabr 2016-yilda asl nusxadan arxivlandi. Qaraldi: 18-sentabr 2016-yil.
+
+
+
+↑ „Хакеры выложили новые документы о принимающих допинг спортсменах, в том числе о боксёре Алояне“. 18-sentabr 2016-yilda asl nusxadan arxivlandi. Qaraldi: 18-sentabr 2016-yil.
+
+
+
+↑ „WADA разрешало принимать допинг сестрам Уильямс и гимнастке Байлз“. 13-sentabr 2016-yilda asl nusxadan arxivlandi. Qaraldi: 18-sentabr 2016-yil.
+
+
+
+↑ „Байлз заявила, что ей нечего стыдиться из-за применения лекарств от СДВГ“. 14-sentabr 2016-yilda asl nusxadan arxivlandi. Qaraldi: 18-sentabr 2016-yil.
+
+
+
+↑ „Fancy Bears выложили пятую часть документов WADA“. 24-sentabr 2016-yilda asl nusxadan arxivlandi. Qaraldi: 24-sentabr 2016-yil.
+
+
+
+↑ „Хакеры узнали о 200 американских спортсменах с разрешением на приём допинга“. 9-oktabr 2016-yilda asl nusxadan arxivlandi. Qaraldi: 8-oktabr 2016-yil.
+
+
+
+↑ „Макларен оказался орудием против России“. 31-oktabr 2020-yilda asl nusxadan arxivlandi. Qaraldi: 10-yanvar 2018-yil.
+
+
+
+
+
+
+

@@ -1,0 +1,242 @@
+ABAP/4
+
+Paradigmalari
+
+obyektga yo'naltirilgan dasturlash tili, structured, imperativeMuallifi
+
+SAP SETuzilgan yili
+
+1983 (40 yil avval) (1983)Operatsion tizim
+
+Cross-platformVebsayt
+
+community.sap.com/topics/abapBunga asos boʻlgan tillar
+Objective-C,[manba kerak] COBOL,[manba kerak] SQL[manba kerak]
+
+ABAP (Advanced Business Application Programming, asli Allgemeiner Berichts-Aufbereitungs-Prozessor, nemischa"umumiy hisobot tayyorlash protsessori"[1]) nemis dasturiy taʼminot kompaniyasi SAP SE tomonidan yaratilgan yuqori darajadagi dasturlash tilidir. Hozirda u Java bilan bir qatorda biznes ilovalarini yaratish uchun SAP NetWeaver platformasining bir qismi boʻlgan SAP NetWeaver Application Server dasturini dasturlash tili sifatida joylashtirilgan.
+
+
+Kirish[tahrir | manbasini tahrirlash]
+ABAP -bu 1980-yillarda birinchi marta ishlab chiqilgan koʻplab ilovalarga xos toʻrtinchi avlod tillaridan biri (4GL). Bu dastlab SAP R/2 uchun hisobot tili boʻlib, yirik korporatsiyalarga materiallarni boshqarish, moliyaviy va boshqaruv hisobi uchun asosiy ish dasturlarini yaratish imkonini beruvchi platforma edi.
+ABAP ilgari A llgemeiner B erichts- A ufbereitungs- P rozessor, nemischa „umumiy hisobot tayyorlash protsessor“ soʻzining qisqartmasi boʻlgan, ammo keyinroq boʻlgan.  inglizcha A ilgʻor B usiness A ilova P rogramming deb oʻzgartirildi. ABAP har bir platforma, til va birliklarni qoʻllab-quvvatlaydigan asosiy maʼlumotlar bazasi darajasi (lar)idan yuqori darajadagi abstraktsiyani taʼminlovchi Mantiqiy maʼlumotlar bazalari (LDB) kontseptsiyasini oʻz ichiga olgan birinchi tillardan biri edi.
+ABAP tili dastlab ishlab chiquvchilar tomonidan SAP R/3 platformasini ishlab chiqish uchun ishlatilgan. Bundan tashqari, u SAP mijozlari tomonidan SAP ilovalarini yaxshilash uchun foydalanish uchun moʻljallangan - mijozlar ABAP dasturlash bilan maxsus hisobotlar va interfeyslarni ishlab chiqishi mumkin. Til dasturlash tajribasiga ega boʻlgan koʻproq texnik mijozlarga moʻljallangan edi.
+ABAP R/3 mijoz-server tizimi uchun dasturlarni yaratish tili boʻlib qolmoqda, uni SAP birinchi marta 1992-yilda chiqargan. 1990-yillarda kompyuter texnikasi rivojlanib borar ekan, SAPning koʻproq ilovalari va tizimlari ABAPda yozila boshlandi. 2001-yilga kelib, eng asosiy funksiyalardan tashqari hammasi ABAP da yozilgan. 1999-yilda SAP ABAP uchun ABAP Objects deb nomlangan ob'ektga yoʻnaltirilgan kengaytmani R/3 reliz 4.6 bilan birga chiqardi.
+SAPning hozirgi NetWeaver ishlab chiqish platformasi ham ABAP, ham Javani qoʻllab-quvvatlaydi.
+ABAP biznes ilovalari, operatsion tizim va maʼlumotlar bazasi oʻrtasida abstraktsiyaga ega. Bu ilovalarning toʻgʻridan-toʻgʻri maʼlum bir server yoki maʼlumotlar bazasi platformasiga bogʻliq emasligini va osongina bir platformadan boshqasiga koʻchirilishini taʼminlaydi.
+SAP Netweaver hozirda UNIX (AIX, HP-UX, Solaris, Linux), Microsoft Windows, IBM System i (iSeries, AS/400) da i5/OS va IBM System z (avvalgi zSeries, S) da z/OS da ishlaydi. /390). Qoʻllab-quvvatlanadigan maʼlumotlar bazalari - HANA, SAP ASE (sobiq Sybase), IBM Db2, Informix, MaxDB, Oracle va Microsoft SQL Server (Informix-ni qoʻllab-quvvatlash SAP Basis 7.00 versiyasida toʻxtatilgan)[2].
+
+ABAP ish vaqti muhiti[tahrir | manbasini tahrirlash]
+Barcha ABAP dasturlari SAP maʼlumotlar bazasida joylashgan. Ular Java yoki C++ dasturlari kabi alohida tashqi fayllarda saqlanmaydi. Maʼlumotlar bazasida barcha ABAP kodi ikki shaklda mavjud: ABAP Workbench vositalari yordamida koʻrish va tahrirlash mumkin boʻlgan manba kodi; va yaratilgan kod, Java baytkodi bilan biroz solishtirish mumkin boʻlgan ikkilik vakillik. ABAP dasturlari SAP yadrosining bir qismi boʻlgan ish vaqti tizimi nazorati ostida amalga oshiriladi. Ish vaqti tizimi ABAP bayonotlarini qayta ishlash, ekranlarning oqim mantiqini boshqarish va hodisalarga javob berish uchun javobgardir (masalan, foydalanuvchi ekran tugmachasini bosgan); bu jihatdan uni Java VM bilan solishtirish mumkin boʻlgan Virtual Mashina sifatida koʻrish mumkin. ABAP ish vaqti tizimining asosiy komponenti maʼlumotlar bazasi interfeysi boʻlib, u maʼlumotlar bazasidan mustaqil ABAP bayonotlarini („Ochiq SQL“) asosiy DBMS („Native SQL“) tomonidan tushuniladigan bayonotlarga aylantiradi. Maʼlumotlar bazasi interfeysi ABAP dasturlari nomidan relyatsion maʼlumotlar bazasi bilan barcha aloqalarni amalga oshiradi; Shuningdek, u dastur serverining mahalliy xotirasida jadvallarni buferlash va tez-tez foydalaniladigan maʼlumotlar kabi qoʻshimcha funksiyalarni oʻz ichiga oladi.
+
+Maʼlumotlar turlari va oʻzgaruvchilar:[tahrir | manbasini tahrirlash]
+ABAP oʻrnatilgan maʼlumotlar turlari toʻplamini taqdim etadi. Bundan tashqari, ABAP lugʻatida aniqlangan har bir tuzilma, jadval, koʻrinish yoki maʼlumotlar elementi oʻzgaruvchini kiritish uchun ishlatilishi mumkin. Shuningdek, ob'ekt sinflari va interfeyslardan turlar sifatida foydalanish mumkin.
+Oʻrnatilgan maʼlumotlar turlari quyidagilardir:
+
+
+
+Turi
+
+Tavsif
+
+
+I
+
+Butun son
+
+
+P
+
+Paketli kasr
+
+
+F
+
+Suzuvchi nuqta
+
+
+N
+
+Raqamli belgi
+
+
+C
+
+Xarakter
+
+
+D
+
+Sana
+
+
+T
+
+Vaqt
+
+
+X
+
+Oʻn oltilik (xom bayt)
+
+
+STRING
+
+Oʻzgaruvchan uzunlikdagi qator
+
+
+XSTRING
+
+Oʻzgaruvchan uzunlikdagi xom bayt massivi
+
+Sana oʻzgaruvchilari yoki konstantalari (D turi) 1-yanvardan boshlab kunlar sonini oʻz ichiga oladi. Vaqt oʻzgaruvchilari yoki konstantalari (T turi) yarim tundan boshlab soniyalar sonini oʻz ichiga oladi. Ikkala turning oʻziga xos xususiyati shundaki, ularga butun sonlar sifatida ham, belgilar qatorlari sifatida ham kirish mumkin (sana uchun „YYYYMMDD“ ichki formati va vaqt uchun „hhmmss“ bilan), ular sana va vaqtni qayta ishlash uchun ishlatilishi mumkin. Misol uchun, quyidagi kod parchasi oldingi oyning oxirgi kunini hisoblab chiqadi (eslatma: SY-DATUM joriy sanani oʻz ichiga olgan tizim tomonidan belgilangan oʻzgaruvchidir):DATA LAST_EOM  TYPE D. "last end-of-month date
+
+* Start from today's date
+ LAST_EOM = SY-DATUM.
+* Set characters 6 and 7 (0-relative) of the YYYYMMDD string to "01",
+* giving the first day of the current month
+ LAST_EOM+6(2) = '01'.
+* Subtract one day
+ LAST_EOM = LAST_EOM - 1.
+
+ WRITE: 'Last day of previous month was', LAST_EOM.
+
+Xususiyatlari[tahrir | manbasini tahrirlash]
+
+
+SAP NW ABAP
+
+SQL qoʻshilishi
+
+SQL toʻplami operatsiyalari
+
+SELECT bandlari
+
+
+7.40 SP05
+
+
+ICHKI QOʻSHILMA
+CHAP TAShQI BOSHISH
+OʻNG TAShQI QOʻSHILMA
+
+
+UNION
+HAMMA ittifoq
+
+
+QAYERDA
+GURUH BOʻYICHA
+EGA
+AS
+
+
+7.40 SP08
+
+
+
+
+
+
+
+
+7.50
+
+
+
+
+
+
+
+
+7.51
+
+
+KROSS QOʻSHILING
+
+
+
+
+
+
+
+SAP NW ABAP
+
+Harflar
+
+Arifmetik operatorlar
+
+Shartli ifodalar
+
+
+7.40 SP05
+
+
+SELECT roʻyxatida, masalan, FieldName sifatida literal
+RHS qiymati sifatida
+
+
++
+-
+∗
+
+
+Mantiqiy operatorlar
+EMAS, VA, YOKI
+Taqqoslash operatorlari
+ORTADA, =, <>, <, >, <=, >=, LAYK
+IS [NOT] NULL (Faqat WHERE holatida)
+
+
+7.40 SP08
+
+
+
+
+/ (Float asosidagi boʻlinma)
+
+
+
+
+7.50
+
+
+
+
+
+
+
+
+7.51
+
+
+
+
+
+
+RHS qiymati sifatida ishlaydi
+
+Tarixi[tahrir | manbasini tahrirlash]
+Quyidagi roʻyxat faqat ABAP tili tarixidagi baʼzi muhim bosqichlar haqida taxminiy maʼlumot beradi. Batafsil maʼlumot uchun ABAP - Relizga xos o'zgarishlarga qarang.
+
+Yana qarang[tahrir | manbasini tahrirlash]
+ERP dasturiy taʼminot
+Xavfsiz tarmoq aloqalari
+SAP tizimga kirish chiptasi
+Yagona kirish
+Manbalar[tahrir | manbasini tahrirlash]
+
+
+↑ „"ABAP History". SAP-technical.com“. 15-noyabr 2017-yilda asl nusxadan arxivlandi. Qaraldi: 9-avgust 2010-yil.
+
+
+
+↑ See Product Availability Matrix Wayback Machine saytida arxivlandi (28-sentabr 2016-yil).
+
+
+Havolalar[tahrir | manbasini tahrirlash]
+ABAP - Kalit so'z hujjatlari
+SAP yordam portali
+SAP Community Network (SCN) da ABAP Development muhokamalari, bloglar, hujjatlar va videolar
+
+
+

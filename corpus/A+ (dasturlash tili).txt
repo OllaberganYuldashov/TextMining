@@ -1,0 +1,51 @@
+A+
+
+
+Paradigmalari
+
+MassivMuallifi
+
+Arthur WhitneyTuzilgan yili
+
+1988 (34 yil avval) (1988)Litsenziya
+
+GNU General Public LicenseFayl kengaytmalari
+
+.., .+, .a, .m[1]Vebsayt
+
+aplusdev.orgBunga asos boʻlgan tillar
+APLBuning asosida tuzilgan tillar
+K
+
+A+ massiv dasturlash tili boʻlib, A dasturlash tilidan kelib chiqqan[2] boʻlib, u oʻz navbatida 1988-yilda APL oʻrniga yaratilgan[3]. Arthur Whitney dasturni A+ ning A qismini ishlab chiqdi, Morgan Stanleydagi boshqa ishlab chiquvchilar uni kengaytirib, grafik foydalanuvchi interfeysi va boshqa til xususiyatlarini qoʻshdilar. A+ yuqori darajadagi, interaktiv, talqin qilinadigan til boʻlib, raqamli intensiv ilovalar uchun moʻljallangan. Dastur moliyaviy ilovalarda ham mavjud boʻlgan. A+ koʻplab Unix versiyalarida va Linuxda ishlaydi. Bu GNU General Public License ostida chiqarilgan bepul va ochiq kodli dasturiy taʼminot hisoblanadi.
+A+ kengaytirilgan funksiyalar va operatorlar toʻplamini, vidjetlar va oʻzgaruvchilarni avtomatik sinxronlashtirishga ega grafik foydalanuvchi interfeysini, oʻzgaruvchilar va hodisalar bilan bogʻliq funksiyalarni asinxron tarzda bajarishni, foydalanuvchi tomonidan tuzilgan pastki dasturlarni dinamik yuklashni va boshqa funksiyalarni taqdim etadi. Yangi foydalanuvchi grafik interfeysi barcha qoʻllab-quvvatlanadigan platformalarga yoʻnaltirilmagan.
+A+ tili APL tilidagi quyidagi oʻzgarishlarni amalga oshiradi:
+
+A+ funksiyasi toʻqqiztagacha rasmiy parametrga ega boʻlishi mumkin
+A+ kodli bayonotlar nuqta-vergul bilan ajratiladi. Shuning uchun bitta bayonot ikki yoki undan ortiq qatorlarga boʻlinishi mumkin
+Funksiya yoki operatorning aniq natijasi oxirgi bajarilgan operatorning natijasidir
+A+ global oʻzgaruvchi (qaram oʻzgaruvchi) va argumentsiz funksiyaga oʻxshash obyektni amalga oshiradi. Qiymatlar global oʻzgaruvchiga oʻxshash tarzda aniq oʻrnatilishi va havola qilinishi va ular mos keladigan taʼrif orqali ham oʻrnatilishi mumkin.
+Interaktiv A+ ishlab chiqish birinchi navbatda Xemacs muharririda kengaytmalar orqali amalga oshiriladi. A+ kodi asli APL belgilaridan foydalanganligi sababli, A+ ni koʻrsatish oʻsha maxsus belgilardan iborat shriftni talab qiladi. Buning uchun veb-saytda kapl nomli shrift taqdim etilgan.
+Arthur Whitney K nomli xususiy massiv tilini yaratishga kirishgan. J kabi, K ham APL belgilar toʻplamini oʻtkazib yuboradi. Unda A+ ning idrok etilgan baʼzi murakkabliklari, masalan, bayonotlarning mavjudligi va sintaksisning ikki xil rejimi mavjud emas.
+
+Manbalar[tahrir | manbasini tahrirlash]
+
+
+↑ „A+ Reference: Appendix: Quick Reference“. 24-fevral 2020-yilda asl nusxadan arxivlandi. Qaraldi: 6-fevral 2020-yil.
+
+
+
+↑ „A - APL Wiki“.
+
+
+
+↑ „A+: History of A+“. www.aplusdev.org. 25-sentabr 2018-yilda asl nusxadan arxivlandi. Qaraldi: 18-yanvar 2019-yil.
+
+
+
+
+Havolalar[tahrir | manbasini tahrirlash]
+Rasmiy sayti, aplusdev.org
+
+
+

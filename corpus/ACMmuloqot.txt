@@ -1,0 +1,20 @@
+ACM  muloqot (ACM Communications, CACM) — Hisoblash mashinalari assotsiatsiyasi tomonidan chiqarilgan jurnal . U 1958-yilda tashkil etilgan, [1] Saul Rozen uning birinchi bosh muharriri etib tayinlangan. [2] Jurnal eng qadimgi va eng hurmatli kompyuter nashrlaridan biridir.
+
+Mashhur maqolalari[tahrir | manbasini tahrirlash]
+Hoare, CAR 1961. Bo'lim: Algoritm 63, Tez tartiblash: Algoritm 64 va Toping: Algoritm 65.
+Dijkstra, EW 1968. Zararli deb hisoblangan bayonotga o'tish.
+Ritchie, DM va Tompson, KL 1974. UNIX vaqt almashish tizimi.
+Codd, EF 1983. Katta umumiy ma'lumotlar banklari uchun ma'lumotlarning relyatsion modeli.
+Havolalar[tahrir | manbasini tahrirlash]
+
+
+↑ Gotlieb, Calvin C. (1 January 2008). "A time to retrospect and prospect". Communications of the ACM 51 (1):  26–29. doi:10.1145/1327452.1327469. ISSN 0001-0782. 
+
+↑ Gotlieb, Calvin C. (1 January 2008). "A time to retrospect and prospect". Communications of the ACM 51 (1):  26–29. doi:10.1145/1327452.1327469. ISSN 0001-0782. 
+
+
+tashqi havola[tahrir | manbasini tahrirlash]
+Bosh sahifa
+
+
+

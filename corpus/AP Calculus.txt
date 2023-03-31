@@ -1,0 +1,588 @@
+ 
+Advanced Placement (AP) Calculus (shuningdek, AP Calc, Calc AB / Calc BC yoki oddiygina AB / BC nomi bilan ham tanilgan) Amerika notijorat tashkiloti Kollej kengashi tomonidan taqdim etiladigan ikkita alohida Kengaytirilgan joylashtirish hisobi kurslari va imtihonlar toʻplamidir. AP Calculus AB limitlar, hosilalar va integrallarga asosiy kirishlarni qamrab oladi. AP Calculus BC barcha AP Calculus AB mavzularini va qoʻshimcha mavzularni (jumladan, qismlar boʻyicha integratsiya, Teylor seriyasi, parametrik tenglamalar, vektor hisobi, qutbli koordinata funksiyalari va egri interpolatsiyalar kabi ilgʻor integratsiya usullarini) oʻz ichiga oladi.
+
+
+AP hisobi AB[tahrir | manbasini tahrirlash]
+AP Calculus AB — bu Advanced Placement hisobi (Kengaytirilgan joylashtirish hisoblari) kursi. Bu anʼanaviy ravishda hisob-kitobdan oldin olinadi va koʻpchilik maktablarda taklif qilinadigan oddiy hisob darsidan tashqari birinchi hisob kursi hisoblanadi. Matematika boʻyicha Pre-Advanced Placement (soddalashtirilgan hisob-kitob) kursi talabalarni keyingi Advanced Placement (mukammal) darslari va imtihonlariga tayyorlashga yordam beradi.
+
+Maqsadi[tahrir | manbasini tahrirlash]
+College Board (Kollej kengashi)ga koʻra:
+
+
+
+“
+
+Hisoblash bo'yicha AP kursi kollej va universitetlardagi hisob-kitob kurslari bilan taqqoslanadigan to'liq o'rta maktab o'quv yilidan iborat. Hisoblash bo'yicha AP kursini olgan talabalar oliy o'quv yurtlaridan kollej krediti, kollejga joylashish yoki ikkalasini ham olishga ega bo'ladilar.
+AP dasturi ikkita hisob-kitob kursi va har bir kurs uchun imtihon uchun texnik xususiyatlarni o'z ichiga oladi. Ikki kurs va ikkita tegishli imtihon Calculus AB va Calculus BC deb belgilangan. Calculus AB ilg'or matematik qobiliyatiga ega bo'lgan talabalar uchun o'quv dasturini tashkil eta oladigan har qanday maktab tomonidan AP kursi sifatida taklif qilinishi mumkin.[1]
+
+
+”
+
+
+Asosiy tushunchalar[tahrir | manbasini tahrirlash]
+Bu kurs farqlash va integratsiyani oʻrganish va qoʻllash, shuningdek, chegaralar, asimptotlar va uzluksizlikni oʻz ichiga olgan grafik tahlil kiradi.[2] AP Calculus AB kursi odatda kollej hisobining bir semestriga teng.[3]
+
+Grafiklarni tahlil qilish (xulq-atvorni bashorat qilish va tushuntirish)
+Funksiyalar chegaralari (bir va ikki tomonlama)
+Asimptotik va chegaralanmagan xatti-harakatlar
+Davomiylik
+Hosilalar
+Konsepsiya
+Bir nuqtada
+Funksiya sifatida
+Ilovalar
+Yuqori tartibli hosilalar
+Texnikalar
+Integrallar
+Izohlar
+Xususiyatlari
+Ilovalar
+Texnikalar
+Raqamli taxminlar
+Hisoblashning asosiy teoremasi
+Antidifferensiatsiya
+L’Hopital qoidasi
+Ajraladigan differensial tenglamalar
+
+
+
+
+Hisob
+
+2017[4]
+
+2018[5]
+
+2019
+
+2020[6]
+
+2021[7]
+
+2022[8]
+
+
+5
+
+18,7 %
+
+19,4 %
+
+19,1 %
+
+19,5 %
+
+18 %
+
+20,2 %
+
+
+4
+
+18 %
+
+17,3 %
+
+18,7 %
+
+20,9 %
+
+14 %
+
+16,1 %
+
+
+3
+
+20,8 %
+
+21 %
+
+20,6 %
+
+21,0 %
+
+19 %
+
+19,1 %
+
+
+2
+
+22 %
+
+22,4 %
+
+23,3 %
+
+24,1 %
+
+25 %
+
+22,7 %
+
+
+1
+
+20,4 %
+
+20 %
+
+18,3 %
+
+14,5 %
+
+24 %
+
+22 %
+
+
+3 yoki undan yuqori balllarning %
+
+57,5 %
+
+57,7 %
+
+58,4 %
+
+61,4 %
+
+51 %
+
+55,4 %
+
+
+Oʻrtacha koʻrsatkich
+
+2.93
+
+2.94
+
+2.97
+
+3.07
+
+2.77
+
+
+Standard oʻrtacha ulushi
+
+1.40
+
+1.40
+
+1.38
+
+1.36
+
+1.42
+
+
+Talabalar soni
+
+316 099
+
+308 538
+
+300 659
+
+266 430
+
+249 762
+
+
+AP hisob-kitobi BC[tahrir | manbasini tahrirlash]
+Maqsadi[tahrir | manbasini tahrirlash]
+Kollej kengashi maʼlumotlariga koʻra,
+
+
+
+“
+
+Calculus BC - bu bitta o'zgaruvchining funksiyalarini hisoblash bo'yicha to'liq yillik kurs. U Calculus AB bo'yicha o'tilgan barcha mavzularni va qo'shimcha mavzularni o'z ichiga oladi.[1]
+
+”
+
+
+Asosiy tushunchalar[tahrir | manbasini tahrirlash]
+AP Calculus BC AP Calculus AB da yoritilgan barcha mavzularni, shuningdek quyidagilarni oʻz ichiga oladi:
+
+Seriyalar uchun konvergensiya testlari
+Teylor seriyasi
+Parametrik tenglamalar
+Polar funksiyalar (shu jumladan qutb koordinatalaridagi yoy uzunligi va maydonni hisoblash)
+Integratsiya yordamida yoy uzunligini hisoblash
+Qismlar boʻyicha integratsiya
+Notoʻgʻri integrallar
+Logistik oʻsish uchun differentsial tenglamalar
+Ratsional funksiyalarni integrallashda qisman kasrlardan foydalanish[9]
+
+
+Hisob
+
+2017
+
+2018
+
+2019
+
+2020[10]
+
+2021[11]
+
+2022[12]
+
+
+5
+
+42,6 %
+
+40,4 %
+
+43,0 %
+
+44,6 %
+
+38,3 %
+
+40,9 %
+
+
+4
+
+18,1 %
+
+18,6 %
+
+18,5 %
+
+17,6 %
+
+16,5 %
+
+15,5 %
+
+
+3
+
+19,9 %
+
+20,7 %
+
+19,5 %
+
+19,4 %
+
+20,4 %
+
+20,5 %
+
+
+2
+
+14,3 %
+
+14,6 %
+
+13,9 %
+
+14,1 %
+
+18,2 %
+
+16,6 %
+
+
+1
+
+5,3 %
+
+5,6 %
+
+5,2 %
+
+4,3 %
+
+6,6 %
+
+6,5 %
+
+
+3 yoki undan yuqori balllarning %
+
+80,6 %
+
+79,7 %
+
+81,0 %
+
+81,6 %
+
+75,2 %
+
+76,9 %
+
+
+Oʻrtacha koʻrsatkich
+
+3.79
+
+3.73
+
+3.81
+
+3.84
+
+3.61
+
+
+Standard oʻrtacha ulushi
+
+1.28
+
+1.28
+
+1.27
+
+1.25
+
+1.33
+
+
+Talabalar soni
+
+132 514
+
+139 376
+
+139,195
+
+127 864
+
+124 335
+
+
+AB alohida yoʻnalishlar boʻyicha ball taqsimoti[tahrir | manbasini tahrirlash]
+
+
+Hisob
+
+2017
+
+2018
+
+2019[13]
+
+
+5
+
+48,4 %
+
+48,7 %
+
+49,5 %
+
+
+4
+
+22,5 %
+
+20,2 %
+
+23,5 %
+
+
+3
+
+14,1 %
+
+15,9 %
+
+13,2 %
+
+
+2
+
+10 %
+
+9,9 %
+
+9,7 %
+
+
+1
+
+4,9 %
+
+5,3 %
+
+4,2 %
+
+
+3 yoki undan yuqori balllarning %
+
+85 %
+
+84,8 %
+
+86,2 %
+
+
+Oʻrtacha koʻrsatkich
+
+4
+
+3.97
+
+4.05
+
+
+Standard oʻrtacha ulushi
+
+1.21
+
+1.23
+
+1.18
+
+
+Talabalar soni
+
+132 505
+
+139 376
+
+139,195
+
+AP imtihoni[tahrir | manbasini tahrirlash]
+College Board (Kollej kengashi) AP Calculus AB imtihonini AP Calculus BC imtihoni bilan bir vaqtga moʻljallaydi, shu sababli talaba bir oʻquv yilida ikkala testni ham topshira olmaydi, ammo Kollej Kengashi Calculus AB ni Calculus BC uchun zaruriy sinf degan talabni qoʻymaydi. Baʼzi maktablar buni amalga oshiradilar, ammo boshqalari faqat BC uchun zaruriy shart sifatida hisob-kitobni talab qiladi. Kollej kengashi tomonidan berilgan AP mukofotlari ikkala imtihonni ham hisobga oladi. Biroq, ular BC imtihonining AB boʻyicha qoʻyilgan alohida yoʻnalishlardan olingan ball qismini hisobga olmaydilar.[14]
+
+Tuzilishi[tahrir | manbasini tahrirlash]
+AB va BC imtihonlarining tuzilmalari bir xil. Ikkala imtihon ham uch soat-u oʻn besh daqiqa davom etadi, jami 45 ta koʻp tanlovli savollar va oltita ochiq yozma savollaridan iborat. Ular, odatda, may oyining seshanba kuni ertalab tashkillashtiriladi.[15]
+
+
+
+
+
+Koʻp tanlov, I boʻlim A qism
+
+Koʻp tanlov, I boʻlim B qism
+
+Erkin javob, II boʻlim A qism
+
+Erkin javob, II boʻlim B qism
+
+
+# Savollar soni
+
+30
+
+15
+
+2
+
+4
+
+
+Berilgan vaqt
+
+60 daqiqa
+
+45 daqiqa
+
+30 daqiqa
+
+60 daqiqa
+
+
+Kalkulyatordan foydalanish
+
+Yoʻq
+
+Ha
+
+Ha
+
+Yoʻq
+
+Koʻp tanlov boʻlimining ikkita qismi vaqt bilan belgilanadi va mustaqil ravishda olinadi.
+Talabalar „Ochiq savollar“ boʻlimi davomida 30 daqiqa oʻtgandan soʻng kalkulyatorlardan foydalanishni toʻxtatishlari kerak va faqat shu vaqtda II boʻlim „B“ boʻlimini boshlashi mumkin. Biroq, talabalar „Ochiq savollar“ boʻlimi davomida II boʻlim A boʻlimining keyingi yarmida kalkulyatorsiz ishlashda davom etishlari mumkin.
+
+Baholash tartibi[tahrir | manbasini tahrirlash]
+Koʻp tanlov boʻlimi kompyuter tomonidan baholanadi, har bir toʻgʻri javobga 1 ball beriladi, oʻtkazib yuborilgan va notoʻgʻri javoblar ballga taʼsir qilmaydi. Tuzatilgan koʻp tanlovli ballni hisoblash uchun jami toʻplangan ballar 1,2 ga koʻpaytiriladi.[16]
+Ochiq yozma savollar boʻlimi har yili iyun oyida yuzlab oʻqituvchilar tomonidan baholanadi.[17] Toʻplangan ball keyin kompozit ball olish uchun tuzatilgan koʻp tanlov balliga qoʻshiladi. Bu jami oʻsha yilgi imtihon uchun jamlangan ballar shkalasi bilan taqqoslanadi va 1 dan 5 gacha boʻlgan AP balliga aylantiriladi.
+Calculus BC imtihonida kirish bogʻlangʻich hisobining asosiy mavzulari boʻyicha malakasini aks ettirish uchun AB ning har bir yoʻnalish boʻyicha olingan ballga kiritilgan. AB har bir yoʻnalish boʻyicha olingan ball faqat AB materialiga tegishli savollarga berilgan toʻgʻri javoblar soniga asoslanadi.
+
+Foydalanilgan adabiyotlar[tahrir | manbasini tahrirlash]
+
+
+↑ 1,0 1,1 „2006, 2007 AP Calculus Course Description“.  College Board (2005). 20-iyul 2008-yilda asl nusxadan arxivlandi. Qaraldi: 29-noyabr 2008-yil.
+
+
+
+↑ „Topic Outline“. Calculus AB.  College Board. 19-dekabr 2008-yilda asl nusxadan arxivlandi. Qaraldi: 29-noyabr 2008-yil.
+
+
+
+↑ „Course Descriptions“.
+
+
+
+↑ College Board. „AP Calculus AB May 2017 Score Distributions“. 26-mart 2018-yilda asl nusxadan arxivlandi. Qaraldi: 22-iyun 2017-yil.
+
+
+
+↑ https://secure-media.collegeboard.org/digitalServices/pdf/research/2018/Student-Score-Distributions-2018.pdf [formatsiz URL PDF]
+
+↑ „Student Score Distributions“. Qaraldi: 9-iyun 2021-yil.
+
+
+
+↑ „AP Calculus AB Exam: 2021 Results – All Access | College Board“.
+
+
+
+↑ „The 2022 AP Calculus BC scores“. Qaraldi: 7-iyul 2022-yil.
+
+
+
+↑ „Topic Outline“. Calculus BC.  College Board. 19-dekabr 2008-yilda asl nusxadan arxivlandi. Qaraldi: 29-noyabr 2008-yil.
+
+
+
+↑ „STUDENT SCORE DISTRIBUTIONS“. 19-avgust 2013-yilda asl nusxadan arxivlandi. Qaraldi: 9-iyun 2021-yil.
+
+
+
+↑ „AP Calculus BC Exam: 2021 Results – All Access | College Board“.
+
+
+
+↑ „The 2022 AP Calculus BC scores“. Qaraldi: 7-iyul 2022-yil.
+
+
+
+↑ „STUDENT SCORE DISTRIBUTIONS“. Qaraldi: 9-iyul 2020-yil.
+
+
+
+↑  The Princeton Review“ (inglizcha). www.princetonreview.com. Qaraldi: 20-avgust 2018-yil.
+
+
+
+↑ „The Exam“. Calculus AB.  College Board. 19-dekabr 2008-yilda asl nusxadan arxivlandi. Qaraldi: 29-noyabr 2008-yil.
+
+
+
+↑ „2006, 2007 AP Calculus Course Description“.  College Board (2005). 20-iyul 2008-yilda asl nusxadan arxivlandi. Qaraldi: 29-noyabr 2008-yil.
+
+
+
+↑ „AP: The Grade-Setting Process“.  College Board. 18-dekabr 2008-yilda asl nusxadan arxivlandi. Qaraldi: 29-noyabr 2008-yil.
+
+
+
+
+
+
+

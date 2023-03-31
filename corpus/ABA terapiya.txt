@@ -1,0 +1,574 @@
+Amaliy xulq-atvor tahlili (ABA), shuningdek, xulq-atvor muhandisligi deb ham ataladi[1][2]. ABA ijtimoiy ahamiyatga ega xatti-harakatni oʻzgartirish uchun respondent va operant konditsionerlik tamoyillariga asoslangan empirik yondashuvlarni qoʻllaydigan psixologik aralashuvdir[3]. Bu xulq-atvor tahlilining amaliy shakli bo’lib, boshqa ikki shakl radikal bixeviorizm (yoki fan falsafasi) va xatti-harakatlarning eksperimental tahlilini (yoki asosiy eksperimental laboratoriya tadqiqotlari) o’z ichiga oladi[3].
+Amaliy xatti-harakat tahlili nomi xatti-harakatni oʻzgartirish atamasi oʻrnini egalladi, chunki avvalgi yondashuv xatti-harakatlarning atrof-muhit bilan oʻzaro taʼsirini aniqlamasdan xatti-harakatni oʻzgartirishga harakat qilishni taklif qildi. Bundan farqli oʻlaroq, ABA, birinchi navbatda, maqsadli xatti-harakatlar va atrof-muhit oʻrtasidagi funksional munosabatlarni baholash orqali xatti-harakatni oʻzgartiradi[4][5][6]. Bundan tashqari, yondashuv koʻpincha gʻayritabiiy xatti-harakatlar uchun ijtimoiy jihatdan maqbul alternativlarni ishlab chiqishga intiladi[6].
+Garchi asosiy xizmat koʻrsatuvchi provayderlar autizm teripayalariga ixtisoslashgan boʻlsada[7], ABA bir qator boshqa sohalarda ham qoʻllanilgan[8]. Maktab miqyosida ijobiy xulq-atvorni qoʻllab-quvvatlash, sinfda oʻqitish, autizm uchun tuzilgan va tabiiy erta xatti-harakatlar aralashuvi, bolalarni oziqlantirish terapiyasi, miya shikastlanishini reabilitatsiya qilish[9], demensiya, fitnes mashgʻulotlari, maslahatlar, giyohvand moddalarni isteʼmol qilish muammolari, fobiyalar, tiklar va tashkiliy xatti-harakatlarni boshqarish kabilar shu jumladandir.
+ABA munozarali, ayniqsa autizm huquqlari harakati aʼzolari uchun bir qator sabablarga koʻra[10]. ABA qabul qilish oʻrniga normallikni taʼkidlaydi, degan fikr bor. Shuningdek, ABA va uning oʻtmishdoshlarining baʼzi versiyalarida elektr toki urishi kabi vositalardan foydalanish tarixi mavjud[11][12][13][14]. ABA nisbatan zaif dalillar bazasi tufayli ham bahsli mavzudir[15][16].
+
+
+Taʼrif[tahrir | manbasini tahrirlash]
+ABA — bu xatti-harakatlarda kuzatiladigan oʻzgarishlarni keltirib chiqaradigan protseduralarni ishlab chiqishga bagʻishlangan amaliy fan[3]. U asosiy eksperimental laboratoriya tadqiqotlariga qaratilgan xulq-atvorning eksperimental tahlilidan ajralib turishi kerak[8], lekin u shunday tadqiqotlar tomonidan ishlab chiqilgan prinsiplardan, xususan, operant konditsionerlik va klassik konditsionerlikdan foydalanadi. Xulq-atvor tahlili radikal bixeviorizm nuqtai nazarini qabul qiladi, fikrlar, his-tuygʻular va boshqa yashirin faoliyatni ochiq javoblar bilan bir xil qoidalarga boʻysunadigan xatti-harakatlar sifatida koʻrib chiqadi. ABA xulq-atvorni oʻzgartirishning kontseptual asosi xulq-atvorni oʻzgartirish tartib-qoidalarini ochiq-oydin xulq-atvor bilan cheklaydigan uslubiy bixeviorizmdan uzoqlashishni anglatadi.
+Xulq-atvor tahlilchilari, shuningdek, xulq-atvor haqidagi fan ijtimoiy fandan farqli ravishda tabiiy fan boʻlishi kerakligini taʼkidlaydilar[17]. Shunday qilib, xulq-atvor tahlilchilari „gipotetik konstruksiyalar“ga murojaat qilmasdan, xulq-atvorning atrof-muhit bilan kuzatilishi mumkin boʻlgan aloqasiga, shu jumladan, oldingi holato va oqibatlariga eʼtibor qaratadilar[18].
+
+Tarix[tahrir | manbasini tahrirlash]
+Qoʻshimcha maʼlumotlar: Radikal bixeviorizm, Xulq-atvorning eksperimental tahlili, Xulq-atvorni o'zgartirish, Operant konditsionerlik, B. F. Skinner, Charles Ferster, Nathan Azrin, Jack Michael, va Donald M. Baer
+ABAning tarixi Teodoro Ayllon va Jack Michaellning „Psixiatriya hamshirasi xulq-atvor muhandisi sifatida“ (1959) tadqiqotiga borib taqaladi. Tadqiqot “Journal of the Experimental Analysis of Behavior” ("Xulq-atvorning eksperimental tahlili") jurnalida  nashr etilgan. Ayllon va Michaell psixiatriya shifoxonasi xodimlariga shizofreniya va aqliy zaiflik bilan ogʻrigan bemorlar uchun operativ konditsionerlik tamoyillariga asoslangan token iqtisodidan qanday foydalanishni oʻrgatishdi[2], bu Kansas universiteti tadqiqotchilariga Journal of Applied Behavior Analysis (1968) faoliyatini boshlashda turtki bo’ldi[19][20].
+Donald Baer, Sidney W. Bijou, Bill Hopkins, Jay Birnbrauer, Todd Risley va Montrose Wolf kabi Vashington universiteti tadqiqotchilari guruhi[21][22] bolalarning xatti-harakatlarini boshqarish va voyaga yetmaganlar hibsxonalarida oʻsmirlar va korxonalarda toʻgʻri tuzilma va boshqaruvni talab qiladigan xodimlarni tayyorlash uchun xatti-harakatlarni tahlil qilish tamoyillarini qoʻllashdi. 1968-yilda Baer, Bijou, Risley, Birnbrauer, Wolf, va James Sherman Kansas universitetining Inson taraqqiyoti va oila hayoti boʻlimiga qoʻshilishdi va u yerda Amaliy xatti-harakatlar tahlili jurnaliga asos solishdi[23].
+Vashington universitetining taniqli aspirantlari orasida Robert Wahler, James Sherman va Ivar Lovaas bor[19][23]. Lovaas Kaliforniya universitetida, Los-Anjelesda dars berayotganda UCLA Young Autism loyihasini yaratdi. 1965-yilda Lovaas muammoli xulq-atvorni qoʻllab-quvvatlovchi oldingi holatlar va oqibatlarning kashshof tadqiqotini tavsiflovchi bir qator maqolalarni nashr etdi[24]. U Charles Ferster tomonidan nonverbal bo’lgan bolalarga gapirishni oʻrgatish uchun dastlab qoʻllanilgan xatosiz oʻrganish usullariga tayandi. Lovaas, shuningdek, ijtimoiy (ikkilamchi) kuchaytirgichlardan qanday foydalanishni, bolalarni taqlid qilishga oʻrgatish va tajovuzkorlik hamda hayot uchun xavfli bo’lgan oʻz-oʻzini shikastlashni kamaytirish uchun qanday aralashuvlar (shu jumladan, elektr toki) ishlatilishi mumkinligini tasvirlab berdi[24][25].
+1987-yilda Lovaas „Kichik yoshdagi autizm spektrida bo’lgan bolalarda xulq-atvorni korreksiyalash, normal taʼlim va intellektual faoliyat“ tadqiqotini nashr etdi[19]. Ushbu tadqiqotdagi eksperimental guruh uzluksiz diskret sinov mashgʻulotlari (DTT) yordamida 1: 1 oʻqitish sharoitida haftasiga oʻrtacha 40 soatni qamrab oldi[26]. Terapiya uyda ota-onalar ishtirokida amalga oshiriladi, shuningdek, oʻquv dasturi koʻz bilan aloqa qilish, nozik va qoʻpol motorli taqlid va tilni oʻrgatish uchun juda individualdir. Oʻrganishni ragʻbatlantirish va istalmagan xatti-harakatlarni kamaytirish uchun qoʻzgʻatuvchi va mustahkamlovchi usullardan foydalanilgan[19]. 1960-yillarda terapiyaning dastlabki rivojlanishi zarbalarni qoʻllash va ovqatdan voz kechishni oʻz ichiga olgan[16]. Bolalar ushbu tadqiqotga jalb qilingan vaqtga kelib, tajovuzkor harakatlardan voz kechishdi. Baland ovozda „yoʻq“ deyish yoki songa shapaloq urish tajovuzkor va oʻzini-oʻzi zararlantiruvchi xatti-harakatlarni kamaytirish uchun oxirgi chora sifatida ishlatilgan. Ushbu tadqiqot natijalari shuni koʻrsatdiki, eksperimental guruhning 47 foizi (19-sentyabr) autizm tashxisini chetlab o’tdi va ular odatdagi oʻsmir tengdoshlaridan farq qilmaydigan holatga keldi. Ya’ni endi ular yordamsiz taʼlim olish va doʻstlar orttirish kabi imkoniyatlarga ega bo’ldilar. Ushbu yutuqlar 1993-yilda „Autizm tashxisli bolalar uchun uzoq muddatli natijalar, erta intensiv xulq-atvor terapiyasi“ tadqiqotida qayd etilganidek saqlanib qoldi. Lovaasning ishi 1999-yilda AQSh Bosh jarrohi tomonidan tan olindi va uning tadqiqotlari universitet va xususiy muassasalarda takrorlandi[27][28]. „Lovaas usuli“ erta intensiv xatti-harakatlar aralashuvi (EIBI) sifatida tanildi.
+Yillar davomida „xulq-atvor tahlili“ asta-sekin „xulq-atvorni o‘zgartirish“ning o’rnini egalladi; yaʼni, oddiygina muammoli xatti-harakatni oʻzgartirishga urinishdan tashqari, xulq-atvor tahlilchilari ushbu xatti-harakatning funksiyasini, qanday mustahkamlash tarixini (yaʼni, eʼtiborni izlash, qochish, hissiy stimulyatsiya va boshqalar) targʻib qilish va saqlab qolish, uni muvaffaqiyatli xulq-atvor bilan qanday almashtirish mumkinligini tushunishga harakat qilishdi[6]. Ushbu tahlil xulq-atvor funksiyasini sinchkovlik bilan dastlabki baholashga va xatti-harakatlarning oʻzgarishiga olib keladigan usullarni sinab koʻrishga asoslanadi.
+ABA autizm bilan uzviy bogʻliq boʻlib tuyilsa-da, u boshqa koʻplab vaziyatlarda ham qoʻllaniladi. JABAdagi soʻnggi tadqiqotlarning diqqatga sazovor sohalari autizm, odatdagidek rivojlanayotgan talabalar bilan sinfda oʻqitish, bolalarda ovqatlanish terapiyasi[29] va giyohvand moddalarni isteʼmol qilish kasalliklari kabilarni oʻz ichiga oladi. ABA ning boshqa ilovalari hayvonlarning amaliy xulq-atvori, isteʼmolchilarning xatti-harakatlarini tahlil qilish, xulq-atvor tibbiyoti, xulq-atvor nevrologiyasi, klinik xatti-harakatlar tahlili, xatti-harakatlarning sud-tibbiy tahlili, ish xavfsizligi va samaradorligini oshirish, maktab miqyosida ijobiy xatti-harakatlarni qoʻllab-quvvatlash[30][31][32] va fobiyalar uchun kontakt desensitizatsiyasini oʻz ichiga oladi.
+
+Xususiyatlari[tahrir | manbasini tahrirlash]
+Baer, Wolf va Risleyning 1968-yildagi maqolasi[33] hali ham ABAning standart tavsifi sifatida ishlatiladi[20][34]. Unda ABA ning quyidagi yettita xususiyati keltirib o’tilgan:
+
+Amaliy: ABA oʻrganilayotgan xatti-harakatlarning ijtimoiy ahamiyatiga eʼtibor qaratadi. Masalan, amaliy boʻlmagan tadqiqotchi ovqatlanish xulq-atvorini oʻrganishi mumkin, chunki bu tadqiqot metabolik jarayonlarni aniqlashtirishga yordam beradi. Amaliy tadqiqotchi esa juda kam yoki juda koʻp ovqatlanadigan odamlarda ovqatlanish xatti-harakatlarini oʻrganishi va bu xatti-harakatni aloqador shaxslarga maqbulroq boʻlishi uchun oʻzgartirishga harakat qilishi mumkin..
+Xulq-atvor: ABA pragmatik; u qanday qilib odamni biror narsani samarali bajarishga undash mumkinligini savol ostiga qo’yadi. Bu savolga javob berish uchun xatti-harakatlarning oʻzi obyektiv ravishda oʻlchanishi kerak. Ogʻzaki tavsiflar tavsiflangan xatti-harakatlarning oʻrnini bosuvchi sifatida emas, balki oʻz-oʻzidan xatti-harakatlar sifatida qaraladi.
+Analitik: Xulq-atvor tahlili, agar tahlilchi maqsadli xatti-harakatlarni boshqaradigan voqealarni tushunsa va boshqara olsa, muvaffaqiyatli boʻladi. Buni tadqiqotchi tegishli hodisalarni tartibga sola oladigan laboratoriyada amalga oshirish nisbatan oson boʻlishi mumkin, ammo amaliy vaziyatda bu har doim ham oson yoki axloqiy ahamiyat kasb etmaydi[33]. Baer va boshqalar axloqiy meʼyorlarga rioya qilgan holda nazoratni koʻrsatish uchun amaliy sharoitlarda qoʻllanilishi mumkin boʻlgan ikkita usulni belgilashdi. Bular teskari dizayn va bir nechta asosiy dizayndir. Reversal dizaynda eksperimentator birinchi navbatda tanlangan xatti-harakatni oʻlchaydi, aralashuvni kiritadi va keyin xatti-harakatni yana oʻlchaydi. Keyin aralashuv olib tashlanadi yoki kamaytiriladi va xatti-harakatlar yana oʻlchanadi. Aralashuv shunday darajada samarali boʻladiki, xatti-harakatlar oʻzgaradi va keyin bu manipulyatsiyalarga javoban oʻzgaradi. Qaytarib boʻlmaydigan xatti-harakatlar uchun bir nechta asosiy usuldan foydalanish mumkin. Bu yerda bir nechta xatti-harakatlar oʻlchanadi va keyin aralashuv har biriga oʻz navbatida qoʻllaniladi. Aralashuvning samaradorligi faqat aralashuv qoʻllaniladigan xatti-harakatlarning oʻzgarishi bilan namoyon boʻladi.
+Texnologik: Analitik tadqiqot tavsifi aniq va batafsil boʻlishi kerak, shuning uchun har qanday malakali tadqiqotchi uni aniq takrorlashi mumkin[33]. Kuper va boshqalar buni tekshirishning yaxshi usulini tasvirlab berishdi: amaliy xatti-harakatlar tahlili boʻyicha oʻqitilgan shaxs tavsifni oʻqib chiqib va keyin protsedurani batafsil bajaradi. Agar biror kishi xato qilsa yoki biron bir savol berishi kerak boʻlsa, tavsifni yaxshilash kerak[20][35].
+Kontseptsiyaviy tizimli: Xulq-atvorni tahlil qilish shunchaki samarali choralar roʻyxatini keltirmasligi kerak. Aksincha, iloji boricha, bu usullar xulq-atvor tamoyillariga asoslangan boʻlishi kerak. Bunga nazariy jihatdan ahamiyatli atamalar, masalan, kerak boʻlganda „ikkilamchi mustahkamlash“ yoki „xatosiz diskriminatsiya“ qoʻllanilishi yordam beradi.
+Samarali: Analitik usullar nazariy jihatdan asoslangan, shuningdek, samarali boʻlishi kerak. Agar aralashuv amaliy foydalanish uchun yetarlicha katta taʼsir koʻrsatmasa, tahlil muvaffaqiyatsizlikka uchraydi.
+Umumiylik: Xulq-atvor tahlilchilari odatda qoʻllanilishi mumkin boʻlgan aralashuvlarga intilishlari kerak; usullar turli muhitlarda ishlashi, bir nechta oʻziga xos xatti-harakatlarga qoʻllanilishi va uzoq muddatli taʼsirga ega boʻlishi lozim.
+Boshqa tavsiya etilgan xususiyatlar[tahrir | manbasini tahrirlash]
+2005-yilda Heward va boshqalar quyidagi besh xususiyatni qoʻshish kerakligini taklif qildi[36]:
+
+Hisobdorlik: Hisobdor boʻlish ABA oʻz usullari samarali ekanligini koʻrsatishi kerakligini anglatadi. Buning uchun aralashuvlar taʼsirini qayta-qayta oʻlchash (muvaffaqiyat, muvaffaqiyatsizlik yoki umuman taʼsir qilmaslik) va kerak boʻlganda ularning samaradorligini oshiradigan oʻzgarishlarni kiritish kerak[37].
+Ommaviy: ABA usullari, natijalari va nazariy tahlillari nashr etilishi va tekshirish uchun ochiq boʻlishi, hech qanday yashirin muolajalar yoki mistik, metafizik tushuntirishlar bo’lmasligi kerak.
+Amalga oshirish mumkin: Umuman foydali boʻlishi uchun aralashuvlar oʻqituvchilar, ota-onalar, terapevtlar yoki hatto oʻz xatti-harakatlarini oʻzgartirishni xohlaydiganlar boʻlishi mumkin boʻlgan turli shaxslar uchun mavjud boʻlishi kerak. Toʻgʻri rejalashtirish va oʻqitish bilan koʻplab aralashuvlar kuch sarflashga tayyor boʻlgan deyarli har bir kishi tomonidan qoʻllanilishi mumkin[38].
+Imkoniyatlarni oshirish: ABA amaliyotchiga aralashuv natijalari haqida fikr bildiruvchi vositalarni taqdim etadi. Bular tadqiqotchilarga ularning malaka darajasini baholash va samaradorligiga ishonchni oshirish imkonini beradi[39].
+Optimistik: Bir nechta yetakchi mualliflarga koʻra, quyidagi sabablar xulq-atvor tahlilchilarning oʻzlarining saʼy-harakatlari ijtimoiy ahamiyatga ega ekanligiga optimistik qarashlariga sabab boʻladi:
+Xulq-atvor tahliliga taʼsir qiladigan xatti-harakatlar asosan oʻrganish orqali aniqlanadi va atrof-muhitning boshqarilishi mumkin boʻlgan jihatlari bilan boshqariladi.
+Amaliyotchilar toʻgʻridan-toʻgʻri va doimiy oʻlchovlar orqali ish faoliyatini yaxshilashlari mumkin.
+Amaliyotchi ijobiy natijalar bilan xulq-atvor usullarini qoʻllaganligi sababli, ular kelajakdagi muvaffaqiyatga koʻproq ishonch hosil qiladi.
+Adabiyotlarda ilgari oʻrgatib boʻlmaydigan deb hisoblangan shaxslarni oʻqitishda muvaffaqiyatga oid koʻplab misollar keltirilgan.
+Autizm korreksiyasida foydalanilishi[tahrir | manbasini tahrirlash]
+ABA amaliyotchilarining aksariyati autizm boʻyicha ixtisoslashgan[7], ammo BCBA sertifikati autizm boʻyicha treningni talab qilmaydi[40]. ABAga asoslangan usullar koʻpincha adaptiv xatti-harakatlarga[41] oʻrgatish yoki autizm bilan bogʻliq xatti-harakatlarni kamaytirish uchun ishlatiladi, shuning uchun ABA oʻzi koʻpincha autizm terapiyasining sinonimi deb hisoblanadi[8]. 2007-yilgi maqolaga koʻra, Amerika Pediatriya Akademiyasi „qiyinchilikli xatti-harakatlarga aralashuv“ samarali deb topgan[42]. 2018-yilda Cochrane tomonidan davolash va nazoratni taqqoslagan beshta tadqiqotning koʻrib chiqilishi ABA baʼzi autizmli bolalar uchun samarali boʻlishi mumkinligini koʻrsatdi, ammo buning dalillari zaif ekanligini taʼkidladi[43]. Autizm uchun ABA davolashning samaradorligi diagnostikaning jiddiyligi, aralashuv yoshi va IQ bilan cheklanishi mumkin[44][45].
+
+Samaradorlik[tahrir | manbasini tahrirlash]
+2020-yil uchun sharhlar[tahrir | manbasini tahrirlash]
+Justin B. Leaf va boshqalar 2021-yilgi maqolada ABA tanqidlarini oʻrganib chiqib, ularga javob berdilar[46] .
+Bolaligida ABAdan oʻtgan autistik katta yoshlilarni oʻrganish boʻyicha ikkita tadqiqot natijalari shuni koʻrsatdiki, koʻpchilik ABAni hayotlariga zararli taʼsir koʻrsatadi, deb hisoblashadi. Garchi koʻpchilik ABA tadqiqotlari bilan umumiy boʻlsa-da[47][15], tadqiqotlar uslubiy muammolarga ega va tarafkashlik xavfi mavjud[48]. 2020 yilgi ikkita sharh shuni koʻrsatdiki, juda kam sonli tadqiqotlar mumkin boʻlgan zararlar haqida toʻgʻridan-toʻgʻri xabar bergan yoki tekshirilgan; Garchi koʻplab tadqiqotlar odamlarning nima uchun ulardan voz kechishini tahlil qilishda noxush hodisalarni eslatib oʻtgan boʻlsa-da, salbiy natijalarni kuzatish yoki maʼlumotlarni toʻplash uchun hech qanday harakat boʻlmagan[49][50][51].
+
+2010-2019-yillar sharhlari[tahrir | manbasini tahrirlash]
+2011-yilda Vanderbilt universiteti tadqiqotchilari Sogʻliqni saqlash tadqiqotlari va sifati agentligi bilan shartnoma asosida ABA asosidagi va autizm spektrining buzilishlarini korreksiyalashning boshqa usullari boʻyicha ilmiy adabiyotlarni har tomonlama koʻrib chiqishdi; ABA asosidagi terapiyalar UCLA /Lovaas usuli va Denverning erta boshlash modeli (ikkinchisi Sally Rogers and Geraldine Dawsonlar tomonidan ishlab chiqilgan)ni oʻz ichiga olgan[52]. Ular „ikkala yondashuv ham … kognitiv faoliyat, til koʻnikmalari va moslashuvchan xatti-harakatlar koʻnikmalarini yaxshilash bilan bogʻliq“ degan xulosaga kelishdi[52]:ES-9. Shu bilan birga, ular, shuningdek, „dalillarning kuchi … past“, „koʻp bolalar zaiflashuvning sezilarli joylarini koʻrsatishda davom etishadi“, „kichik guruhlar oʻzgarishlarning koʻp qismini tashkil qilishi mumkin“, „amaliy samaradorlik haqida ozgina dalillar mavjud“ degan xulosaga kelishdi[52]:ES-10.
+2014-yilgi dastlabki tadqiqot natijalari shuni koʻrsatdiki, ABA samarasiz ekanligini koʻrsatadigan bir mavzuli tadqiqot ishlariga nisbatan nashriyotlar boʻlishi mumkin. Nashrning notoʻgʻriligi bir mavzuli tadqiqotlarda kuzatilgan aralashuv taʼsirining boʻrttirilgan bahosiga olib kelishi mumkin[53].
+2019-yilgi meta-tahlil xulq-atvor aralashuvi foydasiga baʼzi dalillarni topdi, ammo taʼkidladiki, „uslubiy qatʼiylik tadqiqotning ushbu sohasida dolzarb muammo boʻlib qolmoqda“[54].
+
+2007-2009-yillar sharhlari[tahrir | manbasini tahrirlash]
+Amerika Pediatriya Akademiyasining 2007-yilgi klinik hisobotida autizm spektrining buzilishi (ASD) boʻyicha ABA asosidagi aralashuvlarning foydasi „yaxshi hujjatlashtirilgan“ va „erta intensiv xulq-atvorni davolashni olgan bolalar sezilarli darajada barqaror boʻlishi koʻrsatilgan“ degan xulosaga keldi. Bunda IQ, til, akademik samaradorlik va moslashuvchan xulq-atvordagi yutuqlar, shuningdek, ijtimoiy xulq-atvorning baʼzi oʻlchovlari ham ahamiyat kasb etadi[55]. 2008-yilda MIND instituti tadqiqotchilari keng qamrovli davolash yondashuvlarining dalillarga asoslangan sharhini nashr etdilar. „Eng yaxshi ishlab chiqilgan, nazorat qilinadigan toʻrtta tadqiqot natijalarining kuchliligi“ asosida ular bitta ABAga asoslangan yondashuv (Ole Ivar Løvaas tomonidan yaratilgan Lovaas texnikasi) ASD boʻlgan yosh bolalarning intellektual faoliyatini takomillashtirish uchun „yaxshi tasdiqlangan“ degan fikrga kelishdi[56].
+2009-yilda oʻrtacha yoshi olti yosh yoki undan kichik boʻlgan autizm tashxisli bolalar uchun psixo-tarbiyaviy tadbirlarni koʻrib chiqish shuni koʻrsatdiki, beshta yuqori sifatli („1-darajali“ yoki „2-darajali“) tadqiqotlar ABA asosidagi davolanishni baholagan. Ushbu va boshqa tadqiqotlar asosida muallif ABA „yaxshi tashkil etilgan“ va „davolash intensiv va malakali terapevtlar tomonidan olib borilganda autizmli maktabgacha yoshdagi bolalarning global faoliyatini yaxshilashda samarali ekanligini koʻrsatdi“ degan xulosaga keldi[57]. Biroq, tekshiruv qoʻmitasi, shuningdek, „qaysi aralashuvlar eng samarali ekanligi haqida koʻproq maʼlumotga ehtiyoj bor“ degan xulosaga keldi. 2009-yilgi maqola autizm uchun erta intensiv xulq-atvor aralashuvi, (EIBI, Lovaas texnikasidan kelib chiqqan holda ABAga asoslangan davolash shakli) 1987-yildan 2007-yilgacha nashr etilgan 13 ta hisobotning tavsifiy tahlili, taʼsir hajmi tahlili va meta-tahlilini oʻz ichiga oladi. U EIBIning taʼsir oʻlchamlari IQ, adaptiv xatti-harakatlar, ekspressiv til va retseptiv til uchun „umuman ijobiy“ ekanligini aniqladi. Hujjat oʻz topilmalarining cheklovlarini, shu jumladan, EIBI va boshqa „empirik tasdiqlangan davolash dasturlari“ oʻrtasidagi eʼlon qilingan taqqoslashlarning yoʻqligini taʼkidladi[58]. 2009-yilda 1987-yildan 2007-yilgacha nashr etilgan 11 ta tadqiqotni tizimli koʻrib chiqishda tadqiqotchilar „EIBI autizm spektri buzilishi boʻlgan barcha bolalar uchun emas, balki baʼzilar uchun samarali ekanligi va davolanishga javoban keng oʻzgaruvchanlik mavjudligi haqida kuchli dalillar mavjud“ deb yozishdi. Bundan tashqari, har qanday yaxshilanishlar aralashuvning birinchi yilida eng yaxshi natijalarga sabab boʻlishi mumkin[59].
+1987-yildan 2007-yilgacha nashr etilgan toʻqqiz tadqiqotning 2009-yildagi meta-tahlili EIBI toʻliq miqyosdagi aqlga „katta“ taʼsir koʻrsatadi va autizm tashxisli bolalarning adaptiv xatti-harakatlariga „oʻrtacha“ taʼsir koʻrsatadi degan xulosaga keldi[60]. 2009-yilda Sprekli va Boyd tomonidan 2000-2007-yillarda oʻtkazilgan toʻrtta kichik tadqiqotning (jami 76 nafar bola ishtirok etgan) tizimli tahlili va meta-tahlili yuqorida qayd etilgan sharhlardan farqli xulosalarga keldi[61]. Spreckley va Boyd, EIBI ning boshqa nomi amaliy xatti-harakatlar aralashuvi (ABI) kognitiv natija, ekspressiv til, retseptiv til va adaptiv xatti-harakatlar sohalarida ASD boʻlgan maktabgacha yoshdagi bolalarning standart parvarishi bilan solishtirganda natijalarni sezilarli darajada yaxshilamaganligini xabar qildi[61]. Biroq muharrirga yoʻllagan maktubida meta-tahlil qilingan toʻrtta tadqiqot mualliflari Spreckley va Boyd ABIning ikkita shaklini bir-biri bilan taqqoslash boʻyicha bir tadqiqotni notoʻgʻri talqin qilganliklarini, ABIni standart parvarish bilan solishtirishganligini, bu esa kuzatilgan samaradorlikni notoʻgʻri pasaytirganligini daʼvo qilishdi[62]. Bundan tashqari, toʻrtta tadqiqot mualliflari Spreckley va Boyd baʼzi boshqa tadqiqotlarni keraksiz ravishda istisno qilganliklari va bunday tadqiqotlarni oʻz ichiga olgan holda ABIni yanada qulayroq baholashga olib kelishi mumkinligini koʻrsatdilar[62]. Spreckley, Boyd va toʻrtta tadqiqot mualliflari ABA ning autizmdagi samaradorligini tushunishni yaxshilash uchun katta koʻp saytli randomizatsiyalangan sinovlar zarurligiga rozi boʻlishdi[62].
+
+Tanqid[tahrir | manbasini tahrirlash]
+Tadqiqotchilar va advokatlar ABA axloq kodeksining yumshoqligini tanqid qildilar[63], u „qoʻzgʻatuvchi vositalardan toʻgʻri foydalanish“ni qandaydir tartibda cheklamaydi yoki aniqlamaydi[64][65]. Bundan tashqari, ota-ona mijoz sifatida koʻrilganligi sababli, axloq kodeksi ostida belgilangan maqsadlar mijozning ehtiyojlariga mos keladi, bu koʻpincha bolaning emas, balki ota-onaning manfaati uchun autistik xatti-harakatlarni oʻzgartirishga eʼtibor berishni anglatadi[65].
+Lovaas usulining yana bir tanqidi Lovaasning gey konvertatsiya terapiyasi bilan aloqasi boʻlib, u ABAda Feminine Boy loyihasida koʻrilgan oʻzining xatti-harakatlarini oʻzgartirish usullaridan foydalanadi[66]. Oʻgʻil bolalarni geteroseksual tengdoshlaridan ajratib boʻlmaydigan qilish uchun gey konvertatsiya terapiyasining oʻxshashligi Lovaasning ABA „autistik bolalarni oddiy doʻstlaridan ajratib boʻlmaydigan qiladi“ degan ishonchi bilan chizilgan[66]. Ijtimoiy ishchi va tadqiqotchi Jake Pynening soʻzlariga koʻra, ableism, asosiy oʻxshashliklarga qaramay, konversion terapiya taqiqlangan baʼzi yurisdiksiyalarda ABA amaliyotini qoʻllashda davom etishining sababidir[67].
+Bir tadqiqot nashr etilgan ABA tadqiqotlarida keng qamrovli nomaʼlum manfaatlar toʻqnashuvini (COI) aniqladi. Bir yil davomida eng yaxshi xulq-atvor jurnallarida chop etilgan tadqiqotlarning 84 foizida ABA klinik provayderi yoki ABA klinik provayderlari uchun trening maslahatchisi sifatida ish bilan bogʻliq manfaatlar toʻqnashuvi boʻlgan kamida bitta muallif bor edi. Biroq ushbu tadqiqotlarning atigi 2% COIni ochib berdi[68].
+Baʼzi bioetiklarning taʼkidlashicha, ABAdan foydalanish adolat va zararli boʻlmaslik tamoyillarini, autizm tashxisli bolalar va ularning ota-onalari avtonomiyasini buzadi[69].
+Yana bir tashvish shundaki, ABA tadqiqotlari xulq-atvorni muvaffaqiyat vositasi sifatida oʻlchaydi, bu ABAning autistik tajribalari haqida sifatli tadqiqotlarning yetishmasligiga, ABAning ichki taʼsirini oʻrganuvchi tadqiqotlarning yetishmasligiga va soʻzlamaydigan yoki aqliy nuqsonlari bor (bu intensiv ABA diqqat markazida boʻlgan asosiy populyatsiyalardan biri hisoblanadi) autizmli bolalar uchun tadqiqotlarning yetishmasligiga olib keldi[64][70][44][45]. ABAning uzoq muddatli samarali ekanligi va juda kam boʻylama natijalari oʻrganilganligi haqida tadqiqotlar ham yoʻq[64].
+Tanqidning yana bir sohasi, garchi ikkala yondashuvning falsafasi va amaliyoti bir-biriga qarama-qarshi boʻlishi shart bo’lmasada, ABA va TEACCH atrofidagi „mafkuraviy urush“ boʻldi[71]. ABA atrofidagi ritorika Britaniya taʼlim nogironligi instituti tomonidan tanqid qilindi, shu jumladan, ABA oʻz farzandlarining autizmini „davolagan“ deb daʼvo qiladigan ota-onalar va mutaxassislar, xuddi „ABA oʻz farzandlarining hayotini saqlab qolgan deb daʼvo qilgan va uni davolash sifatida saraton uchun kimyoterapiyaga oʻxshatgan“[72].
+
+Autistik jamiyatning qarashlari[tahrir | manbasini tahrirlash]
+Autistik xulq-atvorni yoʻq qilish qiymati neyroxilma-xillik tarafdorlari tomonidan bahsli boʻlib, ular autistik odamlarni tor normallik tushunchasi nomidan haqiqiy shaxsiyatlarini maskalashga majbur qiladi, deb daʼvo qiladilar[73]. Maskalash oʻz joniga qasd qilish va yomon uzoq muddatli ruhiy salomatlik bilan bogʻliq[74][75]. Autizm tarafdorlari autizm tashxisli odamlarning farovonligiga qanday taʼsir qilishi mumkinligi haqida oʻylamasdan „oddiy“ qilishga urinish shafqatsizlik deb taʼkidlaydilar[10]. Buning oʻrniga, bu tanqidchilar zararsiz autistik xususiyatlar va hayot sifatini yaxshilashga qaratilgan terapiyani ijtimoiy qabul qilishni kuchaytirishni yoqlaydi.
+2020-yilda oʻtkazilgan tadqiqotda bolaligida ABA olgan autistik katta yoshlilarning istiqbollari oʻrganildi va ularning aksariyati „bixevioristik usullar ogʻriqli hayot tajribasini yaratishini“, shaxslararo tajribada oʻz-oʻzini boshqarish qobiliyatining yoʻqligi, ABA „haqiqiy oʻzini-oʻzi eroziyasiga“ olib kelishini va ular oʻzlarini shunday his qilishlarini aniqladilar[70].
+
+Qoʻzgʻatuvchi vositalardan foydalanish[tahrir | manbasini tahrirlash]
+Ole Ivar Lovaas tomonidan ishlab chiqilgan amaliy xulq-atvor tahlilining baʼzi timsollari 1970-yillarda dastlabki foydalanishda nomaqbul xatti-harakatlarni oʻzgartirish uchun elektr toki urishi, shuningdek, 1987-yilda oʻtkazilgan tadqiqotda tarsaki va baqirish kabi salbiy vositalardan foydalangan. Vaqt oʻtishi bilan bunday usullarni qo’llash kamaydi va 2012-yilda ulardan foydalanish zamonaviy amaliyotga mos kelmaydi deb taʼriflandi[76]. Biroq baʼzi ABA dasturlarida aversives foydalanishda davom etdi. 2014-yilda AQSh oziq-ovqat va farmatsevtika idorasiga (FDA) bergan izohida, ilgari sudya Rotenberg oʻquv markazida ishlagan xodim „amaliy xulq-atvor tahlilchilarining puxta oʻrgatish uchun foydalaniladigan barcha darsliklarda jazo tamoyillari, shu jumladan, elektr stimulyatsiyasidan foydalanish“ qayd etilganini ta’kidladi[77].
+2010-yilda BMTning qiynoqlar boʻyicha maxsus maʼruzachisi sudya Rotenberg markazining bolalarga elektr toki urishini qiynoq sifatida baholagan edi[78]. 2020-yilda FDA oʻz-oʻziga shikast yetkazish yoki tajovuzkor xatti-harakatlar uchun ishlatiladigan elektr stimulyatorlaridan foydalanishni taqiqladi va "dalillar shuni koʻrsatadiki, ushbu qurilmalardan foydalanish bilan bogʻliq bir qator muhim psixologik va jismoniy xavflar, shu jumladan, asosiy simptomlarning yomonlashishi, depressiya, tashvish, travmadan keyingi stress buzilishi, ogʻriq, kuyishlar va toʻqimalarning shikastlanishi kuzatilgan[79]. Oʻsha yili AQShning DC tumanlari boʻyicha apellyatsiya sudi FDA „amaliyotchi qanday tibbiy asboblarni buyurishi yoki boshqarishi yoki qaysi shartlar uchun tanlash huquqiga ega emas“ degan qarorga binoan taqiqni bekor qildi va maktab elektr toki urishidan foydalanishni qayta boshlashini eʼlon qildi[80].
+
+Tushunchalar[tahrir | manbasini tahrirlash]
+Xulq-atvor[tahrir | manbasini tahrirlash]
+Xulq-atvor deganda atrof-muhitning baʼzi tomonlarini oʻzgartiradigan organizmning biron bir qismining harakati tushuniladi[81]. Koʻpincha xulq-atvor atamasi jismoniy oʻlchovlar yoki funksiyalarni baham koʻradigan javoblar sinfiga ishora qiladi va bu holda javob bu xatti-harakatlarning yagona namunasidir[20][82]. Agar javoblar guruhi bir xil funksiyaga ega boʻlsa, bu guruhni javob sinfi deb atash mumkin. Repertuar — bu shaxs uchun mavjud boʻlgan turli xil javoblarni anglatadi; Bu atama maʼlum bir vaziyatga tegishli boʻlgan javoblarga ishora qilishi yoki inson qila oladigan hamma narsani anglatishi mumkin.
+
+Operatsion konditsionerlik[tahrir | manbasini tahrirlash]
+Operant xulq-atvori — bu „ixtiyoriy“ xatti-harakat, uning oqibatlariga sezgir yoki boshqariladigan xatti-harakatlar. Xususan, operant konditsionerlik ragʻbatlantiruvchi nazoratdan foydalanadigan uch muddatli kutilmagan holatga, xususan, kuchaytirish yoki jazolash kabi oqibatlar orqali xatti-harakatlarning kuchayishi yoki zaiflashishiga taʼsir qiluvchi diskriminativ stimul (SD) deb ataladigan oldingi kutilmagan holatga ishora qiladi[83]. Bu atama odatda konfet olishdan tortib, sovuqqonlikdan qutulish uchun issiqlikni oshirishgacha, yaxshi baho olish uchun imtihonga oʻqishgacha qoʻllaniladi.
+
+Respondent (klassik) konditsionerlik[tahrir | manbasini tahrirlash]
+Respondent (klassik) shartlash reflekslar deb ataladigan tugʻma stimul-javob munosabatlariga asoslanadi. Itlar bilan oʻtkazgan mashhur tajribalarida Pavlov odatda tuprik refleksini, yaʼni oziq-ovqat taʼmidan keyin (shartsiz stimulyatsiya) soʻlakni (shartsiz javob) ishlatgan. Neytral qoʻzgʻatuvchini, masalan, qoʻngʻiroqni (shartli stimulyatorni) oziq-ovqat bilan birlashtirish itning tupurik chiqishiga olib keldi (shartli javob). Shunday qilib, klassik konditsionerlikda shartli ogohlantiruvchi biologik ahamiyatga ega boʻlgan oqibat uchun signalga aylanadi.
+
+Kuchaytirish[tahrir | manbasini tahrirlash]
+Kuchaytirish operant konditsionerligi[84] koʻpchilik xatti-harakatlarni oʻzgartirish dasturlarida asosiy element hisoblanadi[85]. Bu xatti-harakatning mustahkamlanishi jarayonidir. Agar biror xatti-harakat oʻz vaqtida ogohlantiruvchi tomonidan yaqindan kuzatilsa va bu kelajakdagi xatti-harakatlarning chastotasining oshishiga olib keladigan boʻlsa, unda stimul ijobiy mustahkamlovchi hisoblanadi. Agar hodisaning olib tashlanishi mustahkamlovchi boʻlib xizmat qilsa, bu salbiy mustahkamlash deb ataladi[86]. Kelajakdagi xatti-harakatlar ehtimoliga taʼsir qiluvchi bir nechta mustahkamlash jadvallari mavjud[87].
+
+Jazo[tahrir | manbasini tahrirlash]
+Asosiy maqola: Psixologiyada jazo
+Jazo — bu xatti-harakatning oqibati darhol yuzaga keladigan jarayon boʻlib, bu xatti-harakatlarning kelajakdagi chastotasini kamaytiradi. Mustahkamlashda boʻlgani kabi stimul qoʻshilishi (ijobiy jazo) yoki olib tashlanishi (salbiy jazo) mumkin. Umuman olganda, jazoning uch turi mavjud: qoʻzgʻatuvchi stimullarni taqdim etish (masalan, ogʻriq), javob narxi (pul jarimalarida boʻlgani kabi kerakli ogohlantirishlarni olib tashlash) va erkinlikni cheklash („taym aut“ kabi)[88]. Amalda jazo koʻpincha istalmagan yon taʼsirga olib kelishi mumkin[89]. Boshqa baʼzi potentsial kiruvchi taʼsirlar jazoga tortilganidan norozilik, jazodan qochishga urinishlar, ogʻriq va u bilan bogʻliq salbiy his-tuygʻularni ifodalash va jazolangan shaxs tomonidan jazo va uni topshiruvchi shaxs oʻrtasidagi tan olinishi kiradi[87].
+
+Yoʻq boʻlib ketish[tahrir | manbasini tahrirlash]
+Yoʻq boʻlib ketish — bu ilgari kuchaytirilgan xatti-harakatni kuchaytirishni toʻxtatish/toʻxtatish tartibini tavsiflovchi texnik atama, natijada bu xatti-harakatlar kamayadi[90]. Yoʻq qilish tartib-qoidalari koʻpincha jazo tartib-qoidalariga qaraganda afzalroqdir, chunki koʻplab jazo tartib-qoidalari axloqiy emas deb hisoblanadi va koʻp shtatlarda taqiqlangan. Shunga qaramay, yoʻq boʻlib ketish protseduralari professionallar tomonidan juda ehtiyotkorlik bilan amalga oshirilishi kerak, chunki ular odatda yoʻq boʻlib ketish portlashlari bilan bogʻliq. Yoʻq boʻlib ketish — bu yoʻq boʻlib ketishga qaratilgan xatti-harakatlarning chastotasi, intensivligi va/yoki davomiyligining vaqtincha oʻsishi[91]. Yoʻq boʻlib ketish portlashining boshqa xususiyatlari orasida yoʻq boʻlib ketish natijasida hosil boʻlgan tajovuz — koʻpincha tajovuz sifatida namoyon boʻladigan yoʻq boʻlib ketish jarayoniga hissiy javobning paydo boʻlishi; va b) yoʻq boʻlib ketish bilan bogʻliq javoblarning oʻzgaruvchanligi — yoʻq boʻlib ketish jarayonidan oldin odatda sodir boʻlmagan yangi xatti-harakatlarning paydo boʻlishi. Ushbu yangi xatti-harakatlar tartiblarni shakllantirishning asosiy komponentidir.
+
+Diskriminatsiyalangan operant va uch muddatli kontingentlik[tahrir | manbasini tahrirlash]
+Xulq-atvor va uning oqibatlari oʻrtasidagi bogʻliqlikdan tashqari, operant konditsioner ham oldingi holatlar va xatti-harakatlar oʻrtasidagi munosabatlarni oʻrnatadi. Bu S-R formulalaridan (Agar A-keyin-B) farq qiladi va uni AB-chunki C formulasi bilan almashtiradi. Boshqacha qilib aytganda, xatti-harakat (B) va uning konteksti (A) oʻrtasidagi munosabat oqibatlarga (C) bogʻliq, aniqrogʻi, C tufayli AB kontekstlar oʻrtasidagi bu munosabatlar shunga oʻxshash hodisalarda sodir boʻlgan oldingi oqibatlar bilan oʻrnatilganligini koʻrsatadi[92]. Ushbu oldingi-xulq-atvor-natijali shartlilik uch muddatli tasodifiylik deb ataladi. Oldingi holat mavjud boʻlganda uning yoʻqligidan koʻra tez-tez sodir boʻladigan xatti-harakatlar diskriminatsiyalangan operant deb ataladi. Oldingi qoʻzgʻatuvchi diskriminativ stimul (S D) deb ataladi. Diskriminatsiya qilingan operantning faqat diskriminativ stimul mavjud boʻlganda paydo boʻlishi, ogohlantiruvchi nazoratning tasviridir[93]. Soʻnggi paytlarda xulq-atvor tahlilchilari xatti-harakatlarning sodir boʻlish yoki sodir boʻlmasligi ehtimolini oshiradigan tashvishli xatti-harakatlar uchun holatlardan oldin yuzaga kelgan sharoitlarga eʼtibor qaratishdi. Ushbu shartlar turli tadqiqotchilar tomonidan oʻz nashrlarida „Voqeani oʻrnatish“, „Operatsiyalarni oʻrnatish“ va „Motivatsiyalash operatsiyalari“ deb nomlanadi.
+
+Ogʻzaki xatti-harakatlar[tahrir | manbasini tahrirlash]
+Asosiy maqola: Og’zaki xulq-atvor
+B. F. Skinnerning xulq-atvor tahlilining tasniflash tizimi koʻplab aloqa buzilishlarini davolashda qoʻllanilgan[94]. Skinner tizimiga quyidagilar kiradi:
+
+Takt — ogʻzaki boʻlmagan oldingi narsa tomonidan qoʻzgʻatilgan va umumlashtirilgan shartli mustahkamlash bilan taʼminlangan ogʻzaki javob.
+Mand — xarakterli mustahkamlovchi tomonidan qoʻllab-quvvatlanadigan ragʻbatlantiruvchi operatsiyalar nazorati ostidagi xatti-harakatlar.
+Intraverbals — tegishli oldingi ogohlantiruvchi boshqa ogʻzaki xatti-harakat boʻlgan, lekin oldingi ogʻzaki stimulning javob topografiyasiga ega boʻlmagan ogʻzaki xatti-harakatlar (masalan, boshqa maʼruzachining savoliga javob berish).
+Avtoklitik — birlamchi ogʻzaki xatti-harakatlarning tinglovchiga taʼsirini oʻzgartiradigan ikkilamchi ogʻzaki xatti-harakatlar. Misollar miqdoriy, grammatika va sifatlovchi bayonotlarni oʻz ichiga oladi.
+Skinnerning xulq-atvor usullaridan foydalanishi tilshunos Noam Chomsky tomonidan Skinnerning tilni xulq-atvor sifatida koʻrishi inson tilining murakkabligini tushuntirib bera olmasligini keng tahlil qilish orqali mashhur tarzda tanqid qilingan[95]. Bu shuni koʻrsatadiki, bixevioristik usullar tilni oʻrgatishi mumkin boʻlsa-da, bu til asoslarini tushuntirish uchun juda yomon choradir. Chomskyning tanqidlarini inobatga oladigan boʻlsak, bixeviorist oʻrniga nutq tili patologi orqali tilni oʻrgatish maqsadga muvofiqdir.
+
+Xulq-atvorni oʻlchash[tahrir | manbasini tahrirlash]
+Xulq-atvorni oʻlchashda xulq-atvorning ikkala oʻlchovi va xatti-harakatlarning miqdoriy oʻlchovlari mavjud. Amaliy xatti-harakatlar tahlilida miqdoriy oʻlchovlar oʻlchovlarning hosilasi hisoblanadi. Bu oʻlchamlar takrorlanuvchanlik, vaqtinchalik hajm va vaqtinchalik joylashuvdir[96].
+
+Takroriylik[tahrir | manbasini tahrirlash]
+Javob darslari vaqt davomida qayta-qayta sodir boʻladi, yaʼni xatti-harakatlar bir necha marta sodir boʻladi.
+
+Hisob — bu xatti-harakatlardagi hodisalar soni.
+Tezlik / chastota — bu vaqt birligidagi xatti-harakatlarning soni.
+Seleratsiya — vaqt oʻtishi bilan stavkaning qanday oʻzgarishining oʻlchovidir.
+Vaqtinchalik daraja[tahrir | manbasini tahrirlash]
+Bu oʻlchov har bir xatti-harakat namunasi maʼlum vaqtni egallashini koʻrsatadi, yaʼni xatti-harakatlar qancha davom etadi.
+
+Davomiylik — bu xatti-harakatlar sodir boʻladigan vaqt davri.
+Vaqtinchalik joylashuv[tahrir | manbasini tahrirlash]
+Xulq-atvorning har bir namunasi maʼlum bir vaqtning oʻzida, yaʼni xatti-harakatlar sodir boʻlganda sodir boʻladi.
+
+Javobning kechikishi — bu stimulning va reaksiyaning boshlanishi oʻrtasidagi oʻtgan vaqt oʻlchovidir.
+Oʻzaro javob vaqti — javob sinfining ketma-ket ikki nusxasi oʻrtasida sodir boʻladigan vaqt miqdori.
+Hosil koʻrsatkichlar[tahrir | manbasini tahrirlash]
+Hosila koʻrsatkichlari muayyan oʻlchamlarga bogʻliq emas:
+
+Foiz — bir xil oʻlchovli miqdorlarni birlashtirish natijasida hosil boʻlgan nisbat.
+Sinovlar mezonlari — bu oldindan belgilangan samaradorlik darajasiga erishish uchun zarur boʻlgan javob imkoniyatlari soni.
+Amaliy xulq-atvor tahlili — bu maqsadli intizom boʻlib, oʻzini tutishning sezilarli usulini ishonchli oʻlchash va obyektiv baholashga qaratilgan. Xulq-atvorni oʻlchamasdan va maʼlumotni baholamasdan, xulq-atvor tahlilchilari biz oʻylayotgan dasturni oʻzgartirishni, qachon oʻtishni yoki yangi maqsadlarni qoʻshishni yoki yanada sezilarli yutuqlarga erishish uchun strategiyalarni qachon oʻzgartirishni bilishmaydi.
+Xulq-atvor tahlilchilari maʼlumot toʻplash uchun bir nechta aniq usullardan foydalanadilar. Maʼlumot toʻplash usullarining bir qismi quyidagilarni oʻz ichiga oladi:
+
+Chastotasi[tahrir | manbasini tahrirlash]
+Ushbu uslub oʻzini tutishning ob’ektiv usuli sezilgan va hisoblangan vaqtlarni anglatadi[97].
+
+Baho[tahrir | manbasini tahrirlash]
+Chastota bilan bir xil, lekin oldindan belgilangan vaqt chegarasida.
+
+Davomiyligi[tahrir | manbasini tahrirlash]
+Bu baho kimningdir oʻzini tutish tarzida qancha vaqt qatnashganligini anglatadi.
+
+Ravonlik[tahrir | manbasini tahrirlash]
+Bu baho talabaning vaqt oraligʻida qanchalik tez reaksiyalar berishi mumkinligini bildiradi.
+
+Javobning kechikishi[tahrir | manbasini tahrirlash]
+Kechikish oʻzini tutishning obyektiv usuli sodir boʻlgunga qadar maʼlum bir kuchaytirilgandan keyin qancha vaqt oʻtganligini anglatadi[98][99].
+
+Xulq-atvor oʻzgarishini tahlil qilish[tahrir | manbasini tahrirlash]
+Eksperimental nazorat[tahrir | manbasini tahrirlash]
+Amaliy xatti-harakatlar tahlilida barcha tajribalar quyidagilarni oʻz ichiga olishi kerak[100]:
+
+Kamida bitta ishtirokchi;
+Kamida bitta xatti-harakat (qaram oʻzgaruvchi);
+Kamida bitta sozlama;
+Maʼlumotlarning xatti-harakatlarini va doimiy vizual tahlilini oʻlchash tizimi;
+Kamida bitta davolash yoki aralashuv holati;
+Mustaqil oʻzgaruvchining qaram oʻzgaruvchiga taʼsiri miqdoriy yoki sifat jihatidan tahlil qilinishi uchun manipulyatsiyalar;
+Ishtirokchiga qandaydir tarzda foyda keltiradigan aralashuv[101].
+ABA tadqiqoti orqali ishlab chiqilgan metodologiyalar[tahrir | manbasini tahrirlash]
+Vazifani tahlil qilish[tahrir | manbasini tahrirlash]
+Vazifalarni tahlil qilish — bu vazifani uning tarkibiy qismlariga tahlil qilish jarayoni boʻlib, bu qismlar zanjirdan foydalanish orqali oʻrgatiladi: oldinga zanjir, orqaga zanjir va umumiy topshiriq taqdimoti. Vazifalarni tahlil qilish tashkilotning xatti-harakatlarini boshqarishda, tashkilot aʼzolarining xatti-harakatlarini oʻzgartirishga qaratilgan xulq-atvor tahliliy yondashuvida (masalan, fabrikalar, idoralar yoki shifoxonalar) ishlatilgan[102]. Xulq-atvor skriptlari koʻpincha vazifani tahlil qilish natijasida paydo boʻladi[103][104]. Bergan xulq-atvor boʻyicha maslahat munosabatlarining topshiriq tahlilini oʻtkazdi[105] va Tomas Kratochwill Berganning koʻnikmalarini oʻrgatish asosida oʻquv dasturini ishlab chiqdi[106]. Shunga oʻxshash yondashuv maslahatchilar uchun mikro koʻnikmalarni rivojlantirish uchun ishlatilgan[107][108][109]. Keyinchalik Ivey bu „xulq-atvor“ bosqichini juda samarali deb ataydi[110] va koʻnikmalarga asoslangan yondashuv 1970-90-yillarda maslahatchilarni tayyorlashda ustunlik qildi[111]. Vazifalarni tahlil qilish, shuningdek, martabaga kirish uchun zarur boʻlgan koʻnikmalarni aniqlashda ham foydalanilgan[112]. Englemann (1968) taʼlim sohasida „Toʻgʻridan-toʻgʻri taʼlim“ oʻquv dasturini ishlab chiqish usullarining bir qismi sifatida vazifalar tahlilidan foydalangan[113].
+
+Zanjirlash[tahrir | manbasini tahrirlash]
+Asosiy maqola: Psixologiyada zanjirlash
+Oʻrganilishi kerak boʻlgan koʻnikma oson oʻrganish uchun kichik birliklarga boʻlinadi. Misol uchun, tishlarini mustaqil ravishda choʻtkalashni oʻrganayotgan odam tish pastasi qopqogʻini ochishni oʻrganishdan boshlashi mumkin. Ular buni bilib boʻlgach, keyingi qadam naychani siqish va hokazo boʻlishi mumkin[114][115].
+Muammoli xatti-harakatlar uchun zanjirlar ham tahlil qilinishi va muammoning oldini olish uchun zanjirni buzish mumkin. Baʼzi xulq-atvor terapiyalari, masalan, dialektik xulq-atvor terapiyasi, xatti-harakatlar zanjiri tahlilidan keng foydalanadi[116].
+
+Taklif[tahrir | manbasini tahrirlash]
+Tezkor — bu shaxsdan kerakli javobni ragʻbatlantirish uchun ishlatiladigan ishora[117][118]. Xatolarni minimallashtirish va oʻrganish jarayonida yuqori darajadagi muvaffaqiyatni taʼminlash uchun koʻrsatmalar eng kamdan kam ketma-ketlikda beriladi va tizimli ravishda oʻchiriladi[119]. Bu jarayonda oʻquvchi ularga qaram boʻlib qolmasligi va oxir-oqibat soʻrovsiz oʻzini toʻgʻri tutishi uchun koʻrsatmalar imkon qadar tezroq oʻchiriladi[120][121].
+Soʻrovlar turlari Istalgan javobni taklif qilish uchun soʻrovchilar quyidagilardan birortasi yoki barchasidan foydalanishi mumkin:.
+
+Ovozli takliflar: soʻzlar yoki boshqa tovushlar;
+Vizual takliflar: vizual ishora yoki rasm;
+Imo-ishoralar: jismoniy imo-ishora;
+Pozitsion taklif: masalan, maqsadli element shaxsga yaqin joylashtiriladi;
+Modellashtirish: kerakli javobni modellashtirish. Ushbu turdagi taklif taqlid orqali oʻrganadigan va modelga qatnasha oladigan shaxslar uchun eng mos keladi;
+Jismoniy takliflar: kerakli javobni berish uchun odamni jismoniy manipulyatsiya qilish. Jismoniy koʻrsatmalarning koʻp darajalari mavjud, ular juda tajovuzkor (masalan, oʻqituvchi qoʻlini oʻquvchining qoʻliga qoʻyadi)dan minimal intruzivgacha (masalan, yengil teginish)[119].
+Bu koʻrsatmalarning toʻliq roʻyxati emas; koʻrsatmalarning tabiati, soni va tartibi maʼlum bir shaxs uchun eng samarali boʻlishi uchun tanlanadi.
+
+Xiralashgan[tahrir | manbasini tahrirlash]
+Umumiy maqsad — odam oxir-oqibat koʻrsatmalarga muhtoj emas. Shaxs maʼlum bir tezkor darajadagi mahoratni egallashi bilan soʻrov kamroq aralashadigan taklifga oʻtib ketadi. Bu yangi xulq-atvor yoki koʻnikmani oʻrganishda shaxsning maʼlum bir taklifga haddan tashqari qaram boʻlib qolmasligini taʼminlaydi.
+Oʻzini tutishning boshqa usulini koʻrsatishda qilingan asosiy tanlovlardan biri bu takliflar yoki takliflarni oʻchirish usulidir. Uyushtirilgan uslubda soʻrovlarni oʻchirish uchun tartib oʻrnatilishi kerak. Misol uchun, bolaning qoʻllarini yoʻnaltirish boʻyicha haqiqiy qisqartmani xiralashtirish quyidagi ketma-ketlikni kuzatishi mumkin: (a) bilaklarni qoʻllab-quvvatlash, (b) qoʻllarni yumshoq tegizish, (c) pastki qoʻl yoki tirsagi bilan aloqa qilish va (d) haqiqiy aloqani boʻylab va orqali chiqarib tashlash[122].
+
+Mustahkamlash jadvalini yupqalash[tahrir | manbasini tahrirlash]
+Yupqalash koʻpincha xiralashish bilan aralashtiriladi. Xiralashish oʻchirilayotgan soʻrovni bildiradi, bu erda yupqalash kuchaytirgichlar oʻrtasida talab qilinadigan javoblar soni yoki vaqtining koʻpayishini anglatadi[123][124]. Jadvalni noziklashtirish koʻpincha favqulodda vaziyatlarni boshqarish va token iqtisodiyoti tizimlarida muhim va eʼtibordan chetda qoladigan muammodir, ayniqsa ular malakasiz amaliyotchilar tomonidan ishlab chiqilganda (xulq-atvorni tahlil qilish boʻyicha professional amaliyotga qarang)[125].
+
+Umumlashtirish[tahrir | manbasini tahrirlash]
+Umumlashtirish — o‘quvchining ko‘nikmaga ega bo‘lish uchun qo‘yilgan boshlang‘ich shartlaridan tashqarida ishlash qobiliyatini kengaytirishdir[126]. Umumlashtirish odamlar, joylar va oʻqitish uchun ishlatiladigan materiallar boʻyicha sodir boʻlishi mumkin. Misol uchun, biror koʻnikma bir sharoitda, maʼlum bir oʻqituvchi va maxsus materiallar bilan oʻrganilgandan soʻng, koʻnikma boshlangʻich oʻzlashtirish bosqichidan koʻproq oʻzgarib turadigan umumiy sharoitlarda oʻrgatiladi. Xususan, agar talaba stolda ranglarni oʻrganishni muvaffaqiyatli oʻzlashtirgan boʻlsa, oʻqituvchi oʻquvchini uy yoki maktab boʻylab olib borishi va ushbu tabiiy muhitda koʻnikmalarni boshqa materiallar bilan umumlashtirishi mumkin. Xulq-atvor tahlilchilari umumlashtirishga olib keladigan omillarni oʻrganish uchun koʻp vaqt sarfladilar[127].
+
+Shakllantirish[tahrir | manbasini tahrirlash]
+Shakllantirish mavjud xatti-harakatlarni asta-sekin kerakli xatti-harakatlarga oʻzgartirishni oʻz ichiga oladi. Agar talaba itni urish orqali u bilan shugʻullansa, ular itga yumshoqroq teginish orqali oʻzaro munosabatlarni kuchaytirish orqali oʻzlarining xatti-harakatlarini shakllantirishlari mumkin. Koʻpgina oʻzaro taʼsirlarda muvaffaqiyatli shakllanish zarba berish xatti-harakatini silash yoki boshqa yumshoq xatti-harakatlar bilan almashtiradi. Shakllantirish xulq-atvor tahlilchisining operant konditsionerlik tamoyillari va yoʻq boʻlib ketish haqidagi puxta bilimiga asoslanadi. Shakllashni oʻrgatish boʻyicha soʻnggi harakatlar simulyatsiya qilingan kompyuter vazifalaridan foydalangan[128].
+Baʼzi oʻquvchilar, ayniqsa bolalar uchun samarali deb topilgan oʻqitish usullaridan biri bu video modellashtirishdan foydalanish (xulq-atvor namunasi sifatida lenta ketma-ketliklaridan foydalanish). U terapevtlar tomonidan ogʻzaki va motorli javoblarni olishda yordam berish, baʼzi hollarda esa uzoq xatti-harakatlar zanjiri uchun ishlatilishi mumkin[129][130].
+Kichkintoyning yurishni oʻrganishi shakllanishning yana bir misolidir. Bola emaklash, turish, bir necha qadam tashlash va oxir-oqibat yurish orqali mustahkamlanadi. Bola yurishni oʻrganayotganda, ular koʻp qarsaklar va hayajonlar bilan maqtashadi[131].
+
+FBAga asoslangan aralashuvlar[tahrir | manbasini tahrirlash]
+Funksional xulq-atvorni baholash (FBA) muammoli xatti-harakatlarni hal qilishga qaratilgan individual tanqidiy fikrlash jarayonidir. Baholash muammoli xatti-harakatlarning sababini yoki qobiliyatini farqlash uchun olib boriladi. Ushbu baholash oʻzaro taʼsiri muammoni oʻtkazishdan oldin sodir boʻlgan ekologik sharoitlar va oʻzini tutish uslubini mustahkamlaydigan natijaviy mukofotlar toʻgʻrisida maʼlumot toʻplashni oʻz ichiga oladi. Keyin toʻplangan maʼlumotlar oʻzini tutish usullarini kamaytirish va ijobiy xulq-atvor usullarini kengaytirishga qaratilgan individual aralashuvlarni tan olish va amalga oshirish uchun ishlatiladi.
+Xulq-atvorga tahliliy aralashuvlar uchun muhim ahamiyatga ega boʻlgan asosiy narsa xulq-atvorni funksional baholash yoki tahlil qilish bilan tizimli xatti-harakatlarni shakllantirish kontseptsiyasidir[132][133]. Ushbu yondashuv oʻzgarishning xulq-atvori analitik nazariyasini qoʻllashi kerak. Ushbu formulada puxta funktsional baholash, koʻnikmalarni baholash, ketma-ket tahlil (xulq-atvor zanjiri tahlili), ekologik baholash, muammoli xatti-harakatlar uchun mavjud dalillarga asoslangan xatti-harakatlar modellarini koʻrib chiqish (Fordyce surunkali ogʻriq modeli kabi) oʻz ichiga olishi kerak[134]. Baʼzilarning taʼkidlashicha, xatti-harakatlarning tahliliy holatini shakllantirish qoidalar va qoidalar bilan boshqariladigan xatti-harakatlarni baholash bilan takomillashtirilishi mumkin[135][136][137]. Ushbu turdagi kontseptsiyadan kelib chiqadigan baʼzi aralashuvlar muammoli xatti-harakatlarni, shuningdek, muayyan vaziyat, oldingi, xatti-harakat va oqibat strategiyalarini almashtirish uchun maxsus muloqot koʻnikmalarini oʻrgatishni oʻz ichiga oladi[138].
+
+Asosiy jurnallar[tahrir | manbasini tahrirlash]
+Amaliy xatti-harakatlar tahlilchilari koʻplab jurnallarda nashr etadilar. “Asosiy” xatti-harakatlar tahliliy jurnallarining baʼzi misollari:.
+
+Amaliy xatti-harakatlar tahlili jurnali;
+Xulq-atvorning eksperimental tahlili jurnali;
+Xulq-atvor tahlili: tadqiqot va amaliyot[139];
+Bugun xulq-atvor tahlilchisi[140];
+Xulq-atvor fanining istiqbollari (2018-yilgacha The Behavior Analyst);
+Psixologik rekord;
+Nutq-til patologiyasi va amaliy xulq-atvor tahlili jurnali[140];
+Erta va intensiv xatti-harakatlar jurnali[140];
+Xulq-atvor maslahati va terapiyasi xalqaro jurnali[140];
+Bolalardagi xatti-harakatlarni baholash va aralashuv jurnali[140];
+Xulq-atvorni rivojlantirish byulleteni[140];
+Xulq-atvor va ijtimoiy muammolar[141];
+Sport, salomatlik, fitnes va xulq-atvor tibbiyotining xatti-harakatlarini tahlil qilish jurnali[140];
+Jinoyatchi va jabrlanuvchining xulq-atvorini tahlil qilish jurnali: davolash va oldini olish[140];
+Xulq-atvor salomatligi va tibbiyoti[140];
+Amaliy hayvonlarning xulq-atvori haqidagi fan;
+Xulq-atvor terapiyasi;
+Xulq-atvor va falsafa[142].
+Boshqa turlar[tahrir | manbasini tahrirlash]
+ABA boshqa turlarda ham muvaffaqiyatli qoʻllanilgan[143]. Morris qora kalxatda (Coragyps atratus) patlarni yirtishni kamaytirish uchun ABAdan foydalanadi[143].
+
+Yana qarang[tahrir | manbasini tahrirlash]
+Xulq-atvorni tahlil qilish xalqaro assotsiatsiyasi
+Autizm huquqlari harakati
+Bola rivojlanishining xulq-atvorini tahlil qilish
+Xulq-atvor terapiyasi
+Xulq-atvorni faollashtirish
+Konversion terapiya
+Pedagogik psixologiya
+Ota-onalarni boshqarish boʻyicha trening
+Xulq-atvor tahlilining professional amaliyoti
+Qoʻshimcha oʻqish uchun[tahrir | manbasini tahrirlash]
+Cooper, John O.. Applied Behavior Analysis (en). Merrill Publishing Company, 1987. ISBN 978-0-675-20223-7. 
+John J. Wheeler. Behavior Management: Principles and Practices of Positive Behavior Supports. Pearson Education, Limited, 2013. ISBN 978-0-13-285169-5. 
+Steege, M.W.; Mace, F.C.; Perry, L.; Longenecker, H. (2007). "Applied behavior analysis: beyond discrete trial teaching". Psychol Schools 44 (1):  91–99. doi:10.1002/pits.20208. 
+Mayer, G. Roy. Behavior Analysis for Lasting Change, 2/E, Sloan, 2011. ISBN 978-1-59738-032-4. 
+Catania, A. Charles. Learning. Sloan, 2007. ISBN 978-1-59738-007-2. 
+Manbalar[tahrir | manbasini tahrirlash]
+
+↑ Pierce, W. David. Behavior Analysis and Learning: A Biobehavioral Approach, 6, New York: Routledge [1995], June 16, 2017 — 1–622 bet. ISBN 978-1138898585. 
+
+↑ 2,0 2,1 "The psychiatric nurse as a behavioral engineer". Journal of the Experimental Analysis of Behavior 2 (4):  323–334. October 1959. doi:10.1901/jeab.1959.2-323. PMID 13795356. PMC 1403907. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1403907. 
+
+↑ 3,0 3,1 3,2 Baer, D.M.; Wolf, M.M.; Risley, T.R. (1968). "Some current dimensions of applied behavior analysis". Journal of Applied Behavior Analysis 1 (1):  91–97. doi:10.1901/jaba.1968.1-91. PMID 16795165. PMC 1310980. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1310980. 
+
+↑ Mace, F.C. (1994). "The significance and future of functional analysis methodologies". Journal of Applied Behavior Analysis 27 (2):  385–392. doi:10.1901/jaba.1994.27-385. PMID 16795830. PMC 1297814. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1297814. 
+
+↑ L. Pelios; J. Morren; D. Tesch; S. Axelrod (1999). "The impact of functional analysis methodology on treatment choice for self-injurious and aggressive behavior". Journal of Applied Behavior Analysis 32 (2):  185–195. doi:10.1901/jaba.1999.32-185. PMID 10396771. PMC 1284177. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1284177. 
+
+↑ 6,0 6,1 6,2 F.C. Mace; T.S. Critchfield (May 2010). "Translational research in behavior analysis: Historical traditions and imperative for the future". Journal of the Experimental Analysis of Behavior 93 (3):  293–312. doi:10.1901/jeab.2010.93-293. PMID 21119847. PMC 2861871. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=2861871. 
+
+↑ 7,0 7,1 „BACB CERTIFICANT DATA“ (en-US). Behavior Analyst Certification Board. Qaraldi: 14-may 2022-yil.
+
+
+
+↑ 8,0 8,1 8,2 Dillenburger, K.; Keenan, M. (2009). "None of the As in ABA stand for autism: dispelling the myths". J Intellect Dev Disabil 34 (2):  193–95. doi:10.1080/13668250902845244. PMID 19404840. 
+
+↑ Wong, S.E.; Seroka, P.P.; Ogisi, J. (2000). "Effect of a checklist on self-assessment of blood glucose level by a memory-impaired woman with diabetes mellitus". Journal of Applied Behavior Analysis 33 (2):  251–254. doi:10.1901/jaba.2000.33-251. PMID 10885534. PMC 1284245. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1284245. 
+
+↑ 10,0 10,1 „Commentary: The autistic community is having a reckoning with ABA therapy. We should listen“ (en). Fortune. Qaraldi: 15-may 2022-yil.
+
+
+
+↑ McGill, O. „Recalling hidden harms: autistic experiences of childhood“. Strathprints.strath.ac.uk. Qaraldi: 24-iyul 2022-yil.
+
+
+
+↑ Schuck, Rachel K.; Tagavi, Daina M.; Baiden, Kaitlynn M. P.; Dwyer, Patrick; Williams, Zachary J.; Osuna, Anthony; Ferguson, Emily F.; Jimenez Muñoz, Maria et al. (2021). "Neurodiversity and Autism Intervention: Reconciling Perspectives Through a Naturalistic Developmental Behavioral Intervention Framework". Journal of Autism and Developmental Disorders 52 (10):  4625–4645. doi:10.1007/s10803-021-05316-x. PMID 34643863. PMC 9508016. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=9508016. 
+
+↑ Ne'eman, Ari (2021-07-01). "When Disability Is Defined by Behavior, Outcome Measures Should Not Promote "Passing"". AMA Journal of Ethics 23 (7):  E569–575. doi:10.1001/amajethics.2021.569. ISSN 2376-6980. PMID 34351268. PMC 8957386. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=8957386. 
+
+↑ Kronstein. „Treating autism as a problem: The connection between Gay Conversion Therapy and ABA“. The Nova Scotia Advocate (11-iyul 2018-yil). Qaraldi: 25-dekabr 2022-yil.
+
+
+
+↑ 15,0 15,1 Reichow, B.; Hume, K.; Barton, E. E.; Boyd, B. A. (2018). "Early intensive behavioral intervention (EIBI) for increasing functional behaviors and skills in young children with autism spectrum disorders (ASD)" (en). The Cochrane Database of Systematic Reviews 5 (5):  CD009260. doi:10.1002/14651858.CD009260.pub3. PMID 29742275. PMC 6494600. https://www.cochrane.org/CD009260/BEHAV_early-intensive-behavioral-intervention-eibi-increasing-functional-behaviors-and-skills-young. Qaraldi: 2023-02-06. Amaliy xatti-harakatlar tahlili]]
+
+↑ 16,0 16,1 Kirkham, Patrick (2017-04-01). "'The line between intervention and abuse' – autism and applied behaviour analysis" (en). History of the Human Sciences 30 (2):  107–126. doi:10.1177/0952695117702571. ISSN 0952-6951. 
+
+↑ Marr, M (2009). "The natural selection: behavior analysis as a natural science". European Journal of Behavior Analysis 10 (2):  103–118. doi:10.1080/15021149.2009.11434313. Archived from the original on 29 November 2014. https://web.archive.org/web/20141129034739/http://www.ejoba.org/PDF/2009_2/Marr_2009.pdf. 
+
+↑ Thompson, T. (1984). "The examining magistrate for nature: a retrospective review of Claude Bernard's An Introduction to the Study of Experimental Medicine". Journal of the Experimental Analysis of Behavior 2 (41):  212–13. doi:10.1901/jeab.1984.41-211. PMC 1348034. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1348034. 
+
+↑ 19,0 19,1 19,2 19,3 "O. Ivar Lovaas (1927–2010)". The Behavior Analyst 34 (1):  111–114. 2011. doi:10.1007/BF03392239. PMC 3089401. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=3089401. 
+
+↑ 20,0 20,1 20,2 20,3 Cooper, J.O.. Applied Behavior Analysis, 2nd, Prentice Hall, 2007. ISBN 978-0-13-142113-4. 
+
+↑ Lovitt, Thomas C. (1993). "A brief history of applied behavior analysis at the University of Washington". Journal of Applied Behavior Analysis 26 (4):  563–567. doi:10.1901/jaba.1993.26-563. PMID 16795814. PMC 1297893. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1297893. 
+
+↑ „Identifying applied behavior analysis interventions“. Association of Professional Behavior Analysts (25-iyul 2016-yil). Qaraldi: 3-dekabr 2018-yil.
+
+
+
+↑ 23,0 23,1 Baer, Donald M. (1993). "A brief, selective history of the Department of Human Development and Family Life at the University of Kansas: The early years". Journal of Applied Behavior Analysis 26 (4):  569–570. doi:10.1901/jaba.1993.26-569. PMID 16795815. PMC 1297894. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1297894. 
+
+↑ 24,0 24,1 Smith, T; Eikseth (14 December 2010). "S". Journal of Autism and Developmental Disorders 41 (3):  375–378. doi:10.1007/s10803-010-1162-0. PMID 21153872. 
+
+↑ Chance. „Psychology Today: 'After you hit a child, you can't just get up and leave him; you are hooked to that kid' interview with Ole Ivar Lovaas“. Neurodiversity (1974). Qaraldi: 3-mart 2022-yil.
+
+ (excerpt from Psychology Today)
+
+↑ Lovaas, O. I. (February 1987). "Behavioral treatment and normal educational and intellectual functioning in young autistic children". Journal of Consulting and Clinical Psychology 55 (1):  3–9. doi:10.1037/0022-006x.55.1.3. ISSN 0022-006X. PMID 3571656. https://pubmed.ncbi.nlm.nih.gov/3571656/. 
+
+↑ "Intensive behavioral treatment for children with autism: Four-year outcome and predictors". American Journal on Mental Retardation 110 (6):  417–438. November 2005. doi:10.1352/0895-8017(2005)110[417:IBTFCW]2.0.CO;2. PMID 16212446. https://pubmed.ncbi.nlm.nih.gov/16212446/. Qaraldi: September 18, 2018. Amaliy xatti-harakatlar tahlili]]
+
+↑ "Early intensive behavioral treatment: replication of the UCLA model in a community setting". Journal of Developmental and Behavioral Pediatrics 27 (2):  145–155. April 2006. doi:10.1097/00004703-200604002-00013. PMID 16685181. https://pubmed.ncbi.nlm.nih.gov/16685181/. Qaraldi: September 18, 2018. Amaliy xatti-harakatlar tahlili]]
+
+↑ „Pediatric Feeding Therapy & ABA: General Info & Systematic Review“ (En-US). Nevada Autism Center, 7730 West Sahara Avenue #115, Las Vegas, NV 89117, (702) 660-2005 (3-aprel 2021-yil). Qaraldi: 3-iyul 2022-yil.
+
+
+
+↑ Anderson, CM; Freeman, KA (Spring 2000). "Positive behavior support: Expanding the application of applied behavior analysis.". The Behavior Analyst 23 (1):  85–94. doi:10.1007/BF03392001. PMID 22478340. PMC 2731369. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=2731369. 
+
+↑ Anderson, CM; Kincald, D (2005). "Applying behavior analysis to school violence and discipline problems". The Behavior Analyst 28 (1):  49–63. doi:10.1007/BF03392103. PMID 22478439. PMC 2755344. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=2755344. 
+
+↑ Waasdorp, TE; Bradshaw, CP; Leaf, PJ (Winter 2012). "The impact of schoolwide positive behavioral interventions and supports on bullying and peer rejection: a randomized controlled effectiveness trial". Archives of Pediatrics and Adolescent Medicine 166 (2):  149–56. doi:10.1001/archpediatrics.2011.755. PMID 22312173. 
+
+↑ 33,0 33,1 33,2 Baer, D.M.; Wolf, M.M.; Risley, T.R. (1968). "Some current dimensions of applied behavior analysis". J Appl Behav Anal 1 (1):  91–97. doi:10.1901/jaba.1968.1-91. PMID 16795165. PMC 1310980. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1310980. 
+
+↑ Cooper, Heron & Heward 1987, s. 16 harvnb error: no target: CITEREFCooperHeronHeward1987 (help)
+
+↑ Cooper, Heron & Heward 1987, s. 17 harvnb error: no target: CITEREFCooperHeronHeward1987 (help)
+
+↑ Focus on behavior analysis in education: Achievements, challenges, and opportunities Heward, W.L.: . Upper Saddle River, NJ: Prentice Hall/Merrill, 2005. ISBN 978-0-13-111339-8. 
+
+↑ Stokes, Trevor. A small matter of proof: the legacy of Donald M. Baer. Reno, NV: Context Press, 2003. ISBN 978-1-878978-43-1. 
+
+↑ Heward, 205 p. 322
+
+↑ Cooper, Heron & Heward 1987, s. 19 harvnb error: no target: CITEREFCooperHeronHeward1987 (help)
+
+↑ Sandoval-Norton, Aileen H.; Shkedy, Gary; Shkedy, Dalia (2021-06-01). "Long-term ABA Therapy Is Abusive: A Response to Gorycki, Ruppel, and Zane" (en). Advances in Neurodevelopmental Disorders 5 (2):  126–134. doi:10.1007/s41252-021-00201-1. ISSN 2366-7540. 
+
+↑ Matson, Johnny; Hattier, Megan; Belva, Brian (January–March 2012). "Treating adaptive living skills of persons with autism using applied behavior analysis: A review". Research in Autism Spectrum Disorders 6 (1):  271–276. doi:10.1016/j.rasd.2011.05.008. 
+
+↑ Myers, Scott M.; Johnson, Chris Plauché (1 November 2007). "Management of Children With Autism Spectrum Disorders". Pediatrics 120 (5):  1162–1182. doi:10.1542/peds.2007-2362. ISSN 0031-4005. PMID 17967921. http://pediatrics.aappublications.org/content/120/5/1162. 
+
+↑ "Early intensive behavioral intervention (EIBI) for young children with autism spectrum disorders (ASD)". The Cochrane Database of Systematic Reviews 5 (10):  CD009260. May 2018. doi:10.1002/14651858.CD009260.pub3. PMID 29742275. PMC 6494600. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=6494600. 
+
+↑ 44,0 44,1 Shreck, K.A.; Metz, B.; Mulick, J.A.; Smith, A. (2000). "Making it fit: A Provocative Look at Models of Early Intensive Behavioral Intervention for Children with Autism". The Behavior Analyst Today 1 (3):  27–32. doi:10.1037/h0099886. 
+
+↑ 45,0 45,1 Mary Jane Weiss; Delmolino Lara (2006). "The Relationship Between Early Learning Rates and Treatment Outcome For Children With Autism Receiving Intensive Home-Based Applied Behavior Analysis". The Behavior Analyst Today 7 (1):  96–105. doi:10.1037/h0100140. 
+
+↑ Leaf, Justin B.; Cihon, Joseph H.; Leaf, Ronald; McEachin, John; Liu, Nicholas; Russell, Noah; Unumb, Lorri; Shapiro, Sydney et al. (2021-06-16). "Concerns About ABA-Based Intervention: An Evaluation and Recommendations" (en). Journal of Autism and Developmental Disorders 52 (6):  2838–2853. doi:10.1007/s10803-021-05137-y. ISSN 1573-3432. PMID 34132968. PMC 9114057. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=9114057. 
+
+↑ Bottema-Beutel, Kristen; Crowley, Shannon (2021). "Pervasive Undisclosed Conflicts of Interest in Applied Behavior Analysis Autism Literature". Frontiers in Psychology 12:  676303. doi:10.3389/fpsyg.2021.676303. ISSN 1664-1078. PMID 34025538. PMC 8131529. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=8131529. 
+
+↑ Davis, Rachel; Nordahl-Hansen, Anders; den Houting, Jacquiline; Fletcher-Watson, Sue (March 2022). "Helping autistic children". The Wiley-Blackwell Handbook of Childhood Social Development:  729–746. doi:10.1002/9781119679028.ch39. ISBN 9781119678984. https://osf.io/zrfyp/. 
+
+↑ Rodgers, Mark; Marshall, David; Simmonds, Mark; Le Couteur, Ann; Biswas, Mousumi; Wright, Kath; Rai, Dheeraj; Palmer, Stephen et al. (2020-07-20). "Interventions based on early intensive applied behaviour analysis for autistic children: a systematic review and cost-effectiveness analysis" (EN). Health Technology Assessment 24 (35):  1–306. doi:10.3310/hta24350. ISSN 2046-4924. PMID 32686642. PMC 7397479. https://www.journalslibrary.nihr.ac.uk/hta/hta24350/. 
+
+↑ Bottema-Beutel, Kristen; Crowley, Shannon; Sandbank, Micheal; Woynaroski, Tiffany G (19 October 2020). "Adverse event reporting in intervention research for young autistic children". Autism 25 (2):  322–335. doi:10.1177/1362361320965331. ISSN 1362-3613. PMID 33076682. PMC 7870528. http://dx.doi.org/10.1177/1362361320965331. 
+
+↑ Dawson, Michelle; Fletcher-Watson, Sue (February 2022). "When autism researchers disregard harms: A commentary" (en). Autism 26 (2):  564–566. doi:10.1177/13623613211031403. ISSN 1362-3613. PMID 34291651. PMC 8814944. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=8814944. 
+
+↑ 52,0 52,1 52,2 Warren, Z.. Therapies for children with autism spectrum disorders, AHRQ Publication No. 11-EHC029-EF, Comparative Effectiveness Review No. 26. Rockville, MD: Agency for Healthcare Research and Quality, 2011. 15-iyul 2011-yilda qaraldi.  Wayback Machine saytida arxivlandi (2011-10-02).
+
+↑ "Publication bias in studies of an applied behavior-analytic intervention: an initial analysis". Journal of Applied Behavior Analysis 47 (3):  663–78. 2014. doi:10.1002/jaba.146. PMID 24990802. 
+
+↑ Sandbank, Micheal; Bottema-Beutel, Kristen; Crowley, Shannon; Cassidy, Margaret; Dunham, Kacie; Feldman, Jacob I.; Crank, Jenna; Albarran, Susanne A. et al. (January 2020). "Project AIM: Autism intervention meta-analysis for studies of young children". Psychological Bulletin 146 (1):  1–29. doi:10.1037/bul0000215. ISSN 1939-1455. PMID 31763860. PMC 8783568. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=8783568. 
+
+↑ Myers, S.M.; Johnson, C.P.; Council on Children with Disabilities (2007). "Management of children with autism spectrum disorders". Pediatrics 120 (5):  1162–82. doi:10.1542/peds.2007-2362. PMID 17967921. http://pediatrics.aappublications.org/cgi/content/full/120/5/1162. 
+
+↑ Rogers, S.J.; Vismara, L.A. (2008). "Evidence-based comprehensive treatments for early autism". J Clin Child Adolesc Psychol 37 (1):  8–38. doi:10.1080/15374410701817808. PMID 18444052. PMC 2943764. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=2943764. 
+
+↑ Eikeseth, S. (2009). "Outcome of comprehensive psycho-educational interventions for young children with autism". Res Dev Disabil 30 (1):  158–78. doi:10.1016/j.ridd.2008.02.003. PMID 18385012. https://www.researchgate.net/publication/5467678. 
+
+↑ Reichow, B.; Wolery, M. (2009). "Comprehensive synthesis of early intensive behavioral interventions for young children with autism based on the UCLA Young Autism Project model". J Autism Dev Disord 39 (1):  23–41. doi:10.1007/s10803-008-0596-0. PMID 18535894. https://archive.org/details/sim_journal-of-autism-and-developmental-disorders_2009-01_39_1/page/23. 
+
+↑ Howlin, P.; Magiati, I.; Charman, T. (2009). MacLean, Jr.. ed. "Systematic review of early intensive behavioral interventions for children with autism". Am J Intellect Dev Disabil 114 (1):  23–41. doi:10.1352/2009.114:23-41. PMID 19143460. 
+
+↑ Eldevik, S.; Hastings, R.P.; Hughes, J.C.; Jahr, E.; Eikeseth, S.; Cross, S. (2009). "Meta-analysis of Early Intensive Behavioral Intervention for children with autism". J Clin Child Adolesc Psychol 38 (3):  439–50. doi:10.1080/15374410902851739. PMID 19437303. 
+
+↑ 61,0 61,1 Spreckley, M.; Boyd, R. (2009). "Efficacy of applied behavioral intervention in preschool children with autism for improving cognitive, language, and adaptive behavior: a systematic review and meta-analysis". J Pediatr 154 (3):  338–44. doi:10.1016/j.jpeds.2008.09.012. PMID 18950798. https://archive.org/details/sim_journal-of-pediatrics_2009-03_154_3/page/338. 
+
+↑ 62,0 62,1 62,2 Smith, T.; Eikeseth, S.; Sallows, G.O.; Graupner, T.D. (2009). "Efficacy of applied behavior analysis in autism". J Pediatr 155 (1):  151–52; author reply 152–53. doi:10.1016/j.jpeds.2009.01.065. PMID 19559310. https://archive.org/details/sim_journal-of-pediatrics_2009-07_155_1/page/151. 
+
+↑ „Professional and Ethical Compliance Code for Behavior Analysts“. Behavior Analyst Certification Board (7-avgust 2014-yil). 12-avgust 2020-yilda asl nusxadan arxivlandi. Qaraldi: 15-noyabr 2021-yil.
+
+
+
+↑ 64,0 64,1 64,2 Sandoval-Norton, Aileen H.; Shkedy, Gary; Shkedy, Dalia (2021-04-09). "Long-term ABA Therapy Is Abusive: A Response to Gorycki, Ruppel, and Zane". Advances in Neurodevelopmental Disorders 5 (2):  126–134. doi:10.1007/s41252-021-00201-1. ISSN 2366-7532. 
+
+↑ 65,0 65,1 Wilkenfeld, Daniel A.; McCarthy, Allison M. (2020). "Ethical Concerns with Applied Behavior Analysis for Autism Spectrum "Disorder"". Kennedy Institute of Ethics Journal 30 (1):  31–69. doi:10.1353/ken.2020.0000. ISSN 1086-3249. PMID 32336692. https://muse.jhu.edu/article/753840. 
+
+↑ 66,0 66,1 Gibson, Margaret F.; Douglas, Patty (2018-10-16). "Disturbing Behaviours: Ole Ivar Lovaas and the Queer History of Autism Science" (en). Catalyst: Feminism, Theory, Technoscience 4 (2):  1–28. doi:10.28968/cftt.v4i2.29579. ISSN 2380-3312. https://catalystjournal.org/index.php/catalyst/article/view/29579. 
+
+↑ Pyne, Jake (2020). ""Building a Person": Legal and Clinical Personhood for Autistic and Trans Children in Ontario" (en). Canadian Journal of Law and Society / La Revue Canadienne Droit et Société 35 (2):  341–365. doi:10.1017/cls.2020.8. ISSN 0829-3201. https://www.cambridge.org/core/journals/canadian-journal-of-law-and-society-la-revue-canadienne-droit-et-societe/article/building-a-person-legal-and-clinical-personhood-for-autistic-and-trans-children-in-ontario/2041374EDCDAD44AE2DE1EB9D2C16361. 
+
+↑ "Pervasive Undisclosed Conflicts of Interest in Applied Behavior Analysis Autism Literature". Frontiers in Psychology 12:  676303. 2021. doi:10.3389/fpsyg.2021.676303. PMID 34025538. PMC 8131529. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=8131529. 
+
+↑ Wilkenfeld, Daniel A.; McCarthy, Allison M. (2020). "Ethical Concerns with Applied Behavior Analysis for Autism Spectrum "Disorder"" (en). Kennedy Institute of Ethics Journal 30 (1):  31–69. doi:10.1353/ken.2020.0000. ISSN 1086-3249. PMID 32336692. https://muse.jhu.edu/article/753840. 
+
+↑ 70,0 70,1 McGill, Owen; Robinson, Anna (2020-10-23). ""Recalling hidden harms": autistic experiences of childhood applied behavioural analysis (ABA)". Advances in Autism 7 (4):  269–282. doi:10.1108/aia-04-2020-0025. ISSN 2056-3868. https://strathprints.strath.ac.uk/73753/1/McGill_Robinson_AA_2020_autistic_experiences_of_childhood_Applied_Behavioural_Analysis.pdf. 
+
+↑ Callahan, Kevin; Shukla-Mehta, Smita; Magee, Sandy; Wie, Min (2009-08-01). "ABA Versus TEACCH: The Case for Defining and Validating Comprehensive Treatment Models in Autism". Journal of Autism and Developmental Disorders 40 (1):  74–88. doi:10.1007/s10803-009-0834-0. ISSN 0162-3257. PMID 19649699. 
+
+↑ Damian, Milton. So what exactly are autism interventions intervening with?. The British Institute of Learning Disabilities, 2014-10-01. OCLC 1005017347. 
+
+↑ Soloman. „The Autism Rights Movement“. New York Magazine. Qaraldi: 8-mart 2016-yil.
+
+
+
+↑ Cassidy, Sarah; Bradley, Louise; Shaw, Rebecca; Baron-Cohen, Simon (2018). "Risk markers for suicidality in autistic adults". Molecular Autism 9:  42. doi:10.1186/s13229-018-0226-4. ISSN 2040-2392. PMID 30083306. PMC 6069847. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=6069847. 
+
+↑ Cook, Julia; Hull, Laura; Crane, Laura; Mandy, William (2021-11-01). "Camouflaging in autism: A systematic review" (en). Clinical Psychology Review 89:  102080. doi:10.1016/j.cpr.2021.102080. ISSN 0272-7358. PMID 34563942. https://www.sciencedirect.com/science/article/pii/S0272735821001239. 
+
+↑  „Chapter 10: Behavioral treatments for children with ASDs“,The Autism Spectrum: Scientific Foundations and Treatment. Cambridge University Press, 2012 — 239–257 bet. DOI:10.1017/CBO9780511978616.011. ISBN 9780511978616.  (subscription required)
+
+↑ Michael Cameron (14 April 2014). ﻿Aversive comments - part 1﻿ (Report). United States Food and Drug Administration. p. 4. FDA-2014-N-0238. Archived from the original on 2017-01-14. https://wayback.archive-it.org/7993/20170114045650/http://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/MedicalDevices/MedicalDevicesAdvisoryCommittee/NeurologicalDevicesPanel/UCM395024.pdf. Qaraldi: 10 October 2020. 
+
+↑ „UN Calls Shock Treatment at Mass. School 'Torture'“ (en). ABC News. Qaraldi: 3-may 2022-yil.
+
+
+
+↑ „FDA Takes Rare Step to Ban Electrical Stimulation Devices for Self-Injurious or Aggressive Behavior“.  United States Food and Drug Administration (24-mart 2020-yil). Qaraldi: 9-oktabr 2020-yil.
+
+
+
+↑ Pierson, Brendan. „D.C. Circuit overturns FDA ban on shock device for disabled students“ (en). Reuters (7-iyul 2021-yil). Qaraldi: 3-may 2022-yil.
+
+↑ Johnston, James M.. Strategies and tactics of behavioral research. Hillsdale, NJ: Erlbaum Associates, 1993a — 23 bet. ISBN 978-0-8058-0905-3. 
+
+↑ Cooper, Heron & Heward 1987, s. 26 harvnb error: no target: CITEREFCooperHeronHeward1987 (help)
+
+↑ Cooper, Heron & Heward 1987, s. 33 harvnb error: no target: CITEREFCooperHeronHeward1987 (help)
+
+↑ Flora, S.R.. The power of reinforcement. Albany: State University of New York Press, 2004. 
+
+↑ Northup, J.; Vollmer, T.R.; Serret, K. (1993). "Publication trends in 25 years of the Journal of Applied Behavior Analysis". Journal of Applied Behavior Analysis 26 (4):  527–37. doi:10.1901/jaba.1993.26-527. PMID 16795803. PMC 1297882. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1297882. 
+
+↑ Cooper, Heron & Heward 1987, s. 27 harvnb error: no target: CITEREFCooperHeronHeward1987 (help)
+
+↑ 87,0 87,1 Rubino. „The man behind ex-gay "conversion therapy" started out trying to make autistic children "normal"“.  LBGTQNATION. Qaraldi: 25-dekabr 2022-yil.
+
+
+
+↑ Cooper, Heron & Heward 1987, s. 355 harvnb error: no target: CITEREFCooperHeronHeward1987 (help)
+
+↑ Reese E.P.. The analysis of human operant behavior. Dubuque, Iowa: Brown, 1966. 
+
+↑ Miltenberger, R. G. „Behavioral Modification: Principles and Procedures“. Thomson/Wadsworth, 2008. p. 102.
+
+↑ Miltenberger, R. G. „Behavioral Modification: Principles and Procedures“. Thomson/Wadsworth, 2008. p. 104.
+
+↑ Moxley, R.A. (2004). "Pragmatic selectionism. The philosophy of behavior analysis". The Behavior Analyst Today 5:  108–25. doi:10.1037/h0100137. 
+
+↑ Cooper, Heron & Heward 1987, s. 41 harvnb error: no target: CITEREFCooperHeronHeward1987 (help)
+
+↑ Peterson, P. (2007). Promoting generalization and maintenance of skills learned via natural language teaching. SPL-ABA 1(4)-2(1), 97-138
+
+↑ Skinner, B.F.. Verbal behavior, 17 November 2014. ISBN 978-1-62654-014-9. OCLC 931706319. 
+
+↑ Johnston, J.M.. Readings for Strategies and tactics of behavioral research, 2nd, Hillsdale, HF: Erlbaum, 1993b. ISBN 978-0-8058-0906-0. 
+
+↑ „Module 5: Measurement | Applied Behavior Analysis (PSYCH 581)“.
+
+
+
+↑ „Applied Behavior Analysis“.
+
+
+
+↑ „The importance of measuring behavior“ (13-mart 2013-yil).
+
+
+
+↑ Cooper, Heron & Heward 1987, s. 422 harvnb error: no target: CITEREFCooperHeronHeward1987 (help)
+
+↑ Behavioral Cusp
+
+↑ Crowell, C.R.; Anderson, D.C.; Abel, D.M.; Sergio, J.P. (1988). "Task clarification, performance feedback, and social praise: procedures for improving the customer service of bank tellers". J Appl Behav Anal 21 (1):  65–71. doi:10.1901/jaba.1988.21-65. PMID 16795713. PMC 1286094. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1286094. 
+
+↑ MacDuff, G.S.; Krantz, P.J.; McClannahan, L.E. (1993). "Teaching children with autism to use photographic activity schedules: Maintenance and generalization of complex response chains". Journal of Applied Behavior Analysis 26 (1):  89–97. doi:10.1901/jaba.1993.26-89. PMID 8473261. PMC 1297722. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1297722. 
+
+↑ Krantz, P.J.; McClannahan, L.E. (1993). "Teaching children with autism to initiate to peers: Effects of a script-fading procedure". Journal of Applied Behavior Analysis 26 (1):  121–32. doi:10.1901/jaba.1993.26-121. PMID 8473251. PMC 1297725. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1297725. 
+
+↑ Bergan, J.R.. Behavioral Consultation. Merrill, 1977. ISBN 978-0-675-08488-8. 
+
+↑ Kratochwill, T.R.; Van Someren, K.R.; Sheridan, S.M. (1989). "Training behavioral consultants: a competency-based model to teach interview skills". Professional School Psychology 4:  41–58. doi:10.1037/h0090570. 
+
+↑ Ivey, A.E.; Normington, C.J.; Miller, C.D.; Morrill, W.H.; Haase, R.F. (1968). "Microcounseling and attending behavior: an approach to prepracticum counselor training". J Couns Psychol 15 (5, pt. 2):  1–12. doi:10.1037/h0026129. 
+
+↑ Ivey, A.E.. Intentional Interviewing and Counseling: Facilitating Client Development in a Multicultural Society, 4th, Brooks/Cole, 1998. ISBN 978-0-534-35756-6. 
+
+↑ Iwata, B.A.; Wong, S.E.; Riordan, M.M.; Dorsey, M.F.; Lau, M.M. (1982). "Assessment and training of clinical interviewing skills: Analogue analysis and field replication". Journal of Applied Behavior Analysis 15 (2):  191–203. doi:10.1901/jaba.1982.15-191. PMID 7118753. PMC 1308264. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1308264. 
+
+↑ Littrell, J.M. (2001). "Allen E. Ivey: transforming counseling theory and practice". J Couns Dev 79 (1):  105–18. doi:10.1002/j.1556-6676.2001.tb01949.x. http://bahai-library.com/newspapers/2001/010101-1.html. Qaraldi: 4 January 2008. Amaliy xatti-harakatlar tahlili]]
+
+↑ McLennan, J. (1994). "The skills-based model of counselling training: a review of the evidence". Aust Psychol 29 (2):  79–88. doi:10.1080/00050069408257328. 
+
+↑ Krumboltz, J.D. „A social learning theory of career selection“,. Annual Review of Research in Vocational Education, Vol. 1 Wentling TL: . Office of Vocational Education Research, University of Illinois, 1980 — 259–82 bet. 
+
+↑ Englemann, S. (1968). "Relating operant techniques to programming and teaching". J Sch Psychol 6 (2):  89–96. doi:10.1016/0022-4405(68)90002-2. https://archive.org/details/sim_journal-of-school-psychology_winter-1968_6_2/page/89. 
+
+↑ Cooper, Heron & Heward 1987 harvnb error: no target: CITEREFCooperHeronHeward1987 (help)
+
+↑ Weiss, K.M. (1978). "A comparison of forward and backward procedures for the acquisition of response chains in humans". J Exp Anal Behav 29 (2):  255–59. doi:10.1901/jeab.1978.29-255. PMID 16812053. PMC 1332753. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1332753. 
+
+↑ Principles of Behavior. Richard W. Malott and Kelly T. Kohler, 2021. 
+
+↑ Ontario Ministry of Education. Effective Educational Practices for Students with ASD. Queen's Printer for Ontario, 2007. 
+
+↑ Barnett, D.W. (2006). "Preschool Intervention Scripts: Lessons from 20 years of Research and Practice". Journal of Speech-Language Pathology and Applied Behavior Analysis 2 (2):  158–81. doi:10.1037/h0100216. 
+
+↑ 119,0 119,1 Martin. Behavior Modification: What is it and how to do it?, 7th, Upper Saddle River NJ: Pearson Education, 2003. 
+
+↑ VanDerHeyden, A.M.; Snyder, P.; DiCarlo, C.F.; Stricklin, S.B.; Vagianos, L.A. (2002). "Comparison of within-stimulus and extra-stimulus prompts to increase targeted play behaviors in an inclusive early intervention program". Behav Analyst Today 3 (2):  188–97. doi:10.1037/h0099967. 
+
+↑ Chesnut, M.; Williamson, P.N.; Morrow, J.E. (2003). "The use of visual cues to teach receptive skills to children with severe auditory discrimination deficits". Behav Analyst Today 4 (2):  212–24. doi:10.1037/h0100120. 
+
+↑ „The Importance of Measuring Behavior“ (13-mart 2013-yil).
+
+
+
+↑ LeBlanc, L.A.; Hagoplan, L.P.; Maglieri, K.A.; Poling, A. (2002). "Decreasing the intensity of reinforcement-based interventions for reducing behavior: conceptual issues and a proposed model for clinical practice". Behav Analyst Today 3 (3):  289–300. doi:10.1037/h0099991. 
+
+↑ Cautilli, J. (2005). "Brief report: application of proposed model of decreasing reinforcement intensity". Int J Behav Consult Ther 1 (1):  21–36. doi:10.1037/h0100731. 
+
+↑ Bailey, J. S. & Burch, M. R. (2005). Ethics for behavior analysts. LEA
+
+↑ Alberto. Applied behavior analysis for teachers, 7th, Upper Saddle River NJ: Pearson Education, 2006. 
+
+↑ Osnes, P.G.; Lieblein, T. (2003). "An explicit technology of generalization". Behav Analyst Today 3 (4):  364–74. doi:10.1037/h0099994. 
+
+↑ Kemp, S.M.; Eckerman, D.A. (2002). "Simulating a shaping task". Behav Analyst Today 3 (2):  166–78. doi:10.1037/h0099975. 
+
+↑ D'Ateno, P.; Mangiapanello, K.; Taylor, B.A. (2002). "Using video modeling to teach complex play sequences to a preschooler with autism". J Posit Behav Interv 5 (1):  5–11. doi:10.1177/10983007030050010801. 
+
+↑ Corbett, B.A.; Abdullah, M. (2005). "Video modeling: why does it work for children with autism?". J Early Intensive Behav Interv 2 (1):  2–8. doi:10.1037/h0100294. 
+
+↑ „Shaping, Chaining, & Task Analysis with an Example from Everyday Life“ (20-fevral 2020-yil).
+
+
+
+↑ Tryon, W.W. (1976). "A system of behavioral diagnosis". Prof Psychol 7 (4):  495–506. doi:10.1037/0735-7028.7.4.495. 
+
+↑ Kanfer, F.H. „Behavioral diagnosis“,. Behavior Therapy: Appraisal and Status Franks CM: . McGraw-Hill, 1969 — 417–44 bet. OCLC 24223. 
+
+↑ Romano, J.M.; Jensen, M.P.; Turner, J.A.; Good, A.B.; Hops, H. (2000). "Chronic pain patient-partner interactions: further support for a behavioral model of chronic pain". Behav Ther 31 (3):  415–40. doi:10.1016/S0005-7894(00)80023-4. 
+
+↑ Malott, R.W. (1992). "A theory of rule-governed behavior and organizational behavior management". J Organ Behav Manage 12 (2):  45–65. doi:10.1300/J075v12n02_03. 
+
+↑ Malott, R.W.; Shimamune, S.; Malott, M.E. (1992). "Rule-governed behavior and organizational behavior management: an analysis of interventions". J Organ Behav Manage 12 (2):  103–16. doi:10.1300/J075v12n02_09. 
+
+↑ Hayes, S.C.; Brownstein, A.J.; Zettle, R.D.; Rosenfarb, I.; Korn, Z. (1986). "Rule-governed behavior and sensitivity to changing consequences of responding". J Exp Anal Behav 45 (3):  237–56. doi:10.1901/jeab.1986.45-237. PMID 16812448. PMC 1348236. //www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1348236. 
+
+↑ Gerhardt, P.F.; Weiss, M.J.; Delmolino, L. (2003). "Treatment of severe aggression in an adolescent with autism: non-contingent reinforcement and functional communication training". Behav Analyst Today 4 (4):  386–94. doi:10.1037/h0100124. 
+
+↑ „Behavior Analysis: Research and Practice“.  APA.
+
+
+
+↑ 140,0 140,1 140,2 140,3 140,4 140,5 140,6 140,7 140,8 „BAOJournals Have Moved“. baojournal.com. Qaraldi: 15-yanvar 2016-yil.
+
+
+
+↑ „Behavior and Social Issues“.  Uic.edu. 15-yanvar 2020-yilda asl nusxadan arxivlandi. Qaraldi: 2-oktabr 2013-yil.
+
+
+
+↑ „Cambridge Center for Behavioral Studies“.  Behavior.org. Qaraldi: 2-oktabr 2013-yil.
+
+
+
+↑ 143,0 143,1 This study Morris, Kristen; Slocum, Sarah (2019). "Functional analysis and treatment of self‐injurious feather plucking in a black vulture (Coragyps atratus)". Journal of Applied Behavior Analysis (John Wiley & Sons, Inc. (Society for the Experimental Analysis of Behavior (SEAB))) 52 (4):  918–927. doi:10.1002/jaba.639. ISSN 0021-8855. PMID 31523815.  is cited by Gottlieb, Daniel „Utilizing Behavior to Assess Welfare“,. Behavioral Biology of Laboratory Animals. CRC Press, 2021 — 51–64 bet. DOI:10.1201/9780429019517-5. ISBN 978-0-429-01951-7.  Fernandez, Eduardo; Martin, Allison (2022). "Applied behavior analysis and the zoo: Forthman and Ogden (1992) thirty years later". Journal of Applied Behavior Analysis (John Wiley & Sons, Inc. (Society for the Experimental Analysis of Behavior (SEAB))) 56 (1):  29–54. doi:10.1002/jaba.969. ISSN 0021-8855. PMID 36562615. 
+
+
+
+
+

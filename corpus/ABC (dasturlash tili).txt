@@ -1,0 +1,59 @@
+ABC
+
+ABC dasturlash tili logotipi
+Tuzilgan yili
+
+1-yanvar, 1987-yil (36 yil avval) (1987-01-01)Operatsion tizim
+
+Unix-like, Windows, MacOS, va Atari TOSVebsayt
+
+homepages.cwi.nl/~steven/abc/Bunga asos boʻlgan tillar
+SETL, ALGOL 68[1]Buning asosida tuzilgan tillar
+Python
+
+ABC umumiy maqsadli dasturlash tili va integratsiyalashgan rivojlanish muhiti (IDE) boʻlib, Niderlandiyaning Centrum Wiskunde &amp; Informatica (CWI) da Leo Geurts, Lambert Meertens va Stiven Pemberton tomonidan ishlab chiqilgan[2]. U interaktiv, tuzilgan, yuqori darajali va BASIC, Paskal yoki AWK oʻrniga foydalanish uchun moʻljallangan. U oʻqitish yoki prototiplash uchun moʻljallangan, lekin tizimli dasturlash tili sifatida ishlatilmaydi.
+ABC 1980-yillarning oʻrtalarida ilgari ABC tizimida bir necha yil ishlagan Guido van Rossum tomonidan ishlab chiqilgan Python tilining dizayniga katta taʼsir koʻrsatdi[3].
+
+
+Xususiyatlari[tahrir | manbasini tahrirlash]
+Uning dizaynerlarining taʼkidlashicha, ABC dasturlari odatda Paskal yoki C dasturlash tillaridagi ekvivalent dasturlarning taxminan chorak hajmida ishlatilishi mumkin[4]. Dasturning asosiy xususiyatlariga quyidagilar kiradi:
+
+Faqat beshta asosiy maʼlumotlar turi
+Kerakli oʻzgaruvchan deklaratsiyalar mavjud emas
+Yuqoridan pastga dasturlash uchun aniq yordam
+Cheksiz aniqlikdagi arifmetika, cheksiz oʻlchamdagi roʻyxatlar va satrlar va ortogonallikni qoʻllab-quvvatlaydigan boshqa xususiyatlar va yangi boshlanuvchilar tomonidan foydalanish qulayligi
+ABC dastlab monolit dastur boʻlib, foydalanuvchi grafik interfeysini (GUI) yaratish kabi yangi talablarga moslasha olmasligiga olib keldi. ABCni toʻgʻridan-toʻgʻri asosiy fayl tizimi va operatsion tizimga oʻrnatish imkoni boʻlmadi.
+Toʻliq ABC tizimi tuzilma muharriri (sintaksisga yoʻnaltirilgan muharrir), takliflar, statik oʻzgaruvchilar (doimiy) va bir nechta ishchi maydonlar bilan dasturlash muhitini oʻz ichiga oladi va tarjimon-kompilyator sifatida mavjud. Dasturning eng soʻnggi versiyasi 2002-yil 1-mayda ishlab chiqarilib, uni faqat Unix, DOS, Atari va Apple MacOS operatsion sistemalariga oʻrnatish mumkin boʻlgan.
+
+Misol[tahrir | manbasini tahrirlash]
+Hujjatdagi barcha words toʻplamini yigʻish uchun misol funksiyasi:
+
+HOW TO RETURN words document:
+   PUT {} IN collection
+   FOR line IN document:
+      FOR word IN split line:
+         IF word not.in collection:
+            INSERT word IN collection
+   RETURN collection
+
+Manbalar[tahrir | manbasini tahrirlash]
+
+
+↑ Biancuzzi, Federico; Warden, Shane. Masterminds of Programming: Conversations with the Creators of Major Programming Languages. O'Reilly Media, April 2009 — 32 bet. ISBN 978-0-596-51517-1. „He was clearly influenced by ALGOL 68's philosophy of providing constructs that can be combined in many different ways to produce all sorts of different data structures or ways of structuring a program. – Guido van Rossum“ 
+
+↑ Pemberton, Steven (January 1987). „An Alternative Simple Language and Environment for PCs“. IEEE Software. 4-jild, № 1. doi:10.1109/MS.1987.229797.
+
+↑ Stewart. „An Interview with Guido van Rossum“. ONLamp.com.  O’Reilly Media (4-iyun 2002-yil). — „... in my head I had analyzed some of the reasons it had failed.“. 13-mart 2013-yilda asl nusxadan arxivlandi. Qaraldi: 4-sentabr 2020-yil.
+
+
+
+↑ Pemberton. „The ABC Programming Language: a short introduction“. Centrum Wiskunde & Informatica (CWI) (22-fevral 2012-yil). Qaraldi: 4-sentabr 2020-yil.
+
+
+
+
+Havolalar[tahrir | manbasini tahrirlash]
+ABC dasturchisi uchun qoʻllanma
+
+
+

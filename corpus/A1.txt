@@ -1,0 +1,545 @@
+
+
+
+Aluminiy(Al)
+
+
+Atom raqami
+13
+
+
+Koʻrinishi
+yumshoq, yengil, oqish-kumush rang metall, tez oksidlanuvchi
+
+
+Atom xossasi
+
+
+Atom massasi(molyar massasi)
+26.981539 m. a. b. (g/mol)
+
+
+Atom radiusi
+143 pm
+
+
+Ionlashish energiyasi(birinchi elektron)
+577.2(5.98) kJ/mol (eV)
+
+
+Elektron konfiguratsiyasi
+[Ne] 3s2 3p1
+
+
+Kimyoviy xossalari
+
+
+Kovalentlik radiusi
+118 pm
+
+
+Ion radiusi
+51 (+3e) pm
+
+
+Elektrmanfiylik(poling boʻyicha)
+1.61
+
+
+Elektrod potensiali
+-1.66 в
+
+
+Oksidlanish darajasi
+3
+
+
+Termodinamik xossalari
+
+
+Zichlik
+2.6989 g/sm³
+
+
+Solishtirma issiqlik sigʻimi
+0.900 J/(K·mol)
+
+
+Issiqlik oʻtkazuvchanlik
+237 Vt/(m·K)
+
+
+Erish harorati
+933.5 K
+
+
+Erish issiqligi
+10.75 kJ/mol
+
+
+Qaynash harorati
+2740 K
+
+
+Qaynash issiqligi
+284.1 kJ/mol
+
+
+Molyar hajm
+10.0 sm³/mol
+
+
+Kristall panjarasi
+
+
+Panjara tuzilishi
+kubik markazlashgan
+
+
+Panjara davri
+4.050 Å
+
+
+Panjara/atom nisbati
+n/a
+
+
+Debye harorati
+394.00 K
+
+
+Alyuminiy (Aluminium), A1 -Mendeleyev davriy sistemasining III guruhiga mansub kimyoviy element. Tartib raqami 13, atom massasi 26,9815; Aluminiy lot. alumen (achchiqtosh) soʻzidan kelib chiqqan. Tabiatda bitta barqaror izotop holida (AGʻ 100%) uchraydi, bir necha sunʼiy radio-aktiv izotoplari bor, ular orasida eng ahamiyatlisi A12’ (yarim yemirilish dav-ri 7,4-105 yil). Aluminiy yer poʻstining ogʻirlik jihatdan 8,8%ini tashkil etadi, yaʼni u kislorod va kremniydan keyin uchinchi, metallar ichida esa birinchi oʻrinda turadi. Metall holidagi Aluminiyni birinchi marta 1825-yil Hans Christian Ørsted topgan. Aluminiy tabiatda sof holda uchramaydi, uning eng koʻp uchraydigan birikmalari: alyumosilikatlar (mas, tuproqning asosiy qismi boʻlgan alyumosilikat, kaolin, andaluzit, alunit minerali), korund (alyuminiy oksid) va boksit. Oʻzbekistonda shulardan kaolin (Toshkent viloyati) va boksit (Navoiy va Fargʻona viloyatlari) topilgan. Aluminiy giltuproq (A12O,)ni kriolit (Na3AlF6) bilan suyuqlantirib, elektroliz qilish yoʻli bilan olinadi. Giltuproq esa asosan boksitdan olinadi. Oʻzbekistonda Angren kaolinidan ham giltuproq olish mumkinligi aniqlangan. Aluminiy kumushday oq metall, allot-ropik shakl oʻzgarishlari (qarang Allotropiya) yoʻq. Suyuqlanish temperaturasi — 660’, qaynash temperaturasi 2500° atrofida, Solishtirma ogʻirligi 2,6989. Aluminiy plastik, oson presslanuvchan, bolgʻalanuvchan, qoliplanadigan, choʻziladigan metall. 380A. barcha barqaror bi-rikmalarida 3 va-lentli, yuqori temperaturada baʼzan 1, kamdan-kam hollarda 2 va-lentli boʻlishi mum-kin. Aluminiy sirka, vino, limon kislotalari va boshqa organik moddalar taʼsiriga turgʻun. Aluminiy kislorod bilan tez b pri kadi, shu sa-babli uning usti hamisha oksid pardasi bilan qoplangan boʻladi; oksid pardasi zich boʻlganidan u Aluminiyni zanglashdan va turli moddalar taʼsiridan saqlaydi. Aluminiy kukuni shiddat bilan yonadi, yuqori temperaturada galo-genlar bilan birikib, Aluminiy ftorid (A1F3), Aluminiy xlorid (A1S13), Aluminiy bromid (A1Vg3), Aluminiy yodid (A1J3), Aluminiy astatid (AlAt3), ol-tingugurt bilan Aluminiy sulfid (A12S3), azot bilan Aluminiynitrid (A1N3), uglerod bilan Aluminiy kar-bid (A14S3) hosil qiladi. Shuningdek, alohida usulda Aluminiy bilan vodorod birikmasi — Aluminiy gidrid (A1N3) olish mumkin. Juda suyultirilgan hamda konsentrlangan ni-trat kislota Aluminiyga taʼsir etmaydi (sir-tida darhol hosil boʻlgan oksid pardasi uni saqlaydi), suyultirilgan va konsen-trlangan sulfat kislotada Aluminiy qisman eriydi. Vodorod xlorid Aluminiyga kuchliroq taʼsir etadi, ortofosfat kislota taʼsir etmaydi. Aluminiyning koʻpgina tuzlari suvda yaxshi eriydi va gidrolizlanib, kislo-tali reaksiya roʻy beradi. U ishqorlarda ham yaxshi eriydi, bunda alyuminatlar hosil boʻladi. Aluminiy tarkibining sofligiga qarab oʻta sof, juda sof va texnik sof xillarga boʻlinadi. Oʻta sof Aluminiy (Aluminiy 999 markali) 0,001% gacha qoʻshimchaga, juda sof Aluminiy (Aluminiy 995. Aluminiy 99, Aluminiy 97, Aluminiy 95 markalar) 0,005 dan 0,05% gacha, texnik sof Aluminiy (A85, A8, A7, A5, AO, A va AYE markalar) esa 0,015% dan 1,000% gacha qoʻshimchaga ega boʻladi. Aluminiy yengil va puxta qotishmalar olishda juda katta ahamiyatga ega. U mis, rux, nikel, magniy, temir, titan qotishmalariga ham legirlovchi element sifatida qoʻshiladi. Aluminiy baʼzi metallarni ularning oksidlaridan qaytarishda (alyuminotermiya) ishlatiladi. Bu me-tallardan samolyotsozlik, radio va elek-trotexnika, rangli metallurgiya hamda boshqa sanoat tarmoqlarida foydalani-ladi. Aluminiy zichligining kamligi, yuqori darajadagi elektr oʻtkazuvchanligi, ay-rim kimyoviy moddalarga nisbatan chidamliligi va tannarxining arzonligi sababli texnikaning turli sohalarida keng qoʻllaniladi. Undan uy-roʻzgʻor as-boblari, kimyoviy asbob-uskunalar va boshqa koʻpdan-koʻp buyumlar tayyorlanadi. Temir Otaqoʻziyev.[1]
+Aluminiy (Alumin) — unsurlar davriy jadvalining 13 unsuri, metall-amfoter.Aluminiy lotincha „alumen“, yaʼni lotincha nomi Alumen (fr. Alun, ingl. Alum) — kaliy va aluminiydan iborat sulfat tuzidan olingani sababli shunday ataladi. Kimyoviy elementlar davriy jadvalida aluminiy Bor-guruhiga (avvalgi nomi yer metallari guruhi) kiradi. Aluminiy yerda eng koʻp tarqalgan uchta elementdan biri va yer qobigʻida eng koʻp uchraydigan elementdir. Yer qobigʻida faqat kimyoiy birikma sifatida uchraydi, chunki reaktsiyaga oson kirishadi (yer qobigʻi massasining 7,57 %ni tashkil etadi).
+Pliniy afsonasiga koʻra, imperator Tiberiy (eramizdan avvalgi 14-37 yillar) saroyiga bir kuni bir temirchi keladi va tashqi koʻrinishi kumush kabi, lekin anchayin yengil metall parchasini sovgʻa sifatida olib keladi. Imperator undan buni qayerdan olinganini soʻraganida, usta unga tuproqdan ajratib olganini aytadi. Imperator esa ushbu metal savdoda pul sifatida qoʻllaniladigan oltin va kumush qadriga zarar yetkazmasligi uchun ushbu ustani qatl qildiradi. Hozirda maʼlum boʻlgan eng qadimgi aluminiy predmet bu Xitoy generali Chou-Chou (265-316) kamarining biriktiruvchi qismidir. Humphry Davy (Hamfri Deyvi) ushbu elementni „Aluminiy“ deb atagan. Birinchi boʻlib Hans Ersted 1825-yilda laboratoriyada ajratib olishga muvaffaq boʻlgan.
+
+Havolalar[tahrir | manbasini tahrirlash]
+Aluminiy ishlab chiqaruvchi mamlakatlar roʻyxati (ingl.)
+http://www.world-aluminium.org/About+Aluminium/Story+of/In+historyWayback Machine saytida arxivlandi (2007-11-06). Wayback Machine saytida arxivlandi (2007-11-06).
+
+
+Kimyoviy elementlar davriy sistemasi
+
+
+
+
+
+
+Guruhlar
+
+
+
+
+ 
+
+1
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+
+Davrlar
+
+1
+
+H
+
+ 
+
+He
+
+
+2
+
+Li
+
+Be
+
+ 
+
+B
+
+C
+
+N
+
+O
+
+F
+
+Ne
+
+
+3
+
+Na
+
+Mg
+
+ 
+
+Al
+
+Si
+
+P
+
+S
+
+Cl
+
+Ar
+
+
+4
+
+K
+
+Ca
+
+ 
+
+Sc
+
+Ti
+
+V
+
+Cr
+
+Mn
+
+Fe
+
+Co
+
+Ni
+
+Cu
+
+Zn
+
+Ga
+
+Ge
+
+As
+
+Se
+
+Br
+
+Kr
+
+
+5
+
+Rb
+
+Sr
+
+ 
+
+Y
+
+Zr
+
+Nb
+
+Mo
+
+Tc
+
+Ru
+
+Rh
+
+Pd
+
+Ag
+
+Cd
+
+In
+
+Sn
+
+Sb
+
+Te
+
+I
+
+Xe
+
+
+6
+
+Cs
+
+Ba
+
+La
+
+Ce
+
+Pr
+
+Nd
+
+Pm
+
+Sm
+
+Eu
+
+Gd
+
+Tb
+
+Dy
+
+Ho
+
+Er
+
+Tm
+
+Yb
+
+Lu
+
+Hf
+
+Ta
+
+W
+
+Re
+
+Os
+
+Ir
+
+Pt
+
+Au
+
+Hg
+
+Tl
+
+Pb
+
+Bi
+
+Po
+
+At
+
+Rn
+
+
+7
+
+Fr
+
+Ra
+
+Ac
+
+Th
+
+Pa
+
+U
+
+Np
+
+Pu
+
+Am
+
+Cm
+
+Bk
+
+Cf
+
+Es
+
+Fm
+
+Md
+
+No
+
+Lr
+
+Rf
+
+Db
+
+Sg
+
+Bh
+
+Hs
+
+Mt
+
+Ds
+
+Rg
+
+Cn
+
+Nh
+
+Fl
+
+Mc
+
+Lv
+
+Ts
+
+Og
+
+
+8
+
+Uue
+
+Ubn
+
+Ubu
+
+Ubb
+
+Ubt
+
+Ubq
+
+Ubp
+
+Ubh
+
+Ubs
+
+ 
+
+
+
+
+
+Ishqoriy metallar
+
+Ishqoriy yer metallar
+
+Lantanoidlar
+
+Aktinoidlar
+
+Superaktinoidlar
+
+Oʻtish metallar
+
+Yengil metallar
+
+Yarim metallar
+
+Qolgan metallmaslar
+
+Galogenlar
+
+Inert gazlar
+
+Xossalari nomaʼlum
+
+
+
+
+
+Wikimedia Commonsda Aluminium mavzusiga oid fayllar bor.
+
+
+Manbalar[tahrir | manbasini tahrirlash]
+
+
+↑ OʻzME. Birinchi jild. Toshkent, 2000-yil
+
+
+Ushbu maqolada Oʻzbekiston milliy ensiklopediyasi (2000-2005) maʼlumotlaridan foydalanilgan.
+
+
+Kimyoga oid ushbu maqola chaladir. Siz uni boyitib, Vikipediyaga yordam berishingiz mumkin.kmt
+Tashqi havolalar 
+BnF: cb11976300k (maʼlumot)
+GND: 4001573-7
+LCCN: sh85003956
+NARA: 10637694
+NDL: 00560358
+NKC: ph120753
+
+
+
+

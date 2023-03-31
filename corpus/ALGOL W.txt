@@ -1,0 +1,83 @@
+ALGOL W
+
+Oilasi
+
+ALGOLTuzilgan yili
+
+1966 (57 yil avval) (1966)Platforma
+
+IBM System/360Operatsion tizim
+
+LinuxBunga asos boʻlgan tillar
+ALGOL 60Buning asosida tuzilgan tillar
+Pascal, Modula-2
+
+ALGOL W — bu dasturlash tili. U Niklaus Wirth va Tony Hoare tomonidan ALGOL 60 ning vorisi sifatida ALGOL X taklifiga asoslanadi. ALGOL W asl ALGOL 60 ga nisbatan sodda yangilanishi boʻlib, unda qator, murakkab raqam va yozuv maʼlumotlar turlariga havola qoʻshiladi va parametrlarni qoʻngʻiroqlar boʻyicha oʻtkazish, while operatorini kiritish, switch case bayonoti bilan almashtirish va umuman olganda tilni mustahkamlash kiradi.
+Wirthning kirishi ALGOL 60 dan juda oz avans deb hisoblandi va Adriaan van Wijngaardendan murakkabroq kirish juda bahsli uchrashuvda boʻldi. Keyinchalik Wirth oʻz versiyasini ALGOL rivojlanishiga hissa sifatida nashr etdi[1]. Bir qator kichik qoʻshimchalar bilan bu oxir-oqibat ALGOL W ga aylandi.
+Wirth keng tarqalgan Stenford universitetida IBM System/360 uchun yuqori sifatli dasturni nazorat qildi[2][3].
+
+Amalga oshirish Wirth tomonidan ishlab chiqilgan ALGOL-ga o'xshash assembly tili bo'lgan PL360 da yozilgan. Amalga oshirish nufuzli disk raskadrovka va profil yaratish qobiliyatlarini o'z ichiga oladi.
+
+ALGOL W Paskal tili uchun asos boʻlib xizmat qildi va ALGOL W sintaksisi Paskal tajribasiga ega boʻlgan har bir kishiga qiyinchilik tugʻdirmaydi. Asosiy farqlar Paskalda yozuvlar bilan ishlashning yaxshilanishi va ALGOL W ning ish vaqtida massiv uzunligini aniqlash qobiliyatini yoʻqotishidir, bu Paskalning eng koʻp shikoyat qiladigan xususiyatlaridan biridir.
+
+
+Sintaksis va semantika[tahrir | manbasini tahrirlash]
+ALGOL W sintaksisi EBCDIC belgilar kodlash toʻplamining kichik toʻplamiga qurilgan. ALGOL 60 da ajratilgan soʻzlar alohida leksik birliklardir, lekin ALGOL W da ular faqat belgilar ketma-ketligi boʻlib, ularni kesish shart emas. Zaxiralangan soʻzlar va identifikatorlar boʻsh joylar bilan ajratiladi. Shu jihatdan ALGOL W sintaksisi Paskal va keyingi tillarnikiga oʻxshaydi.
+ALGOL W til tavsifi[4] ALGOL W ni Backus-Naur shakliga (BNF) oʻxshash affiks grammatikasida belgilaydi. Bu rasmiy grammatika Van Wijngaarden grammatikasining kashshofi edi[5].
+ALGOL W semantikasining katta qismi grammatik jihatdan aniqlanadi:
+
+Identifikatorlar joriy doirada taʼrifi bilan ajralib turadi. Masalan, ⟨procedure identifier⟩ — bu protsedura deklaratsiyasi bilan aniqlangan identifikator, ⟨label identifier⟩-oʻtish yorligʻi sifatida ishlatiladigan identifikator.
+Oʻzgaruvchi va iboralarning turlari affikslar bilan ifodalanadi. Masalan, ⟨τ function identifier⟩ bu funksiyaning sintaktik ob’ekti boʻlib, τ tipidagi qiymatni qaytaradi, agar identifikator joriy doirada butun son funksiyasi sifatida eʼlon qilingan boʻlsa, u ⟨integer function identifier⟩ kengaytiriladi.
+Tur xatolari grammatik xatolardir. Masalan, ⟨integer expression⟩ / ⟨integer expression⟩ va ⟨real expression⟩ / ⟨real expression⟩ haqiqiy, ammo aniq sintaktik birliklardir, lekin ⟨real expression⟩ DIV ⟨integer expression⟩ son ifodasi⟩ (yaʼni, butun sonli boʻlinishda bajariladi) suzuvchi nuqta qiymati) notoʻgʻri sintaktik birlikdir.
+Bu ALGOL W ning rekord turdagi uskunasini namoyish etadi.RECORD PERSON (
+  STRING(20) NAME; 
+  INTEGER AGE; 
+  LOGICAL MALE; 
+  REFERENCE(PERSON) FATHER, MOTHER, YOUNGESTOFFSPRING, ELDERSIBLING
+);
+
+REFERENCE(PERSON) PROCEDURE YOUNGESTUNCLE (REFERENCE(PERSON) R);
+  BEGIN
+    REFERENCE(PERSON) P, M;
+    P := YOUNGESTOFFSPRING(FATHER(FATHER(R)));
+    WHILE (P ¬= NULL) AND (¬ MALE(P)) OR (P = FATHER(R)) DO
+      P := ELDERSIBLING(P);
+    M := YOUNGESTOFFSPRING(MOTHER(MOTHER(R)));
+    WHILE (M ¬= NULL) AND (¬ MALE(M)) DO
+      M := ELDERSIBLING(M);
+    IF P = NULL THEN 
+      M 
+    ELSE IF M = NULL THEN 
+      P 
+    ELSE 
+      IF AGE(P) < AGE(M) THEN P ELSE M
+  END
+
+Amalga oshirish[tahrir | manbasini tahrirlash]
+ALGOL W ning katta qismi, taxminan 2700 ta karta Wirth’s PL360 da yozilgan. Amaldagi IBM operatsion tizimi (OS) uchun interfeys moduli (OS, DOS, MTS, ORVYL) IBM assembler tilida yozilgan boʻlib, 250 ta kartadan kam.360/67 operatsion tizimida kirish va chiqish fayllari biriktirilganda, kompilyator taxminan 25 soniya ichida oʻzini qayta kompilyatsiya qiladi. Kompilyator taxminan 2700 ta karta tasviridir. Shunday qilib, yuqorida keltirilgan bajarilish vaqtidan OS rejalashtiruvchi vaqti ayirilsa, kompilyator sekundiga 100 ta kartadan yuqori tezlikda ishlayotgani koʻrinadi (zich kod uchun).
+ 360/30 da DOS muhitida kompilyator faqat kartani o'quvchi tezligi bilan cheklanadi. Kompilyator o'zini 64K 360/30 da daqiqasiga 1200 ta karta (kartani o'quvchi tezligi) tezligida muvaffaqiyatli qayta kompilyatsiya qildi. Bu DOS Assembler uchun 250 ta kartadan iborat interfeys modulini yig'ish uchun zarur bo'lgan vaqt bilan solishtirganda ta'sirchan. Ibratli ko'rsatmalar kengaytirilganda, DOS interfeysi 972 ta karta tasviriga ega va Assembler yig'ish uchun 15 daqiqa vaqt oladi.
+Manbalar[tahrir | manbasini tahrirlash]
+
+↑ Wirth, Niklaus; Hoare, C. A. R. (1966-yil iyun). „A contribution to the development of ALGOL“. Communications of the ACM. 9-jild. 413–432-bet. Qaraldi: 7-oktabr 2020-yil. {{cite magazine}}: sana kiritilishi kerak boʻlgan parametrga berilgan qiymatni tekshirish lozim: |date= (yordam)
+
+↑ Bauer, Henry R.; Becker, Sheldon I.; Graham, Susan L.; Forsythe, George E.; Satterthwaite, Edwin H. (1968-yil mart). ﻿Technical Report Number: CS-TR-68-89﻿ (Report). Stanford University. http://www-db.stanford.edu/TR/CS-TR-68-89.html.  (Various documents for Stanford’s 1972 implementation of ALGOL W; this report includes the ALGOL W Language Description.
+
+↑ Sites. „ALGOL W Reference Manual“. i.stanford.edu.  Stanford University. Qaraldi: 24-iyul 2022-yil.
+
+
+
+↑ Bauer, Henry R.; Becker, Sheldon I.; Graham, Susan L.; Satterthwaite, Edwin H.; Sites, Richard L. (1972-yil iyun). ﻿ALGOL W Language Description﻿ (Report). https://www.algol60.org/docsW/algolw.pdf. 
+
+↑ van Wijngaarden, Adriaan (22-oktabr 1965-yil). ﻿Orthogonal Design and Description of a Formal Language: MR76﻿ (Report). Amsterdam, Netherlands: Mathematical Centre. Archived from the original on 29-oktabr 2019-yil. https://web.archive.org/web/20191029151436/http://web.eah-jena.de/%7Ekleine/history/languages/VanWijngaarden-MR76.pdf. Qaraldi: 7-oktabr 2020-yil. 
+
+
+Havolalar[tahrir | manbasini tahrirlash]
+aw2c — Linux uchun ALGOL W kompilyatori
+awe — aw2c yangilangan versiyasi
+ALGOL W @ Everything2 — sobiq foydalanuvchi tomonidan tilning norasmiy, ammo batafsil tavsifi, yon panellari Paskalda ALGOL W ni taʼlim dasturlash tili sifatida maqtagan.
+1969-yil bitsavers.org saytida ALGOL W kompilyatorlari roʻyxati
+Michigan terminal tizimi qoʻllanmalari, 16-jild: MTS-da ALGOL W
+ALGOL W materiallari 200 dan ortiq ALGOL W dasturlari va hujjatlari
+
+
+

@@ -1,0 +1,21 @@
+ APAF-1 oqsilining 3-D koʻrinishi
+APAF-1 - bu hujayra sitoplazmasining koʻp  domenli oqsili. APAF-1 apoptosomalarining asosiy komponenti boʻlib apoptozda ishtirok etadi.
+
+
+APAF-1ning tuzilishi[tahrir | manbasini tahrirlash]
+APAF-1 oʻz ichida WD-40 domenining bir necha kopiyasini, CARD domenni va NB-ARC ATFazali domenlariga ega. Alternativ splaysing jaroyonida APAF-1 oqsilining bir necha izoformasi hosil boʻladi.
+
+Yana koʻring[tahrir | manbasini tahrirlash]
+Apoptoz
+Apoptosoma
+Kaspaza
+Adabiyotlar[tahrir | manbasini tahrirlash]
+Aльбертс Б. и др. Молекулярная биология клетки в 3 томах. Т1. 2015
+Havolalar[tahrir | manbasini tahrirlash]
+De Zio D., Maiani E., Cecconi F. (2015) (en). Apaf1 in embryonic development - shaping life by death, and more.. 59. pp. 33—9. doi:10.1387/ijdb.150047dd. PMID 26374523. https://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=sumsearch.org/cite&retmode=ref&cmd=prlinks&id=26374523. 
+Lechtenberg B.C., Mace P.D., Riedl S.J. (2014) (en). Structural mechanisms in NLR inflammasome signaling.. 29 (Curr Opin Struct Biol nashri). pp. 17—25. doi:10.1016/j.sbi.2014.08.011. PMID 25201319. https://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=sumsearch.org/cite&retmode=ref&cmd=prlinks&id=25201319. 
+{{статья |заглавие=Regulation of the Apaf-1-caspase-9 apoptosome.  |том=123 |номер=Pt 19 |страницы=3209—3214 |pmid=20844150 |doi=10.1242/jcs.073643 |pmc=PMC2939798 |ссылка=https://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=sumsearch.org/cite&retmode=ref&cmd=prlinks&id=20844150 |язык=en |автор=Bratton S.B., Salvesen G.S. |год=2010 |тип=journal
+Pérez-Payá E., Orzáez M., Mondragón L., Wolan D., Wells J.A., Messeguer A et al. (2011) (und). Molecules that modulate Apaf-1 activity.. 31 (Med Res Rev nashri). pp. 649—675. doi:10.1002/med.20198. PMID 20099266. https://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=sumsearch.org/cite&retmode=ref&cmd=prlinks&id=20099266. 
+
+
+

@@ -1,0 +1,136 @@
+
+
+ABViewer
+
+ABViewer 12 da 3D modelni o'lchash (Windows 10)MuallifCADSoftToolsChiqish sanasi2003-yilEng so‘nggi versiyasi PlatformaWindowsLinuxWineTil(lar)Rus, ingliz, nemis, frantsuz va boshqalarStatusfaolLitsenziyaXususiyVebsayt:cadsofttools.ru
+
+
+ABViewer — bu DWG, DXF, PLT, STEP, IGES, STL va boshqa 2D va 3D CAD fayllari bilan ishlash uchun moʻljallangan koʻp funksiyali CAD da[2]. AutoCAD DWG / DXF, PDF, JPG va boshqa bir qator vektor va rastr formatlarida keyinchalik saqlash bilan chizmalarni yaratish va tahrirlash imkonini beruvchi dastur hisoblanadi[3].
+Dastur Rossiyaning[4] CADSoftTools kompaniyasi tomonidan 2003-yilda ishlab chiqilgan. Ilova 30 dan ortiq tillarga[5] tarjima qilingan va 50 dan ortiq vektor va rastr 2D va 3D formatlarini qoʻllab-quvvatlaydi. ABViewer dasturi, shuningdek, „Elektron kompyuterlar va maʼlumotlar bazalari uchun Rossiya dasturlarining yagona reyestri“ ga kiritilgan. [6]
+
+
+Tarix[tahrir | manbasini tahrirlash]
+ABViewer ning dastlabki versiyasi CAD fayllarini birlashtirgan, tasvirlarni almashish buferida BMP, EMF [7] formatida saqlaydigan va fayllar guruhini chop etuvchi tasvirni koʻrish dasturi edi[8]. Dastlab, dastur 20 ta tilni qoʻllab-quvvatlagan va ikkita versiyada mavjud edi: Standart va Professional[9]. 2007-yilda ABViewer endi shunchaki fayllarni koʻrish asbobi emas, balki fayllarni koʻrish, tahrirlash va oʻzgartirish uchun yagona asbobga aylandi. Ilova professional muharrirning barcha asboblarga ega edi va loyiha ishlarini bajarish uchun ishlatiladigan operatsiyalarni qoʻllab-quvvalagan. Shuningdek ABViewer tasvirning tanlangan qismini oʻzgartirish imkonini berar edi.
+
+Funktsionalligi[tahrir | manbasini tahrirlash]
+Koʻrish[tahrir | manbasini tahrirlash]
+ABViewer chizmalarni 2D va 3D formatida koʻrishni taʼminlaydi. Qatlamlar va chizilgan varaqlar bilan ishlashni qoʻllab-quvvatlaydi; chizmaning ekrandagi oʻrnini oʻzgartirish mumkin: masshtablash, 3D modellarni aylantirish, shuningdek, chizma turini va koʻrsatish rejimini oʻzgartirish, „Eskizlar“ oynasi orqali fayllar boʻylab harakatlanish; matnlar va oʻlchamlarni yashirish / koʻrsatish imkoniyati; chizmalarni oʻlchash (2D va 3D rejimlarida) imkoniyati mavjud. Dastur nafaqat chizmalarni koʻrish imkonini beradi, balki chizmaning xususiyatlari va tuzilishiga kirishni ham taʼminlaydi[2]. Shuningdek, 3D modellarning boʻlimlarini qurish imkoniyati ham mavjud[10].
+
+Tahrirlash[tahrir | manbasini tahrirlash]
+"Muharrir" rejimida siz noldan chizmalar yaratishingiz va mavjud fayllarni tahrirlashingiz mumkin, CAD chizmalari bilan ishlash uchun[11] : chizma asboblari (primitivlarni qoʻshish); tahrirlash vositalari (oldin yaratilgan chizmalar bilan ishlash uchun); har xil turdagi bogʻlamalar; tashqi havolalar bloklari va fayllari bilan ishlash.
+
+Saqlash va chop etish[tahrir | manbasini tahrirlash]
+ABViewer dasturi chizmalarni saqlash va chop etish imkonini beradi: vektor va rastr formatlarida saqlash; DWG/DXF fayllarini G-kodga aylantirish[12]; kengaytirilgan chop etish sozlamalari (bir nechta varaqlarda chop etish, oldindan varaq parametrlarini koʻrish). Shuningdek fayllar boʻyicha ommaviy operatsiyalar ham mavjud boʻlib: ommaviy ishlov berish va ommaviy chop etishni oʻz ichiga oladi[13].
+
+Qoʻllab-quvvatlanadigan formatlar[tahrir | manbasini tahrirlash]
+ABViewer 50 dan ortiq vektor va rastrli 2D va 3D formatlarini koʻrish imkonini beradi[2][14][15]. Ular orasida:
+
+
+
+turi
+
+Format
+
+
+CAD chizish formatlari
+
+AutoCAD DWG (barcha versiyalar 2.5 dan 2018 gacha), DXF ASCII/BINARY (barcha versiyalar), DWT, DWF, DXT
+
+
+3D model formatlari
+
+3DS, SAT, STL, IGES (.igs), STEP (.stp), OBJ, X_T, X_B, SLDPRT, SLDASM, [16] FSAT, SAB, SMT, IPT, IFC, GTS, TIN, ASE, B3D, GLM, GLX, GLA, LMTS, LWO, NURBS, NMF, OCT, PLY, VRML, MDC, MD2, MD3, MD5, SMD, BSP
+
+
+Vektor grafik formatlari
+
+WMF, EMF, PDF, CGM, SVG, SVGZ, EPS, PS, Hewlett-Packard HPGL (PLT, HGL, HG, HPG, PLO, HP, HP1, HP2, HP3, HPGL, HPGL2, HPP, GL, GL2, PRN, SPL, RTL, PCL)
+
+
+Rastr grafik formatlari
+
+GED, RLA, RPF, CEL, PIC, CAL, CG4, GP4, GIF, CUT, PAL, DDS, FAX, HDR, IFF, ICO, EXR, IMB, JPG, JPEG, J2K, J2C, JNG, JP2, KOA, PCT, PICT, MNG, PSP, PCD, PSD, PDD, PNG, PPM, PGM, PBM, RAW, G3, BW, RGB, RGBA, SGI, RAS, TIF, TIFF, TGA, VST, ICB, VDA, WIN, BMP, RLE, DIB, WAP, WBMP, WBM, XBM, XPM, PCX
+
+Dastur shuningdek, arxivlangan fayllarni ham ochadi: ZIP, 7z, RAR, CAB, BZIP, TAR .
+
+Mahalliylashtirish[tahrir | manbasini tahrirlash]
+ABViewer quyidagi tillarga toʻliq tarjima qilingan[17] : ingliz, venger, ibroniy, ispan, italyan, xitoy, nemis, golland, portugal, rus, fin, frantsuz, chex . Hujjatlar va batafsil qoʻllanma tizimi rus, ingliz, nemis va frantsuz tillarida mavjud.
+
+Yana qarang[tahrir | manbasini tahrirlash]
+Kompyuter yordamida loyihalash (SAPR)
+DWG
+ShareCAD, DWG fayllari va boshqa SAPR formatlarini koʻrish uchun bepul onlayn xizmat
+Manbalar[tahrir | manbasini tahrirlash]
+
+
+↑ „CADSoftTools Releases ABViewer 15“. 3-iyun 2022-yilda asl nusxadan arxivlandi. Qaraldi: 6-iyun 2022-yil.
+
+
+
+↑ 2,0 2,1 2,2 „“A Quick View of CadSoftTools’ ABViewer”“. 28-mart 2018-yilda asl nusxadan arxivlandi. Qaraldi: 28-mart 2018-yil.
+
+
+
+↑ „Auch für normalen Bürogebrauch“. 9-fevral 2015-yilda asl nusxadan arxivlandi. Qaraldi: 20-iyun 2013-yil.
+
+
+
+↑ „“Импортозамещение: ABViewer как замена AutoCAD”“. 29-mart 2018-yilda asl nusxadan arxivlandi. Qaraldi: 28-mart 2018-yil.
+
+
+
+↑ „Cadalyst compares and contrasts eight of today's CAD viewer solutions. 2008-01-02“. 3-dekabr 2012-yilda asl nusxadan arxivlandi. Qaraldi: 20-iyun 2013-yil.
+
+
+
+↑ "Yediniy reestr rossiyskix programm dlya elektronnix vichislitelnix mashin i baz dannix v informatsionno-telekommunikatsionnoy seti „Internet“"[sayt ishlamaydi]
+
+↑ Zuev S.A., Poleщuk N.N. SAPR na baze AutoCAD — kak eto delaetsya. — SPb.: BXV-Peterburg, 2004. — S. 1128.
+
+↑ „"Вышла новая версия просмотрщика графических файлов ABViewer"“. 4-mart 2016-yilda asl nusxadan arxivlandi. Qaraldi: 20-iyun 2013-yil.
+
+
+
+↑ „"General Software. Cadalyst Labs Review: View Masters. 2006-01-05"“. 3-dekabr 2012-yilda asl nusxadan arxivlandi. Qaraldi: 20-iyun 2013-yil.
+
+
+
+↑ „CADSoftTools Releases ABViewer v14“. 24-sentabr 2018-yilda asl nusxadan arxivlandi. Qaraldi: 6-iyun 2022-yil.
+
+
+
+↑ „A Quick View of CadSoftTools’ ABViewer“. 28-mart 2018-yilda asl nusxadan arxivlandi. Qaraldi: 28-mart 2018-yil.
+
+
+
+↑ „CADSoftTools Releases ABViewer v12“. 28-mart 2018-yilda asl nusxadan arxivlandi. Qaraldi: 28-mart 2018-yil.
+
+
+
+↑ „“A reliable application that you can use to view, edit and convert image formats such as CAD, DWG, DXF, HPGL or TIFF, and you can also print them”“. 29-mart 2018-yilda asl nusxadan arxivlandi. Qaraldi: 28-mart 2018-yil.
+
+
+
+↑ „Freeware.de - ABViewer“. 28-mart 2018-yilda asl nusxadan arxivlandi. Qaraldi: 28-mart 2018-yil.
+
+
+
+↑ „CADSoftTools Releases ABViewer v14.1“. 30-iyul 2021-yilda asl nusxadan arxivlandi. Qaraldi: 30-iyul 2021-yil.
+
+
+
+↑ CADSoftTools Releases ABViewer v15.1
+
+↑ „Contribute to ABViewer Translation“. 28-mart 2018-yilda asl nusxadan arxivlandi. Qaraldi: 28-mart 2018-yil.
+
+
+
+
+Havolalar[tahrir | manbasini tahrirlash]
+Arxivnaya kopiya rasmiy veb-sayti -da arxivlangan
+Foydalanuvchi sharhlari Arxivnaya kopiya
+Google+ da ABViewer
+Desktop Engineering tomonidan ABViewer-ning video sharhi: CADSoftTools-dan ABViewer-ga qarash Arxivnaya kopiya -da arxivlangan
+
+
+

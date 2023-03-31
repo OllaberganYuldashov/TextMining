@@ -1,0 +1,231 @@
+ADSL (inglizcha: Asimmetrik raqamli obunachi liniyasi - bu modem texnologiyasi bo'lib, mavjud kanal o'tkazish qobiliyati chiquvchi va kiruvchi trafik o'rtasida assimetrik tarzda taqsimlanadi. Aksariyat foydalanuvchilar uchun kiruvchi trafik hajmi chiquvchi trafik hajmidan sezilarli darajada oshib ketganligi sababli, chiquvchi trafik tezligi ancha past. Bu cheklov peer-to-peer networks va videomuloqotning kuchayishi bilan yanada yaqqolroq boʻldi.[1]
+
+
+Rivojlanish tarixi[tahrir | manbasini tahrirlash]
+ADSL texnologiyasining rivojlanish tarixi saksoninchi yillarning ikkinchi yarmida,  ​​interaktiv televidenieni ta'minlovchi texnologiyani izlash boshlanganidan boshlanadi. xDSL texnologiyalar oilasi Bellcore tomonidan kashshof hisoblanadi. 1987 yilda xDSL oilasida birinchi texnologiyaning spetsifikatsiyasini taqdim etdi va uni AQSH telefon tarmoqlarida ishga tushirdi. Ko'p o'tmay kompaniya tarqalib ketdi va texnologiya past edi.
+1990-yillar oʻrtalarida xDSL oilasi raqamli abonent liniyasi ADSLning assimetrik modifikatsiyasi bilan kengaytirildi. Keyingi yillarda ADSL orqali ma'lumotlarni uzatish uchun chipsetlar yaratildi va takomillashtirildi. DSL dastlab talab bo'yicha video tizimlari uchun ishlab chiqilganidan beri rivojlanish sur'ati sekin bo'ldi. Tizimlarning o'zi ushlamadi va ADSL texnologiyasi Internet tarmoqlarining rivojlanishi tufayli ikkinchi shamolga ega bo'ldi.
+Birinchi ADSL modemlarining paydo bo'lishi bilan provayderlari ushbu texnologiyaning va'dasini ko'rdi va tarmoqqa kirishni ta'minlash uchun undan foydalana boshladi. Har bir PBX ga uskunani oʻrnatish zarurati tufayli tarmoqni qurish va unga xizmat koʻrsatish xarajatlari barcha provayder modemlari biriga oʻrnatilgan boʻlsa, klassik dial-up ulanish holatiga qaraganda ancha yuqori edi PBX Biroq, yuqori tezlikdagi Internetga kirishni ta'minlashning boshqa usullari narxiga nisbatan, DSL texnologiyasi juda arzon bo'lib chiqdi.
+Katta shaharlarda ADSL tezroq kirish texnologiyalari Ethernet (ETTH), GPON (FTTH) va DOCSIS (televidenie kabeli maʼlumotlar uzatish standarti) bilan almashtirilmoqda. ). Buning sababi ADSL tarmoqlarida cheklangan o'tkazish qobiliyati (ADSL2+ da 24 Mbit / s gacha), ayniqsa abonentdan "yuqori oqim" (1,4 Mbit / s gacha), EuroDOCSIS 2.0 esa 50↓/27 ↑ Mbit / s ma'lumotlarni uzatish tezligini ta'minlaydi. , Fast Ethernet 100 Mbit/s gacha, Gigabit Ethernet 1 Gbit/s gacha, 10 Gbit/s EPON 10 Gbit/s gacha.
+Tezroq ma'lumotlarni uzatish usullari paydo bo'lishiga qaramay, ADSL texnologiyasi hali ham keng polosali ma'lumotlarni uzatishda bozor yetakchisi hisoblanadi. Bir qator Evropa mamlakatlarida ADSL aholini juda tez va arzon internet bilan ta'minlashning amalda standarti hisoblanadi. Masalan, Finlyandiyada 2010-yil iyun oyidan buyon mamlakatning har bir aholisiga Internetga kirish kafolatlangan boʻlsa, koʻpchilik uylar ADSL texnologiyasi yordamida ulangan.
+
+Tashkilot[tahrir | manbasini tahrirlash]
+ADSL texnologiyasidan foydalangan holda ma'lumotlarni uzatish abonent qurilmasi - modem va ADSL va multiplexer kirish (inglizcha: DSL Access Multiplexer) yordamida an'anaviy analog telefon liniyasi orqali amalga oshiriladi, DSLAM) foydalanuvchining telefon liniyasi ulangan PBX da joylashgan va DSLAM [[Avtomatik telefon stansiyasi|ATS] uskunasidan oldin yoqilgan. ] o'zi. Natijada, ular o'rtasida telefon tarmog'iga xos bo'lgan hech qanday cheklovlarsiz kanal mavjud. DSLAM multiplexing ko'p DSL abonent liniyalarini bitta yuqori tezlikdagi magistral tarmoqqa.
+Ular ATM tarmog‘iga PVX (doimiy virtual sxema, inglizcha: ) orqali ham ulanishi mumkin. Permanent Virtual Circuit(ingl.)o'zb.) Internet provayderlari va boshqa tarmoqlar bilan.
+Shuni ta'kidlash joizki, ikkita ADSL modem oddiy dial-up modemlardan farqli ravishda bir-biriga ulana olmaydi.
+
+Qanday ishlaydi[tahrir | manbasini tahrirlash]
+ ADSL modem
+ADSL - bu DSL ning varianti bo'lib, unda mavjud o'tkazish qobiliyati kanali chiquvchi va kiruvchi trafik o'rtasida nosimmetrik taqsimlanmagan - ko'pchilik foydalanuvchilar uchun kiruvchi trafik chiquvchi trafikdan sezilarli darajada muhimroqdir, shuning uchun uni o'tkazish qobiliyatining katta qismi bilan ta'minlash juda muhimdir. oqlangan (qoidalardan istisnolar Tengdosh tarmoqlar, Video qo'ng'iroqlar va E-pochta bu erda chiquvchi ovoz balandligi va tezligi muhim).
+Oddiy telefon liniyasi ovozni uzatish uchun 0,3 ... 3,4 kHz chastota diapazonidan foydalanadi. Telefon tarmog'idan maqsadli foydalanishga xalaqit bermaslik uchun ADSLda chastota diapazonining pastki chegarasi 26 kHz darajasida bo'ladi. Ma'lumot uzatish tezligi va telefon kabelining imkoniyatlariga qo'yiladigan talablarga asoslangan yuqori chegara 1,1 MGts ni tashkil qiladi. Ushbu tarmoqli kengligi ikki qismga bo'linadi - 26 kHz dan 138 kHz gacha bo'lgan chastotalar chiquvchi ma'lumotlar oqimiga va 138 kHz dan 1,1 MGts gacha bo'lgan chastotalar kiruvchiga tayinlanadi. 26 kHz dan 1,1 MGts gacha bo'lgan chastota diapazoni tasodifan tanlanmagan. Ushbu diapazonda susaytirish koeffitsienti deyarli chastotaga bog'liq emas.
+Ushbu chastotani ajratish bir xil liniyada ma'lumotlar almashinuvini to'xtatmasdan telefonda gaplashish imkonini beradi. Albatta, ADSL modemning yuqori chastotali signali zamonaviy telefonning elektronikasiga salbiy ta'sir qilganda yoki telefon o'z sxemasining ba'zi xususiyatlari tufayli liniyaga tashqi yuqori chastotali shovqinni kiritganda yoki sezilarli darajada o'zgarganda vaziyatlar mumkin. u AFC yuqori chastotali mintaqada; Bunga qarshi kurashish uchun telefon tarmog‘iga to‘g‘ridan-to‘g‘ri abonentning kvartirasida past chastotali filtr (chastota ajratuvchi, inglizcha: Splitter) o‘rnatilgan bo‘lib, u signalning faqat past chastotali komponentini o‘tkazadi. oddiy telefonlarga va telefonlarning liniyadagi mumkin bo'lgan ta'sirini yo'q qiladi. Bunday filtrlar qo'shimcha quvvatni talab qilmaydi, shuning uchun elektr tarmog'i o'chirilganda va ADSL uskunasining noto'g'ri ishlashida ovozli kanal ishda qoladi.
+Abonentga uzatish 10 Mbit / s gacha tezlikda amalga oshiriladi, garchi bugungi kunda ma'lumotlarni 25 Mbit / s gacha (VDSL) tezlikda uzatuvchi qurilmalar mavjud, ammo bu tezlik standartda belgilanmagan. ADSL tizimlarida, ADSL2 dan farqli o'laroq, umumiy stavkaning 25% qo'shimcha xarajatlar uchun ajratiladi, bu erda kvadrat boshiga qo'shimcha bitlar soni 5,12% dan 25% gacha o'zgarishi mumkin. Maksimal chiziq tezligi chiziq uzunligi, tasavvurlar va kabelning qarshiligi kabi bir qator omillarga bog'liq. Shuningdek, tezlikni oshirishga ADSL liniyasi uchun buralgan juftlik tavsiya etilishi (va  TRP emas) va ekranlanganligi va agar u ko'p juftlik kabeli, keyin yo'nalish va pitch yotqizishga nisbatan.
+
+Olingan va uzatilgan ma'lumotlarni ajratish[tahrir | manbasini tahrirlash]
+ADSL dan foydalanganda ma'lumotlar umumiy juftlik orqali dupleks shaklida uzatiladi. O'tkazilgan va qabul qilingan ma'lumotlar oqimini ajratish uchun ikkita usul mavjud: Chastotalar bo'linishini ko'paytirish (inglizcha: Chastotalar bo'linishini ko'paytirish, FDM) va Echo Cancellation ({ {lang- uz|Echo Cancellation}}, EI)
+
+Chastota bo'linish kanallari[tahrir | manbasini tahrirlash]
+Ushbu mexanizmdan foydalanganda past tezlikdagi ma'lumotlar kanali analog telefoniyani uzatish uchun ishlatiladigan chastota diapazonidan keyin darhol joylashgan. Qabul qilingan ma'lumotlarning yuqori tezlikdagi kanali yuqori chastotalarda joylashgan. O'tkazish qobiliyati bitta signalda uzatiladigan bitlar soniga bog'liq.
+
+Taqqoslash[tahrir | manbasini tahrirlash]
+Echo Cancellation (EC) ishlashni 2dB ga yaxshilaydi, lekin amalga oshirish ancha murakkab.
+ECning afzalliklari ISDN yoki 384 kbps tezlikda video telefoniya kabi yuqori tezlikdagi texnologiyalar bilan ortadi. Bunday hollarda, FDM qabul qilingan ma'lumotlarning yuqori tezlikdagi kanaliga yuqori chastotalarni ajratishni talab qiladi, bu esa zaiflashuvning kuchayishiga va maksimal uzatish masofasining qisqarishiga olib keladi.
+EK dan foydalanganda bir xil chastota diapazonida ikkita kanalni birlashtirish, FDM dan foydalanganda mavjud bo'lmagan NEXT effektining paydo bo'lishiga olib keladi.
+ADSL standarti FDM va EC mexanizmidan foydalangan holda turli xil uskunalar o'rtasida o'zaro ishlashni ta'minlaydi, muayyan mexanizmni tanlash ulanish o'rnatilganda aniqlanadi.
+Chiziq parametrlari[tahrir | manbasini tahrirlash]
+Abonent telefon liniyasi, ADSL texnologiyasi uchun foydalanilganda quyidagi parametrlarga ega boʻlishi kerak:
+
+Asosiy parametrlar[tahrir | manbasini tahrirlash]
+Loop qarshiligi - 900 Ohm dan oshmaydi
+Yadro va tuproq orasidagi izolyatsiyaga qarshilik - 100 MŌ dan ortiq, yadrolar orasida - kamida 100 MŌ[2]
+Loop sig'imi - 300 nF dan oshmaydi
+Kapasitiv muvozanat - 10 nF dan kam yoki 5% dan kam
+Loopning ortishi va past izolyatsiya bilan ishlash yuqori sifatli stansiya uskunalari sharoitida ma'lumotlarni uzatish tezligi pasaygan holda mumkin.
+Ikkilamchi parametrlar[tahrir | manbasini tahrirlash]
+Signalning zaiflashishi (chiziqning zaiflashishi):
+
+20 dB gacha - mukammal chiziq;
+20 dB dan 40 dB gacha - ishchi chiziq;
+40 dB dan 50 dB gacha - buzilishlar mumkin;
+50 dB dan 60 dB gacha - sinxronizatsiya vaqti-vaqti bilan yo'qoladi;
+60 dB va undan yuqori - uskuna ishlamaydi.
+1 km uzunlikdagi zanjir uchun ishlaydigan susaytirish uchun quyidagi standartlar mavjud:
+
+ADSL va ADSL2 tizimlari (maksimal chastota 1,024 MGts)
+CCI kabeli (d0=0,4mm) ≤27dB
+CCI kabeli (d0=0,5mm) ≤21dB
+ADSL2+ tizimi (maksimal chastota 2,048 MGts)
+CCI kabeli (d0=0,4mm) ≤35,5dB
+CCI kabeli (d0=0,5mm) ≤28,5dB
+VDSL tizimi (maksimal chastota 4,096 MGts)
+Buralgan juft kabel (d0=0,5mm) ≤42,5dB
+VDSL2 tizimi (maksimal chastota 12MHz)
+Twisted pair simi (d0=0,5 mm) ≤60,3 dB 885a-a6088e88f0f4|title=Abonentning keng polosali ulanishining elektr aloqa kabellarining operatsion zaiflashuvi va o'zaro ta'sir parametrlarini o'rganish|muallif=PhD, dots. Andreev R.V. t.f.n., prof. Popov B.V. t.f.n., dots. Popov V.B.|veb-sayt=PSUTI.|date=07.02.11|nashriyotchi=Volga davlat telekommunikatsiya va informatika universitetining oʻquv va ilmiy adabiyotlar nashriyoti tomonidan chop etilgan 443090, Samara, Moskovskoe shosse 77. t.(846-22) 00 -44|kirish-date=2018-08-08|arxiv-date=2018-08-08|arxiv-url=https://web.archive.org/web/20180808173144/https://rucont.ru/ fayl .ashx?guid=8b23b38f-341f-4fea-885a-a6088e88f0f4|deadlink=no}}</ref>
+Shovqin darajasi(RMS shovqin energiyasi (600 ohm yuk qarshiligida dB qayta 1 mVt)):
+
+-65 dBm dan -51 dBm gacha - mukammal chiziq;
+-50 dBm dan -36 dBm gacha - yaxshi chiziq;
+-35 dBm dan -20 dBm gacha - yomon chiziq;
+−20 dBm va undan yuqori - uskunaning ishlashi mumkin emas.
+Signal-to-Shovqin nisbati (Signal-to-Shovqin nisbati (SNR), shovqin chegarasi (Shovqin chegarasi)):
+
+6 dB va undan past - yomon chiziq, sinxronizatsiya muammolari mavjud;
+7-10 dB - buzilishlar mumkin;
+11-20 dB - yaxshi chiziq, sinxronizatsiya bilan bog'liq muammolar yo'q;
+20-28 dB juda yaxshi chiziq;
+29 dB va undan yuqori - ajoyib chiziq.
+
+ADSL liniyasi uchun twisted pair (“noodles” oʻrniga) foydalanish tavsiya etiladi, aks holda maʼlumotlar havolasining oʻtkazuvchanligi pasayadi.
+
+
+ADSL standartlari[tahrir | manbasini tahrirlash]
+
+
+Standartning nomi
+Umumiy ism
+Kiruvchi oqim tezligi, Mbps
+Yuqori oqim tezligi, Mbit/s
+Tasdiqlangan
+
+
+ANSI T1.413-1998-yil 2-son
+ADSL
+8,160 Mbit/s
+1,216 Mbit/s
+1998 yil
+
+
+ITU G.992.1
+ADSL (G.DMT)
+8 Mbit/s
+1,3 Mbit/s
+1999-07
+
+
+ITU G.992.1 A ilova
+POTS orqali ADSL
+12 Mbit/s
+1,3 Mbit/s
+
+
+ITU G.992.1-ilova B
+ISDN
+orqali ADSL 12 Mbit/s
+1,3 Mbit/s
+
+
+ITU G.992.2
+ADSL Lite (G.Lite)
+1,5 Mbit/s
+0,5 Mbit/s
+1999-07
+
+
+
+
+
+ITU G.992.3
+ADSL2
+12 Mbit/s
+1,216 Mbit/s
+2002-07
+
+
+ITU G.992.3 A ilova
+POTS orqali ADSL2
+12 Mbit/s
+1,216 Mbit/s
+
+
+ITU G.992.3-ilova B
+ISDN
+orqali ADSL2 12 Mbit/s
+1,216 Mbit/s
+
+
+ITU G.992.3-ilova J
+ADSL2
+12 Mbit/s
+3,5 Mbit/s
+
+
+ITU G.992.3 L ilova
+RE-ADSL2
+5 Mbit/s
+0,8 Mbit/s
+
+
+ITU G.992.3 M ilova
+ADSL2 (G.DMT.bis.plus)
+12 Mbit/s
+3,5 Mbit/s
+
+
+ITU G.992.4
+Splittersiz ADSL2
+1,5 Mbit/s
+0,5 Mbit/s
+2002-07
+
+
+
+
+
+ITU G.992.5
+ADSL2+
+24 Mbit/s
+1,216 Mbit/s
+2003-05
+
+
+ITU G.992.5 A ilova
+ADSL2+ POTS orqali
+24 Mbit/s
+1,216 Mbit/s
+
+
+ITU G.992.5-ilova B
+ISDN
+orqali ADSL2+ 24 Mbit/s
+1,216 Mbit/s
+
+
+ITU G.992.5 M ilova
+ADSL2+
+24 Mbit/s
+3,5 Mbit/s
+
+
+ITU G.992.5 L ilova
+RE-ADSL2+
+24 Mbit/s
+1,5 Mbit/s
+
+ADSL uskunasi[tahrir | manbasini tahrirlash]
+DSLAM
+ADSL-modem
+ADSL filtri
+Yana qarang[tahrir | manbasini tahrirlash]
+xDSL - DSL texnologiyalarining turlari
+VDSL vorisi
+Eslatmalar[tahrir | manbasini tahrirlash]
+
+
+↑ /articles/adsl.htm „ADSL haqida hamma“. 16-avgust 2011-yilda asl nusxadan /http://www.xdsl.ru /articles/adsl.htm arxivlandi. Qaraldi: 17-mart 2011-yil.
+
+
+
+↑ uz „ITU-T G.992.1 Asimmetrik raqamli abonent liniyasi uzatgichlari“. 14-iyun 2012-yilda asl nusxadan veb /20120614154832/http://www.itu.int/rec/T-REC-G.992.1/en arxivlandi. Qaraldi: 21-aprel 2012-yil.
+
+
+
+
+
+Havolalar[tahrir | manbasini tahrirlash]
+ADSL texnologiyasiga umumiy nuqtai Wayback Machine saytida arxivlandi (2022-04-02).
+Keng polosali abonent ulanishining elektr aloqa kabellarining ishlash susayishi va oʻzaro taʼsir parametrlarini oʻrganish Wayback Machine saytida arxivlandi (2018-08-08).
+Andoza:Havolalar yo'q
+Andoza:Internetga kirish usullari
+
+
+
+

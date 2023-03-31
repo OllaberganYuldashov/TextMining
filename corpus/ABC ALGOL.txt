@@ -1,0 +1,14 @@
+ABC ALGOL - bu ALGOL 60 dasturlash tilining kengaytmasi bo'lib, ixtiyoriy ma'lumotlar tuzilmalari va foydalanuvchi tomonidan aniqlangan operatorlar bilan kompyuter algebrasi (ramziy matematika) uchun mo'ljallangan. Funksiyalariga qaramay, u hech qachon Algol kabi keng masshtabda qo'llanilmaydi.
+
+Manbalar[tahrir | manbasini tahrirlash]
+
+
+Havolalar[tahrir | manbasini tahrirlash]
+van de Riet, R.P.. ABC Algol: A Portable Language for Formula Manipulation Systems. Matematisch Centrum (Amsterdam), 1973. 26-may 2017-yilda qaraldi. 
+van de Riet, R.P.. ABC Algol: The language. Mathematisch Centrum, 1973. 26-may 2017-yilda qaraldi. 
+van de Riet, R.P.. ABC Algol: The compiler. Mathematisch Centrum, 1973. 26-may 2017-yilda qaraldi. 
+Andoza:ALGOL dasturlash tili
+
+
+
+

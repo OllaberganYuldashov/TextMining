@@ -1,0 +1,43 @@
+kmt
+AFC U-19 ayollar Osiyo chempionati va AFC U-20 ayollar Osiyo kubogiTurnirlar
+U-19 ayollar Osiyo chempionati
+Hindiston 2002
+Xitoy 2004
+Malayziya 2006
+Xitoy 2007
+Xitoy 2009
+Vyetnam 2011
+Xitoy 2013
+Xitoy 2015
+Xitoy 2017
+Tailand 2019U-20 ayollar Osiyo kubogi
+Oʻzbekiston 2022
+Oʻzbekiston 2024Saralash bosqichi
+2006
+2007
+2009
+2011
+2013
+2015
+2017
+2019
+2022
+2024Takiblar
+2006
+2007
+2009
+2011
+2013
+2015
+2017
+2019
+2022
+2024
+Bu andozaning koʻrinishini qanday boshqarish
+Qoʻlla {{AFC U-20 ayollar Osiyo kubogi |holat=yigʻilgan}}  bu andozani yigʻish (yashir) xolatida koʻrsatish.
+Qoʻlla {{AFC U-20 ayollar Osiyo kubogi |holat=kengaytirilgan}}  bu andozani kengaytirish (toʻliq koʻrsatish) xolatida koʻrsatish.
+Qoʻlla {{AFC U-20 ayollar Osiyo kubogi |holat=avtomatik yigʻish}}  bu andozani yigʻish (yashir) xolatida koʻrsatish faqat agar sahifada bir xil turdagi boshqa bir andoza boʻlsa.
+Agar oʻrnatilmagan boʻlsa, unda (andoza kodidagi holat parametrini koʻring), avtomatik yigʻish bu majburiyatni bajarmaslik holati.
+
+
+

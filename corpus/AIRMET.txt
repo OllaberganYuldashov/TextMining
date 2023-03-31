@@ -1,0 +1,67 @@
+Bu maqolani oʻchirish taklif etiladi.Sababini va mos munozaralarni quyidagi sahifadan topishingiz mumkin: Vikipediya:Oʻchirishga/AIRMET.Munozara jarayoni yakunlanmaguncha maqolani yaxshilashga urinib koʻrish mumkin, lekin koʻchirish yoki matnni oʻchirishdan saqlaning.Maqola oʻchirilish arafasida boʻlsa nima qilish kerak?Munozara tugamaguncha oʻchirishga qoʻyish haqidagi belgini olib tashlamang.
+
+Administratorlarga: bu yerga havolalar, tarixi (oxirgi oʻzgarish), qaydlar, oʻchirish.
+
+Ta’rifi[tahrir | manbasini tahrirlash]
+AIRMET – meteorologiya kuzatuvi organi tomonidan tuziladigan, havo kemalari parvozlarining xavfsizligiga ta’sir qiluvchi, past balandliklardagi parvoz yoʻnalishida mavjud boʻlgan yoki paydo boʻlishi kutilayotgan tegishli FIR hududi yoki uning bir qismi uchun berilgan GAMET axborotiga kiritilmagan ob-havo hodisalari va atmosferadagi boshqa hodisalar haqidagi axborot.
+
+Uzatilishi[tahrir | manbasini tahrirlash]
+AIRMET xabarlari quyidagi xizmatlarga uzatiladi:
+
+havodagi harakatga xizmat koʻrsatayotgan organ (lar)ga;
+mazkur meteorologiya kuzatuvi organining javobgarlik hududidagi boshqa meteorologiya organlariga;
+qoʻshni meteorologiya kuzatuvi organlariga;
+VOLMET (D-VOLMET) xabarlarini radioefirga uzatish yoki AIRMET axborotini ma’lumot uzatish tarmogʻi orqali joʻnatish uchun tayinlangan organga.
+Meteorologiya organlari tomonidan SIGMET va AIRMET axborotini uzatilishiga oid batafsiz ma’lumot Aeronavigatsiya ma’lumotlari toʻplamida (AIP) e’lon qilinadi.
+
+Tuzilishi[tahrir | manbasini tahrirlash]
+AIRMET xabarlari quyidagilardan iborat boʻladi:
+
+xabar nomi;
+tegishli ATS organi va MKO joylashgan joy koʻrsatkichi (ICAO indeksi), xabarning tartib raqami va amal qilish muddatidan iborat birinchi qator;
+FIR hududining ICAO indeksi va nomlanishidan iborat ikkinchi qator, uning ketidan esa xabarning meteorologiya qismi keladi (mazkur xabarning joʻnatilishiga sabab boʻlgan hodisalar haqidagi meteorologiya axboroti).
+AIRMET xabarlari FL100 (togʻli joylarda FL150 yoki koʻproq) balandliklar uchun quyida bayon qilingan hodisalar uchun e’lon qilinib, bunda har bir AIRMET xabari faqatgina bitta hodisaga oid ma’lumotni oʻz ichiga oladi:
+
+yerusti shamolining yoʻnalishi va tezligi;
+yer sathidagi koʻrinuvchanlik;
+chaqmoqlar;
+togʻlarning yopilib qolishi (tuman, bulutlar, chang tufayli);
+bulutlar;
+muzlash;
+turbulentlik;
+togʻ toʻlqinlari.
+Hodisa yuz berayotgan joyning geografik koordinatalari beriladi.
+AIRMET xabarlariga qoʻshiladigan hodisalarga tegishli me’zonlar, SIGMET xabarlariga qoʻshiladigan hodisalarga tegishli me’zonlar bilan oʻxshash.
+Soʻnggi yillarda AIRMET xabarlari tasviriy koʻrinishda berilib, G-AIRMET (Graphical-AIRMET) deb atalmoqda.
+
+Namuna[tahrir | manbasini tahrirlash]
+WAUS41 KKCI 050245 
+BOST WA 050245 
+AIRMET TANGO FOR TURB AND STG SFC WNDS VALID UNTIL 050900 
+AIRMET STG SFC WNDS...ME NH MA RI CSTL WTRS 
+FROM 110SE BGR TO 200SE ACK TO 210S ACK TO 100S ACK TO 60NE ACK 
+TO 110SE BGR 
+SUSTAINED SURFACE WINDS GTR THAN 30KT EXP. CONDS ENDG 06-09Z. 
+OTLK VALID 0900-1500Z...TURB ME NH VT MA RI CT NY LO NJ PA OH LE 
+MD DE AND CSTL WTRS 
+BOUNDED BY YOW-150E ACK-200SE ACK-210S ACK-20WSW SIE-40SSW ECK- 
+30SE ECK-YOW 
+MOD TURB BTN FL180 AND FL370. CONDS CONTG THRU 15Z.
+
+Adabiyotlar[tahrir | manbasini tahrirlash]
+Thomas D. Potter, Bradley R. Colman. Handbook of weather, climate and water. – John Wiley & Sons Inc. Hoboken, New Jersey (USA), 2003
+Alan Watts. The weather handbook, third edition. – Adlard Coles Nautical, Bloomsbury, London (UK), 2014. pg. 192
+Michael Bright. The Pocket Book of Weather: Entertaining and Remarkable Facts About Our Weather, - Adlard Coles Nautical, Bloomsbury, London (UK), 2013. pg. 145
+Т.В. Сафонова. Авиационная метеорология: учеб. пособие. – Ульяновск: УВАУ ГА (И), 2009. – 242 с
+Ю.Г. Хабутдинов, К.М. Шанталинский. Краткосрочные метеорологические прогнозы. – Казань: КГУ, 2008. – 52 с
+Havolalar[tahrir | manbasini tahrirlash]
+METAR
+TAF
+SPECI
+GAMET
+VOLMET
+Instytut Meteorologii i Gospodarki Wodnej Państwowy Instytut Badawczy
+
+
+
+

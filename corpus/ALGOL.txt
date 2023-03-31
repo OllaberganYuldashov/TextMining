@@ -1,0 +1,15 @@
+ALGOL (inglizcha: Algorithmic language — „algoritmik til“)[1] — bir qancha dasturlash tillarining qisqartirilgan nomi. EHMda ilmiy-texnik masalalarni hal qilish uchun dastur tuzishda qoʻllaniladi. ALGOL inson tili bilan mashina tili oʻrtasida vositachidir. 1958-1960-yillarda ishlab chiqilgan (A-58, A-60), 1964-1968-yillarda takomillashtirilgan (A-68). Asosiy belgilari — oʻnli raqamlar, lotincha kichik va bosh harflar, tinish belgilari, arifmetik va mantiqiy amallar belgilari, boshqa maxsus belgilar, ingliz soʻzlari. ALGOLni mashina tiliga oʻtkazish uchun maxsus translator tuzilgan.
+
+Adabiyotlar[tahrir | manbasini tahrirlash]
+OʻzME. Birinchi jild. Toshkent, 2000-yil
+Manbalar[tahrir | manbasini tahrirlash]
+
+
+↑ (Algol 60 Wayback Machine saytida arxivlandi (25 June 2007).), and sometimes in all uppercase (ALGOL68 Wayback Machine saytida arxivlandi (13 September 2014).
+
+
+Ushbu maqolada Oʻzbekiston milliy ensiklopediyasi (2000-2005) maʼlumotlaridan foydalanilgan.
+Ushbu maqola chaladir. Siz uni boyitib, Vikipediyaga yordam berishingiz mumkin.kmtBu andozani aniqrogʻiga almashtirish kerak.
+
+
+

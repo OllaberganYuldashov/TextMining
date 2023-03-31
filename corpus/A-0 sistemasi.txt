@@ -1,0 +1,37 @@
+A-0 tizimi — Grace Murray Hopper[1] tomonidan 1951 va 1952-yillarda UNIVAC I (Arifmetik tilning 0 versiyasi) uchun yozilgan dastur. U elektron kompyuterlar uchun ishlab chiqilgan dastlabki[2] kompilyator bilan bogʻliq vosita boʻlgan[3]. A-0 zamonaviy kompilyator tushunchasidan koʻra koʻproq yuklovchi yoki bogʻlovchi vazifasini bajargan. Dastur subprogrammalar va uning argumentlari ketma-ketligi sifatida belgilangan. Subprogrammalar raqamli kod bilan identifikatsiya qilingan va pastki dasturlarga argumentlar toʻgʻridan-toʻgʻri har bir kichik dastur kodidan keyin yozilgan. A-0 tizimi spetsifikatsiyani kompyuterga ikkinchi marta berilishi mumkin boʻlgan mashina kodiga aylantirgan.
+A-0 tizimidan keyin A-1, A-2[4], A-3 (ARITH-MATIC sifatida chiqarilgan), AT-3 (MATH-MATIC sifatida chiqarilgan) va B-0 (FLOW- sifatida chiqarilgan) ishlab chiqarilgan.
+A-2 tizimi 1953-yilda Remington Rand kompaniyasining UNIVAC boʻlimida ishlab chiqilgan va oʻsha yilning oxirigacha mijozlarga taqdim etilgan[5]. Mijozlarga A-2 uchun manba kodi berilgan va yangilanishlarni UNIVACga yuborishga taklif qilingan. Shunday qilib, A-2 bepul va ochiq kodli dasturiy taʼminotga oʻxshash dastlabki falsafa natijasiga misol boʻlishi mumkin[6].
+
+
+Yana qarang[tahrir | manbasini tahrirlash]
+Kompilyator qurilishi tarixi
+Manbalar[tahrir | manbasini tahrirlash]
+
+↑ Ridgway, Richard (1952). „Compiling routines“. Proceeding ACM '52 Proceedings of the 1952 ACM National Meeting (Toronto).
+
+↑ „List of early compilers and assemblers“.
+
+
+
+↑ Hopper „Keynote Address“, Sammet pg. 12
+
+↑ „PAPERS: Automatic Programming: The A 2 Compiler System -- Part I“ (PDF). Computers and Automation. 4-jild, № 9. Sep 1955. 25–29-bet. Qaraldi: 2020-09-05.
+
+↑ Ceruzzi, Paul. A History of Modern Computing. The MIT Press, 1998. 
+
+↑ „Heresy & Heretical Open Source: A Heretic's Perspective“.
+
+
+
+
+Havolalar[tahrir | manbasini tahrirlash]
+1954-yil MIT yozgi sessiyasi „Raqamli kompyuterlar — ilgʻor kodlash texnikasi, 7-boʻlim — Univac bilan foydalanish uchun A2 kompilyatori va bogʻlangan tartiblar“ mavzusidagi materiallar.
+Kitoblar[tahrir | manbasini tahrirlash]
+Hopper, Grace (May 1952). "The Education of a Computer". Proceedings of the Association for Computing Machinery Conference (Pittsburgh) May 1952. pp. 243–249. doi:10.1145/609784.609818. http://xover.mud.at/~marty/iug2/p243-hopper.pdf. 
+Hopper, Grace (16 February 1955). "Automatic Coding for Digital Computers". High Speed Computer Conference (Louisiana State University) February 1955. Remington Rand. http://bitsavers.informatik.uni-stuttgart.de/pdf/univac/HopperAutoCodingPaper_1955.pdf. 
+Hopper, Grace. "Keynote Address". Proceedings of the ACM SIGPLAN History of Programming Languages (HOPL) conference. 
+Ridgway, Richard K. (1952). "Compiling Routines". Proceedings of the 1952 ACM national meeting (Toronto) ACM '52. 
+Sammet, Jean. Programming Languages: History and Fundamentals. Prentice-Hall, 1969 — g. 12 bet. 
+
+
+

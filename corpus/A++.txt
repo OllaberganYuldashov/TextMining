@@ -1,0 +1,122 @@
+A++
+
+
+Paradigmalari
+
+Funksional dasturlashObyektga yo'naltirilgan dasturlashImperativ dasturlashMantiqiy dasturlashTuzilgan yili
+
+1988 (34 yil avval) (1988)Litsenziya
+
+GNU General Public LicenseFayl kengaytmalari
+
+.., .+, .a, .m[1]Bunga asos boʻlgan tillar
+Lambda hisobiBuning asosida tuzilgan tillar
+K
+
+A++ — qisqartmasi abstraksiya+havola+sintez degan maʼnoni bildiradi. Bu ARS asosidagi dasturlash asosida yaratilgan minimalistik dasturlash tilining nomi sifatida ishlatiladi. ARSga asoslangan dasturlash asosan ARSdan olingan kodlarni istalgan tilda dasturlashda qoʻllashdan iborat boʻlgan dasturlash nomi bilan nomlangan. ARS — bu „Lambda hisobining“ abstraktsiyasi boʻlib, uning uchta asosiy funksiyasini oladi va ularga umumiy maʼno beradi. Shu bilan uchta asosiy dasturlash paradigmalari uchun asos boʻlib xizmat qiladi. Asosiy paradigmalar quyidagilardan iborat: funksional dasturlash, obyektga yo'naltirilgan dasturlash va imperativ dasturlash.
+Ushbu maqoladagi texnik matnlar 2004-yilda nashr etilgan A++ kitobi[2] 1-nashrining onlayn versiyasidan olingan.  Dunyodagi eng kichik dasturlash tili A++ kitobining 2-nashri (292 bet) 2018-yilda chop etilgan[3].
+A++ bu dasturlashga qiziqqan odamlarga dasturlash „sanʼatining muhim jihatlarini“ iloji boricha tez va samarali tushunishga yordam berish uchun yaratilgan dasturlash tili ham hisoblanadi.
+
+
+Tarixi[tahrir | manbasini tahrirlash]
+A++ Georg P. Loczewski va Langendagi Bull's Software-Haus kompaniyasida dasturiy taʼminot ishlab chiqaruvchisi Britain Hamm tomonidan 1996—2002-yillarda oʻrganish vositasi sifatida ishlab chiqilgan[4]. A++ amaliy masalalarni yechishda foydalaniladigan dasturlash tili emas.
+A++ ning rivojlanishi Alonzo Churchning „Lambda hisobi“ ga asoslangan va Guy L. Steelening dasturlash tili sxemasi taʼsirida yaratilgan.[5]
+A++ real hayot ishlatiladigan boshqa tillarda qoʻllanilishi mumkin boʻlgan. Dasturlashning asosiy mohiyati va dasturlash kodlari bilan tanishish uchun samarali vosita boʻlishi uchun moʻljallangan.
+
+Taʼlimga yoʻnaltirilgan dasturlash tillari[tahrir | manbasini tahrirlash]
+Taʼlim dasturlash tili bu dasturlash tili boʻlib, u asosan oʻrganish vositasi sifatida ishlab chiqilgan boʻlib, u real amaliy dasturlarini yozish vositasida ishlatilmaydi.
+A++, Paskal, Schema va Logolarni taʼlim dasturlash tili turkumiga mansub deb hisoblash mumkin[6].
+
+Nashrlar[tahrir | manbasini tahrirlash]
+ A++ dasturlash tilini boshqa dasturlash tillari bilan sinxronizatsiyasi
+Birinchi nashr etilgan hujjatlar nemis tilida 2003-yil yanvar oyida „Programmierung pur --- Programmieren fundamental und ohne Grenzen“ („Aralashmagan dasturlash“) sarlavhasi bilan paydo boʻldi (919-bet)ISBN 978-3-87820-108-3[7].
+2005-yilda ingliz tilidagi A++ kitobiga „Dunyodagi eng kichik dasturlash tili A++ --- taʼlim tili (242 bet)“ sarlavhasi bilan maqola kitildi.ISBN 978-3-87820-116-8.
+A++ haqida dunyodagi eng kichik dasturlash tili kitobida tanishtirilgan. Kitob 2004-yil oktyabr oyida Germaniyaning Darmshtadt shahrida ISBN: 3-87820-116-8 ostida nashr etilgan.
+Kitobning 2-nashri 2018-yil aprel oyida Germaniyaning Gamburg shahridagi tredition GmbH nashriyoti tomonidan nashr etilgan.
+
+Kitobga kiritilgan oʻzgartirishlar[tahrir | manbasini tahrirlash]
+Kitob 2018-yil aprel oyida Germaniyaning Gamburg shahrida GmhH nashriyoti tomonidan toʻldirilgan va qayta nashr etilgan[8].
+
+Maqsadi[tahrir | manbasini tahrirlash]
+A++ bu C++ tiliga oʻxshash til boʻlib, uning tarjimoni Scheme, Java, C, C++ va Python tillarida mavjud. A++ dasturlash tillari bilan bir-birini toʻldirib ishlashini va dasturlash boʻyicha boshlangʻich tayyorgarlik uchun ideal muhitni taklif etadi.
+
+Qatʼiy tamoyillar[tahrir | manbasini tahrirlash]
+ARS (asosiy operatsiyalar)
+Abstraktsiya
++ Maʼlumot
++ Sintez
+Leksik doirasi
+Yopish
+Dastur quyidagi paradigmalarni qoʻllab-quvvatlaydi:[tahrir | manbasini tahrirlash]
+Funksional dasturlash, (toʻgʻridan-toʻgʻri qoʻllab-quvvatlanadi)
+(baholanadigan iboralarni yozish),
+Obyektga yoʻnaltirilgan dasturlash (toʻgʻridan-toʻgʻri qoʻllab-quvvatlanadi)
+(obyektlarga xabarlar yuborish),
+Imperativ dasturlash (toʻgʻridan-toʻgʻri qoʻllab-quvvatlanadi)
+(bajarilishi kerak boʻlgan bayonotlarni yozish), shu jumladan tuzilmali dasturlash.
+Mantiqiy dasturlash (bilvosita qoʻllab-quvvatlanadi)
+(qoidalarga asoslangan dasturlash)
+Asosiy xususiyatlari[tahrir | manbasini tahrirlash]
+Mantiqiy abstraktsiyalar
+(toʻgʻri, notoʻgʻri, agar, yoʻq, va, yoki),
+Raqamli abstraktsiyalar
+(tabiiy sonlar, nol, succ, pred, qo‘shish, sub, mult),
+Relyatsion abstraktsiyalar,
+(equalp, gtp, ltp, gep)
+Rekursiya,
+Roʻyxatlarni yaratish va qayta ishlash
+(cons, car, cdr, nil, nullp, length, olib tashlash, nth, assoc),
+Yuqori tartibli funksiyalar
+(tuzatish, karri, xarita, mapc, map2, filtrlash, joylashishni aniqlash),
+Operatorlarni sozlash
+(aʼzo, ittifoq, qoʻshimcha),
+Iterativ boshqaruv tuzilishi
+('whileʼ).
+A++ bilan ilovalarni ishlab chiqish[tahrir | manbasini tahrirlash]
+A++ ning maqsadi real dunyo ehtiyojlariga moʻljallangan ilovalar yozish uchun dasturlash tili sifatida foydalanilmaydi. Shunga qaramay, A++ da oddiy hisobni va kutubxonani boshqarish tizimining obyektga yoʻnaltirilgan ilovalari kabi oddiy amaliy dasturlarni yozish mumkin.
+Real amaliy dasturlarini yozish uchun ARS++ tili taqdim etiladi. ARS++ kengaytmasi: ARS plus Scheme plus Extensions.
+
+Manbalar[tahrir | manbasini tahrirlash]
+
+
+↑ „A+ Reference: Appendix: Quick Reference“. 24-fevral 2020-yilda asl nusxadan arxivlandi. Qaraldi: 6-fevral 2020-yil.
+
+
+
+↑ Gerog P. Loczewski. „A++ - The Smallest Programming Language in the World (1st edition)“.  STMV - S. Toeche-Mittler Verlag. 26-fevral 2021-yilda asl nusxadan arxivlandi. Qaraldi: 14-iyul 2018-yil.
+
+
+
+↑ Georg P. Loczewski. „A++ - The Smallest Programming Language in the World (2nd augmented edition)“.  tredition GmbH. Qaraldi: 14-iyul 2018-yil.
+
+
+
+↑ „Origin of A++“. Qaraldi: 14-iyul 2018-yil.
+
+
+
+↑ „Lambda Calculus & A++“ (24-iyul 2003-yil). Qaraldi: 15-sentabr 2022-yil.
+
+
+
+↑ „A++ -- Introduction“ (2019-yil). Qaraldi: 15-sentabr 2022-yil.
+
+
+
+↑ Georg P. Loczewski. „Programmierung pur --- Programmieren fundamental und ohne Grenzen' ('Undiluted Programming')“. 20-fevral 2019-yilda asl nusxadan arxivlandi. Qaraldi: 14-iyul 2018-yil.
+
+
+
+↑ „Home of A++“ (2018-yil). Qaraldi: 15-sentabr 2022-yil.
+
+
+
+
+Havolalar[tahrir | manbasini tahrirlash]
+A++ rasmiy veb-sayti
+A++ kitobi (onlayn nashr)
+ARS/ARS++ veb-sayti
+Lambda hisobi va A++
+
+
+

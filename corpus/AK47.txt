@@ -1,0 +1,330 @@
+Avtomat Kalashnikovkalibr 5,45 mm 1974-yil nusxasi(AK-74)
+
+Turi
+
+avtomatDavlat
+
+Xizmat tarixiIshlatilgan yillari
+
+1974-yildan beriQurolli kuchlarida
+
+qarang Ekspluatant-davlatlarUrushlar va toʻqnashuvlar
+
+Avfgʻon urushi (1979—1989)Nikakaragua fuqorolar urushiSSSRdan keyingi hududlardagi issiq nuqtalarIroq urushiSuriyadagi fuqorolar urushiAvfgʻonistondagi urush (2001—2021)Ishlab chiqarilishi tarixiKonstruktor
+
+Mixail Timofeyevich KalashnikovIslab chiqarilgan
+
+1974-yil1991-yil (АК-74М)Islab chiqaruvchi
+
+Injev mashinasozlik zavodiIslab chiqarilgan yillari
+
+1974 — hozirgi payitgachaEkzemplyar narxi
+
+35 000 rublga yaqinVariantlari
+
+qarang Variantlar va modernizatsiyalarXarakteristikalariOgʻirligi, kg
+
+3,3 / 3,6 (patronlarsiz / patronlar bilan)
+3,2 / 3,5 (АКС-74 patronlarsiz / patronlar bilan)
+5,9 (АК-74Н patronlar bilan, tungi moʻljali bilan)
+5,8 (АКС-74Н patronlar bilan, tungi moʻljali bilan)[1]
+3,6 / 3,9 (АК-74М patronlarsiz / patronlar bilan)
+5,8 (АК-74М patronlarsiz, НСПУМ tungi moʻljali bilan)
+
+5,7 (АК-74М patronlarsiz, НСПУ-3 tungi moʻljali bilan)[2]
+0,23 — boʻsh magazin
+
+0,32 — pichoqcha 6х4Uzunligi, mm
+
+940 / 1089 (pichoqchasiz /pichoqcha bilan) 
+940 / 700 (АКС-74 qoʻyilgan /qoʻyilmagan priklad)
+
+943 / 704 (АК-74М qoʻyilgan /qoʻyilmagan priklad)Stvol uzunligi, mm
+
+372 — uchining narezli qismi415 — DTKsiz 485 DTK bilanEni, mm
+
+70 (АК-74М)121 (НСПУМ tungi moʻljali bilan)140 (НСПУ-3 tungi moʻljali bilan)[2]Balangligi, mm
+
+195 (АК-74М)282 (НСПУМ tungi moʻljali bilan)310 (НСПУ-3 tungi moʻljali bilan)[2]Patron
+
+5,45×39 mm (qarang Patronlar)Kalibr, mm
+
+5,45Islash printsipi
+
+porox gazlari chiqarilishiburiladigan zatvorOʻt ochish tezligi, oʻt och./daq.
+
+~600[1]oʻqningboshlangʻich tezligi, m/s
+
+910[2]Moʻljalga olish uzoqligi, m
+
+1000 (ochiq moʻljal)300 (tungi moʻljali)[2]Maksimaluzoqligi, m
+
+3150 (oʻq parvozi)[1]Oʻqdori taminoti
+
+korobkali sektorli 30 patronga magazin (45 patronli РПК-74 magazinlarini va 60 patronli magazinlarni ishlatish imkoniyati bor)Moʻljal
+
+oʻzgartiriladigan ochiq, optik moʻljal mahkamlanishi nazarga olinmagan (АК-74М, АК-74Н, АКС-74Н lardan tashqari)
+
+7,62 mm Kalashnikov avtomati (AK)  (qurolli kuchlarga foydalanishga topshirilgunga qadar u AK edi, AK-46 bilan adashtirmaslik kerak) - 1949-yilda SSSR tomonidan qurolli kuchlarga qabul qilingan avtomat ; GRAU indeksi - 56-A-212. U 1947-yilda M. T. Kalashnikov tomonidan AK-46 sinovlarida muvaffaqiyatsizlikka uchraganidan soʻng, A. A. Bulkin tomonidan ishlab chiqilgan AB-46 avtomati asosida ishlab chiqilgan.
+AK va uning modifikatsiyalari dunyodagi eng keng tarqalgan oʻqotar qurollar boʻlib, u Ginnesning rekordlar kitobiga kiritilgan : bu avtomatning 100 milliondan ortiq donalari mavjud, u dunyoning 106 mamlakatida xizmat qiladi[3].
+Ushbu turdagi (shu jumladan litsenziyalangan va litsenziyasiz nusxalari, shuningdek, AK asosidagi uchinchi tomon ishlanmalari) dunyodagi barcha oʻqotar qurollarning 1/5 qismini oʻz ichiga oladi.
+7,62 mm kalibrli Kalashnikov avtomati asosida turli kalibrli harbiy va fuqarolik oʻqotar qurollar oilasi, shu jumladan AKM va AK74 avtomatlari va ularning modifikatsiyalari, Kalashnikov qoʻl pulemyoti, karbinlar va "Sayga" silliq stvolli qurollar va boshqalar yaratildi, shu jumladan SSSR va chet ellarda.
+2013 yilda Rossiya Federatsiyasi Qurolli Kuchlarining zaxiradagi va qurollanishdagi Kalashnikov avtomatining barcha turlarining umumiy soni 17 000 000 donani tashkil etdi[4].
+
+
+Yaratilishi va ishlab chiqarishga yoʻlga qoʻyish[tahrir | manbasini tahrirlash]
+Sovet qurolli kuchlari uchun avtomatni yaratish boʻyicha ishlarning boshlanishi 1943-yil 15-iyulda SSSR Mudofaa xalq komissarligi qoshidagi Texnik kengashning yigʻilishi boʻlib, unda qoʻlga olingan nemis MKb.42 (H) (kelajakdagi StG-44 prototipi) avtomatini oʻrganish natijalariga koʻra  dunyodagi birinchi ommaviy oraliq 7,92 mm patronli 7,92 × 33 mm, kalibrli Kurz, shuningdek, Lend-liz orqali yetkazib berilgan Amerika yengil samozaryadli 30 Carbine patronli M1 Carbine (Garand) karabini 7,62 × 33 mm kalibrli,  uchun , qurol-yarogʻning yangi yoʻnalishining katta ahamiyati haqida gʻoya va nemis patroniga oʻxshash "qisqartirilgan" patronni zudlik bilan ishlab chiqish zarurati haqida savol qoʻyildi, shuningdek, buning uchun qurol ham.
+Yangi patronning birinchi namunalari yigʻilishdan keyin bir oy ichida OKB-44 da yaratildi va uning sinov-sanoat ishlab chiqarilishi 1944-yil mart oyida boshlandi. Na SSSR na Gʻarb Tadqiqotchilar muomalada boʻlgan versiya: bu patron toʻliq yoki qisman oldingi nemis eksperimental ishlanmalaridan koʻchirilgan (xususan, 7,62 × 38,5 mm kalibrli Geco patroni deb nomlashgan); versiyaning haqiqiy tasdigʻini topmadilar. Sovet tomoni bunday oʻzgarishlardan xabardor boʻlganmi yoki yoʻqmi, hatto maʻlum ham emas.
+1943-yil noyabr oyida N. M. Elizarov va B. V. Syomin tomonidan ishlab chiqilgan yangi 7,62 mm oraliq patron uchun chizmalar va texnik spetsifikatsiyalar yangi qurol kompleksini ishlab chiqishda ishtirok etgan barcha tashkilotlarga yuborildi. Ushbu bosqichda u 7,62x41 mm kalibrga ega edi, ammo keyinchalik qayta ishlandi va sezilarli darajada oʻzgartirildi, bunda patronlar 7,62x39 mm ga oʻzgartirildi.
+
+ AK va SKS
+Bir oraliq patron ostidagi yangi qurollar kompleksiga avtomat, shuningdek, samozaryad va samozaryad boʻlmagan magazinli karabinlar va qoʻl pulemyoti kirishi kerak edi.
+Ishlab chiqilgan qurol piyoda askarlariga taxminan 400 m masofada samarali oʻq otish imkoniyatini berishi kerak edi, bu pistolet-pulemyot tegishli koʻrsatkichidan oshib ketar edi va haddan tashqari ogʻir, kuchli va qimmat miltiq va pulemyot oʻq-dorilari uchun qurollardan unchalik kam emas edi. Bu unga  toʻpponcha va miltiq patronlarini qoʻllagan, va Shpagin va Sudaev pistolet-pulemyotlarini oʻz ichiga olgan, Mosin magazinli samozaryad boʻlmagan miltigʻi va uning asosidagi magazinli karabinlarning bir nechta modellarini oʻz ichiga olgan, Tokarev samozaryad miltigʻi, shuningdek, turli xil tizimlarning pulemyotlari, Qizil Armiyaga xizmatdagi individual oʻqotar qurollarning butun arsenalini muvaffaqiyatli almashtirishga imkon berdi.
+Keyinchalik, kontseptsiyaning yaqqol eskirganligi sababli magazinli karbin ishlab chiqish toʻxtatildi; ammo, SKS samozaryad karabin (Simonov samozaryad karabini) kam vaqt davomida (1970-yillarning boshlariga qadar) ishlab chiqarildi, chunki avtomatga qaraganda ancha past jangovar sifatlarga va texnologiyaga ega edi, Degtyarev RPD pulemyoti esa keyinchalik (1961) avtomat - RPK (Kalashnikov qoʻl pulemyoti) bilan keng birlashtirilgan modelga almashtirildi.
+Avtomatning oʻzini ishlab chiqishga kelsak, u bir necha bosqichlardan oʻtdi va turli xil konstruktorlarning koʻplab tizimlar ishtirok etgan bir qator tanlovlarni oʻz ichiga oldi.
+1944-yilda sinov natijalariga koʻra, A. I. Sudayev tomonidan ishlab chiqilgan AS-44 avtomati qayta ishlab chiqishga saralab olindi. U qayta ishlab chiqildi va kichik seriyalarda chiqarildi, ularning harbiy sinovlari kelgusi yilning bahor va yoz oylarida GSOVGda, shuningdek SSSR hududidagi bir qator boʻlinmalarda oʻtkazildi. Ijobiy sharhlarga qaramay, armiya rahbariyati qurol massasini kamaytirishni talab qildi.
+
+Konstruktsiyasi va ishlash printsipi[tahrir | manbasini tahrirlash]
+ AK avtomatikasi stvol devoridagi teshikdan chiqarilgan porox gazlarining energiyasi tufayli ishlaydi
+ Avtomatlar detallari ajratilganda:yuqoridagi - M16 ,pastdagi - AKMS
+Dunyoda ishlatilishi[tahrir | manbasini tahrirlash]
+ Kalashnikov avtomatlarining tarqalish geografiyasi:  AK ekspluatantlari  AK asosida ozining modellarini chiqarayotgan/chiqargan davlatlar  faqat modernizatsiyalangan avtomat ekspluatantlari
+SSSR hukumati, hech boʻlmaganda, soʻz bilan aytganda, "sotsializm ishiga" sodiqligini eʻlon qilgan har bir kishiga avtomatlarni bajonidil yetkazib berar edi. Natijada, baʻzi uchinchi dunyo mamlakatlarida AK tirik tovuqdan arzonroqdir. Buni dunyoning deyarli har qanday issiq nuqtasidan olingan hisobotlarda koʻrish mumkin. AK dunyoning ellikdan ortiq davlatlarining muntazam armiyalari, shuningdek, koʻplab norasmiy guruhlar, shu jumladan terroristik guruhlar tomonidan qoʻllaniladi. Bundan tashqari, "qardosh davlatlar" AK ishlab chiqarish uchun bepul litsenziya oldilar, masalan, Bolgariya, Vengriya, Sharqiy Germaniya, Xitoy, Polsha, Shimoliy Koreya va Yugoslaviya. AK bilan ishlashni oʻrganish koʻp vaqt talab qilmaydi (avtomatdan foydalanish boʻyicha toʻliq armiya kursi atigi 10 soatni tashkil qiladi).
+
+Birinchi jangovar foydalanish[tahrir | manbasini tahrirlash]
+Jahon miqyosida AK dan ommaviy jangovar foydalanishning birinchi holati 1956 yil 1-noyabrda Vengriyadagi qoʻzgʻolonni bostirish paytida sodir boʻlgan.
+
+Vyetnam urushi[tahrir | manbasini tahrirlash]
+AK, shuningdek, Vyetnam urushining ramzlaridan biriga aylandi, urush davomida Shimoliy Vyetnam armiyasi askarlari va Vyetkong partizanlari tomonidan keng qoʻllanilgan.
+
+Afgʻoniston[tahrir | manbasini tahrirlash]
+Afgʻonistondagi urush AKning dunyo boʻylab tarqalishini tezlashtirdi. Endi avtomat bilan isyonchilar va terrorchilar qurollangan edilar. Markaziy razvedka boshqarmasi mujohidlarga, Pokiston orqali asosan, Xitoyda ishlab chiqarilgan (XXRda, AK Type 56 belgisi ostida litsenziya boʻyicha juda koʻp miqdorda ishlab chiqarilgan) Kalashnikov avtomatlari bilan saxiylik bilan taʻminladi. AK arzon va ishonchli qurol edi, shuning uchun AQSh uni afzal koʻrdi.
+Sovet qoʻshinlari olib chiqilishidan oldin ham Gʻarb ommaviy axborot vositalari mintaqadagi AKlarning koʻpligiga eʻtibor qaratdi va "Kalashnikov madaniyati" tushunchasi leksikonga kirdi. 1989-yil 15-fevralda soʻnggi sovet qoʻshinlari Afgʻonistonni tark etgach, mujohidlarning rivojlangan qurol-yarogʻ infratuzilmasi yoʻqolmadi, aksincha, mintaqa iqtisodiyoti va madaniyatiga integratsiya qilindi. Afgʻon mujohidlari yetakchisi Ahmad Shoh Mas’ud, “Siz qaysi qurolni afzal koʻrasiz? ” dega savolga, “Kalashnikov, albatta” deb javob berdi[5].
+NATO qoʻshinlari Afgʻonistonga kiritilgach, amerikaliklar Markaziy razvedka boshqarmasi mujohidlar uchun sotib olgan bir xil AKlarga duch kelishga majbur boʻldi. Washington Post gazetasiga koʻra, afgʻonistonlik oʻspirin tomonidan Kalashnikov avtomatidan otib oʻldirilgan 1-darajali serjant Natan Ross Chepmen bu urushda dushman oʻtidan halok boʻlgan birinchi amerikalik boʻldi  (iCasualties.org mustaqil internet saytiga koʻra, Afgʻonistonda dushman oʻtidan halok boʻlgan birinchi amerikalik Jonni Spenn edi[6]).
+
+Iroqdagi urush[tahrir | manbasini tahrirlash]
+Koalitsiya harbiy kuchlarini hayratda qoldirgan holda, yangi tashkil etilgan Iroq armiyasining askarlari AK-larni talab qilib, Amerika M16 va M4 larini qoʻlga olishdan bosh tortishdi. Vaqtinchalik koalitsiya maʻmuriyatining katta maslahatchisi Valter B. Slocombe ning soʻzlariga koʻra:
+"12 yoshdan oshgan har bir iroqlik uni ajratib olishi va koʻzlari yumilgan holda yigʻishi va juda yaxshi otishi mumkin".
+
+Postsovet davri[tahrir | manbasini tahrirlash]
+SSSR parchalanganidan soʻng, Varshava shartnomasining koʻplab mamlakatlari oʻz arsenallarini sotishni boshladilar, ammo bu AK narxining pasayishiga olib kelmadi. 1980-1990-yillar oxirida avtomat narxining taxminan 1100 dollardan 800 dollargacha sezilarli pasayishi faqat Yaqin Sharqda sodir boʻldi, Osiyo va Amerikada narxlar hatto oshdi (taxminan 500 dollardan 700 dollargacha boʻlgan oraliqda) lekin Sharqiy Yevropada va Afrikada ular deyarli oʻzgarmadi ($200-300 oraligʻida).
+
+Tasvirlari[tahrir | manbasini tahrirlash]
+
+AK va AKM Ijmash "Rossiya qurol-yarog'i" ko'rgazmasida
+
+
+
+Kalashnikov avtomati 6X2 pichoqli 1 va 2-modellar
+
+
+
+
+
+
+AK 3-model
+
+
+
+
+
+
+AKC
+
+
+
+
+
+
+AKM
+
+
+
+
+
+
+NSP-3 tungi moʻljaliga ega AKML
+
+
+
+
+
+
+AKM asosidagi " Jimjitlik " oʻqotar-granamyot kompleksi
+
+
+
+
+
+
+AK74 1-model va AKS74 6X5 pichoqli
+
+
+
+
+Ekspluatant-davlatlar[tahrir | manbasini tahrirlash]
+
+ Afgʻoniston[7]
+ Albaniya[8]
+ Jazoir [8]
+ Angola [8]
+ Armaniston[8]
+ Ozarbayjon [8]
+ Bangladesh[8]
+ Belarus [8]
+ Benin[8]
+ Bosniya va Gertsogovina [8]
+ Botsvana [8]
+ Bolgariya [8]
+ Burkina Faso
+ Burundi
+ Kambodja [8]
+ Kabo-Verde [8]
+ Markaziy Afrika Respublikasi [8]
+ Chad [8]
+ Xitoy  : Variant Tip 56.[9]
+ Komor orollari [8]
+ Kuba [8]
+ Kongo DR [8]
+ Jibuti
+Andoza:DDR[10]
+ Misr[8]
+ Eritreya [8]
+ Ekvatorial Gvineya[8]
+ Efiopiya[8]
+ Gabon [8]
+ Gruziya [8]
+ Gana
+ Gretsiya [11][12]
+ Gvineya [8]
+ Gvineya-Bisau[8]
+ Gayana [8]
+ Vengriya [8]
+ Hindiston [13]
+ Eron [8]
+ Iroq [7][8]
+ Isroil [8]
+ Qozogʻiston [8]
+ Keniya
+ Qirgʻiziston [8]
+ Laos [8]
+ Livan [8]
+ Lesoto [8]
+ Liberiya [8]
+ Liviya [8]
+ Shimoliy Makedoniya [14]
+ Madagaskar [8]
+ Mali [8]
+ Malta  : Variant Tip 56.[8]
+ Mavritaniya
+ Moldova [8]
+ Marokash [8]
+ Mongoliya [8]
+ Mozambik [8]
+ Myanma
+ Namibiya [8]
+ Niger
+ Nigeriya
+ KXDR  : Variant Tip 58.[8]
+ Pokiston  : Variant Tip 56.[15]
+Andoza:PAL[16]
+ Peru [8]
+ Filippin [17]
+ Polsha [10]
+ Qatar [8]
+ Kongo Respublikasi [8]
+Andoza:ROD
+ Ruminiya [8]
+ Rossiya [8]
+ Ruanda
+ San Tome va Prinsipi [8]
+Andoza:SAD[18]
+ Senegal
+ Serbiya [8]
+ Seyshell orollari [8]
+ Syerra Leone [8]
+ Somali [8]
+ Janubiy Afrika Respublikasi
+ Janubiy Sudan
+ Sovet Ittifoqi[9]
+ Shri Lanka  : Variant Tip 56.[8]
+ Sudan[8]
+ Surinam[8]
+ Suriya[8]
+ Tojikiston [8]
+ Tanzaniya [8]
+ Togo[8]
+ Turkmaniston [8]
+ Turkiya[8]
+ Uganda [8]
+ Birlashgan Arab Amirliklari [8]
+ Ukraina [8]
+ Oʻzbekiston [8]
+ Vyetnam[9]
+ Yaman [8]
+ Yugoslaviya [10]
+ Zambiya [8]
+ Zimbabve [8]
+Manbalar[tahrir | manbasini tahrirlash]
+
+
+↑ 1,0 1,1 1,2 Руководство по 5,45-мм автомату Калашникова (АК-74, АК-74С, АК-74Н, АКС-74Н) и 5,45-мм ручному пулемёту Калашникова (РПК-74, РПКС-74, РПК-74Н, РПКС-74Н) — М.: Военное издательство Министерства обороны СССР, 1982
+
+↑ 2,0 2,1 2,2 2,3 2,4 Описание АК-74М Wayback Machine saytida arxivlandi (2009-03-30). на сайте производителя
+
+↑ „20 фактов об автомате Калашникова“ (ru). РИА Новости (10-noyabr 2009-yil). Qaraldi: 30-sentabr 2021-yil.
+
+
+
+↑ „17 миллионов автоматов Калашникова находится на складах Минобороны“ (ru). Московское информационное радио City FM (28-fevral 2013-yil). 2-fevral 2014-yilda asl nusxadan arxivlandi. Qaraldi: 21-mart 2017-yil.
+
+
+
+↑ Jones, Kent „Afghanistan“,. Physical evidence: selected film criticism(Inglizcha), Wesleyan film. Middletown, CT: Wesleyan University Press, Lua xatosi: bad argument #2 to 'formatDate': invalid timestamp 'Yanvar'. — 119 bet. ISBN 0-8195-6844-9. 
+
+↑ „icasualties.org“. 9-may 2013-yilda asl nusxadan arxivlandi. Qaraldi: 8-iyun 2022-yil.
+
+
+
+↑ 7,0 7,1 Kahaner, Larry. „Weapon Of Mass Destruction“ (26-noyabr 2006-yil). Qaraldi: 3-aprel 2010-yil.
+
+↑ 8,00 8,01 8,02 8,03 8,04 8,05 8,06 8,07 8,08 8,09 8,10 8,11 8,12 8,13 8,14 8,15 8,16 8,17 8,18 8,19 8,20 8,21 8,22 8,23 8,24 8,25 8,26 8,27 8,28 8,29 8,30 8,31 8,32 8,33 8,34 8,35 8,36 8,37 8,38 8,39 8,40 8,41 8,42 8,43 8,44 8,45 8,46 8,47 8,48 8,49 8,50 8,51 8,52 8,53 8,54 8,55 8,56 8,57 8,58 8,59 8,60 8,61 8,62 8,63 8,64 8,65 8,66 8,67 8,68 8,69 8,70 8,71 8,72 Jane's Infantry Weapons 2009–2010, 35, Jane's Information Group, Lua xatosi: bad argument #2 to 'formatDate': invalid timestamp 'Yanvar'.. ISBN 978-0-7106-2869-5. 
+
+↑ 9,0 9,1 9,2 D. M. O. Miller. Illustrated directory of twentieth century guns, Lua xatosi: bad argument #2 to 'formatDate': invalid timestamp 'Yanvar'.. ISBN 978-1-84065-245-1. 
+
+↑ 10,0 10,1 10,2 Modern Firearms – AK-47 AKM. World.guns.ru (2011-01-24). Retrieved on 2011-03-14.
+
+↑ Milosevic, Milan. „Trojanski Konj za Teroriste“ (sr).  Kalibar (2005). 15-avgust 2010-yilda asl nusxadan arxivlandi. Qaraldi: 4-aprel 2009-yil.
+
+
+
+↑ „Greece Ministry of Public Order Press Office: Special Anti-Terrorist Unit“ (en) (deadlink).  http://astynomia.gr – Official Website of the Hellenic Police (July 2004). 21-iyul 2010-yilda asl nusxadan arxivlandi. Qaraldi: 27-sentabr 2009-yil.
+
+
+
+↑ „Maha's elite counter terror unit Force One becomes operational“.  Business Standard. Qaraldi: 5-iyul 2010-yil.
+
+
+
+↑ Macedonian military police, US National Guard conduct joint manoeuvres. SETimes.com. Retrieved on 2011-03-14.
+
+↑ Pakistan Military Consortium Wayback Machine saytida arxivlandi (2011-05-15).. www.PakDef.info (1989-05-29). Retrieved on 2011-03-14.
+
+↑ Israel Aids Palestinians With Arms, New York Times. September 5, 2008.
+
+↑ „Santiago city forms SWAT team to combat crime“.  Philippine Information Agency (2-sentabr 2006-yil). Qaraldi: 1-fevral 2010-yil.
+
+
+
+↑ Western Sahara – In the unforgiving deserts of south west Algeria, Nick Ryan meets the nomads fighting a 25 year battle.
+
+
+Adabiyotlar[tahrir | manbasini tahrirlash]
+Наставление по стрелковому делу. 7,62-мм автомат Калашникова (АК). Изд. 2-е. — М.: Военное издательство Министерства обороны СССР, 1960.
+Наставление по стрелковому делу. 7,62-мм модернизированный автомат Калашникова (АКМ и АКМС). 3-е изд. — М.: Военное издательство Министерства обороны СССР, 1970.
+Монетчиков С. Б. История русского автомата. — СПб.: Атлант, 2005. ISBN 5-98655-006-4
+Кристофер Чиверс. АК-47 и эволюция войны. 2010.
+Малимон А. А. Отечественные автоматы (записки испытателя-оружейника), М. Типография ВА РВСН им. Петра Великого, 1999.
+
+
+

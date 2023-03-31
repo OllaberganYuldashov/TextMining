@@ -1,0 +1,28 @@
+AGP (ingl. tilidan olingan boʻlib, Accelerated Graphics Port — tezlashtirilgan grafik port degan maʼnoni bildiradi) — Intel kompaniyasi tomonidan 1997-yil ishlab chiqilgan boʻlib, videokarta uchun moʻljallangan 32-bitli tizimli shina. Intel Pentium MMX chipset MVP3, Super Socket 7 li MVP5 protsessorlarga moʻljallangan chipsetlar bilan bir vaqtda paydo boʻlgan. Ishlab chiqaruvchilarning asosiy vazifasi oʻrnatiladigan video xotira sonini kamaytirish hisobiga ishlab chiqarish hajmini oshirish va videokarta narxini kamaytirish. Intel gʻoyasiga koʻra AGP-kart uchun katta hajmdagi video xotira kerak emas edi, chunki texnologiya umumiy xotiraga yuqori tezlikdagi kirishni koʻzda tutar edi.
+Undan avval boʻlgan PCI shinadan farqi:
+
+66 MGs takt chastotada ishlashi;
+yuqori oʻtkazuvchanlik qobiliyati;
+DMA va DME xotirasi bilan ishlash rejimi;
+operatsiya va maʼlumotlar uzatishga soʻrovlar ajratish;
+PCI farqli ravishda katta energiya isteʼmoli bilanvideokartalarni qoʻllash imkoniyati.
+
+AGP modifikatsiyasi
+Birinchi turi (AGP1.0 spetsifikasi) AGP 1x kamdan- kam ishlatiladi, chunki DME rejimida xotira bilan ishlashda kerakli tezlikni taʼminlab beradi, shundan soʻng darxol loyixalashda 1 ta taktda 2 ta maʼlumotlar blokini yuborish imkoniyati qoʻshildi, bu AGP 2x edi. 1998 yilda ikkinchi turi (AGP2.0 spetsifikasi) AGP 4x chiqdi, u bitta taktda 4 ta blokni qayta yuborishi mumkin edi va 1 gb/s atrofida oʻtkazuvchanlik imkoniyatiga ega edi. Kuchlanish darajasi odatiy 3.3 V oʻrniga 1.5 V gacha kamaytirildi. AGP 8x shinasi (AGP3.0 spetsifikasi) bitta taktda endi 8 ta blokni uxatadigan boʻldi, shu tariqa shinaning oʻtkazuchanlik qobiliyati 2 Gb/s ga etdi. Shuningdek standartga 2 ta videokartani (analog tarzda ATI Cross Fire, Nvidia SLI) qoʻllash imkoniyati kiritilgan edi, biroq ishlab chiqaruvchilar tomonidan bu imkoniyat ishlatilmadi. Zamonaviy videokartalar 40 Vt dan yuqori boʻlgan katta quvvatni talab qilar edi, AGP shina esa buni beraolmas edi. Shu tariqa qoʻshimcha mabba raz’yomlar mavjud boʻlgan AGP Pro spetsifikatsiya paydo boʻldi.
+Xotiraga kirish imkoniyati 
+
+-	DMA (ingl. Direct Memory Access) — xotiraga kirish imkoniyati, ushbu rejimda asosiy xotira boʻlib kartada oʻrnatilgan videoxotira xisoblanadi, teksturalar ishlatilishidan avval kompyuterning tizimli xotirasidan u erga nusxalanadi. Ushbu rejim yangi emas edi, xuddi shu printsip asosida ovozli kartalar, ayrim kontrollerlar va shunga oʻxshashlar ishlaydilar.
+-	DME (ingl. Direct in Memory Execute) — ushbu rejimda viduo asosiy va videoxotira goʻyoki umumiy adres muxitida mavjud boʻlganday boʻladi. Umumiy muxit adreslarni koʻrsatuvchi adres yrdamida bloklar tomonidan 4 kb boʻyicha emulyatsiyalanadi. (Graphic Address Remapping Table, GART). Shu tariqa maʼlumotlarni asosiy xotiradan videoxotiraga nusxalash endi kerak emas, bu jarayon AGP teksturatsiyalash deb ataladi.
+Soʻrovlar navbati 
+Maʼlumotlarni asosiy xotiradan videoxotira kartaga uzatish ikki etapda amalga oshiriladi, dastlab 64 bitli adres yuboriladi, u erdan maʼlumotlarni oʻqib olish kerak, soʻng maʼlumotlarni oʻzi uzatiladi.
+AGP shinasi uzatish ikki variantni koʻzda tutadi:
+
+birinchisi — PST shinasi bilan mos maʼlumotlar va adres soʻrovlari bitta kanal boʻyicha amalga oshiriladi;
+ikkinchisi — SBA (Side Band Addressing) rejimida, aloxida yon tomonlama shina boʻyicha, shu tariqa, oldingilarini olishni kutmasdan turib, yangi maʼlumotlarga soʻrovni yuborishi mumkin.
+Rivojlanish
+Xozirgi vaqtda AGP slotli ona platalari amalda chiqarilmayapti, AGP standart barcha gʻoyalari tezroq boʻlgan PCI Express tomonidan bozordan siqib chiqarildi.
+AGP standartning videokartalari kam miqdorda chiqarilmoqda va analogli PCI- E kartdan qimmatroq turadi („oʻtkazma — mikrosxema“ PCI — E AGP qoʻllanilishi uchun).
+
+
+
+

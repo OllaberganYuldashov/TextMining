@@ -1,0 +1,68 @@
+
+
+AIMP
+
+AIMP4 interfeysiMuallifArtem IzmaylovIshlab chiqaruvchiArtem Izmaylov, Mike Greentashkil topdi:8-avgust, 2006-yilOperatsion sistemaWindows, AndroidLitsenziyaFreewareVebsayt:aimp.ru
+
+AIMP (Artem Izmaylov Media Player) — Windows va Android uchun bepul audio pleer boʻlib, dastlab rossiyalik dasturchi Artem Izmaylov tomonidan ishlab chiqilgan.
+
+
+Rivojlanishi[tahrir | manbasini tahrirlash]
+AIMP ning birinchi versiyasi 2006-yil 8-avgustda chiqarilgan.[1] AIMP dastlab BASS audio kutubxonasiga asoslangan edi.[2] 3-versiyada dasturchi yangi audio dvigatel va ReplayGain uchun toʻliq qoʻllab-quvvatlashni qoʻshdi hamda musiqa kutubxonasi interfeysi shaffoflik effektlarini yangiladi.
+
+Xususiyatlari[tahrir | manbasini tahrirlash]
+AIMP audio kodeklarni qoʻllab-quvvatlaydi, jumladan MP3, AAC, Dolby AC-3, Ogg Vorbis, Opus, Speex, Windows Media Audio, Apple Lossless, FLAC, WAV, Audio CD lar, APE, True Audio; DTS audio, MP1, MP2, Musepack, OptimFROG, WavPack, MIDI, Impulse Tracker, MO3, MOD, MultiTracker moduli, S3M, Tomning yoʻqotmaydigan Audio Kompressori (TAK) va FastTracker 2 kengaytirilgan moduli.
+AIMP DirectSound, ASIO va WASAPI audio interfeyslarini,18 diapazonli ekvalayzer va oʻrnatilgan ovoz effektlari (Reverb, Flanger, Chorus, Pitch, Temp, Echo, Speed, Bass, Enhancer, Ovozni oʻchirish vositasi) qoʻllab-quvvatlaydi
+AIMP ijro paytida operativ xotirada hozirda oʻynalgan media faylni 250 MB gacha keshlashi mumkin.
+AIMP shuningdek, operativ xotiraga internet-radio oqimlarini 60 soniyagacha keshlash imkoniyatiga ega. Bu funktsiyaning kamchiliklaridan biri shundaki, kanalni almashtirish sekinlashadi, chunki ijro boshlanishidan oldin bufer kamida 25% gacha toʻldiriladi (yaʼni 60 soniya kesh tanlanganda musiqa tinglashni boshlash uchun 15 soniyagacha vaqt ketadi).
+
+Boshqa xususiyatlar
+
+LastFM scrobbler
+Xatcho‘p va ijro navbatini yaratish
+Bir nechta pleylist, har bir varaq uchun bittadan
+CUE varaqlarini qoʻllab-quvvatlash
+Toʻgʻridan-toʻgʻri RAMdan 250 MBgacha boʻlgan media fayllarni oʻynatish
+Internet radio oqimini yozib olish
+Koʻp foydalanuvchi rejimini qoʻllab-quvvatlash
+Koʻp tilli interfeys
+Qisqa tugmalar (sozlanishi mumkin boʻlgan mahalliy va global tezkor tugmalar)
+Pleylist va teg muharriri
+Audio kutubxona fayl organizator va qidiruv
+Uygʻotuvchi soat / Avtomatik oʻchirish
+Plaginlar va muqovalarni qoʻllab-quvvatlash
+Mukofotlar[tahrir | manbasini tahrirlash]
+2007-yil 6-sentyabrda Softpedia muharriri Ionut Ilasku AIMP Classic 2.02 Beta dasturiga 5 yulduzdan 4 ball berdi. [3]
+2009-yil 6-noyabrda CNET muharrirlari AIMP2 ga 5 yulduzdan 4 ball baho berdilar.[4]
+2016-yil 23-sentabrda Techradar muharriri Cat Ellis AIMP4ni 2016-yilning eng yaxshi bepul musiqa pleyerlari reytingida 2-o‘ringa qo‘ydi.[5]
+Firibgarlik haqida ogohlantirilish[tahrir | manbasini tahrirlash]
+AIMP ishlab chiquvchilari oʻzlarining rasmiy veb-saytida AIMPni ishlab chiqish guruhiga hech qanday aloqasi boʻlmagan aimp2.us veb-sayti ortida nomaʼlum firibgarlar tomonidan firibgarlik davom etayotgani haqida ogohlantiradilar va uning foydalanuvchilarini ushbu soxta saytga hech qanday pul ajratmaslikka chaqiradilar. [6] AIMP bepul dastur boʻlib, u foydalanuvchilarga bepul taqdim etiladi.
+
+Yana qarang[tahrir | manbasini tahrirlash]
+Audio pleer dasturiy taʼminotini taqqoslash
+Manbalar[tahrir | manbasini tahrirlash]
+
+
+↑ „.:AIMP:.“. AIMP.ru. 19-avgust 2006-yilda asl nusxadan arxivlandi. Qaraldi: 12-iyul 2021-yil.
+
+
+
+↑ BASS audio library
+
+↑ Winamp’s Future Competitor, Retrieved September 24, 2011.
+
+↑ CNET editors' review, Retrieved September 24, 2011.
+
+↑ Techradar editor Cat Ellis' review, Retrieved December 11, 2016.
+
+↑ Artem. „aimp2.us is a fake!“. Aimp.ru (4-dekabr 2013-yil). Qaraldi: 29-dekabr 2013-yil.
+
+
+
+
+Tashqi havolalar[tahrir | manbasini tahrirlash]
+Rasmiy sayt
+https://portableapps.com/apps/music_video/aimp-portable
+
+
+

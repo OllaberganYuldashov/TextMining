@@ -1,0 +1,183 @@
+APGENKO
+Turi
+
+Davlat korporatsiyasi - PSUSanoat
+
+Elektr energiyasi ishlab chiqarishIshga tushgan sanasi
+
+1998 yilJoylashuvi
+
+Vijayavada , HindistonAsoschi(lar)i
+
+S.V.Prasad (rais) K Vijayanand (boshqaruvchi direktor)Ishchilar soni
+
+10889 (2008)Vebsayti
+
+http://apgenco.gov.in/ ; http://appower.ap.gov.in/
+
+Andhra Pradesh Power Generation Corporation Limited Andhra Pradeshdagi energiya ishlab chiqaruvchi tashkilotdir. U elektr stansiyalarini ekspluatatsiya qilish va texnik xizmat koʻrsatishni oʻz zimmasiga oladi, shuningdek, loyiha quvvatini oshirish bilan bir qatorda yangi energetika loyihalarini ham oʻz zimmasiga oladi[1].
+
+
+Tarix[tahrir | manbasini tahrirlash]
+Elektr energetika sohasidagi hukumat islohotlari 1998-yil 28-dekabrda APGENCOning tashkil topishiga olib keldi va 1999-yil 1-fevraldan ish boshladi. Daromadlarning mahsulot tannarxiga nisbatan nomutanosibligi, texnik yoʻqotishlar va energiya oʻgʻirlanishining sezilarli darajada kamaymasligi tufayli narx yuqori. IPP va boshqa SEBlardan xaridlar APSEB moliyaviy holatini asta-sekin yomonlashtirdi[2].
+
+APSEB boʻlimi[tahrir | manbasini tahrirlash]
+Andxra-Pradesh hukumati APSEB moliyaviy ahvolining pasayish tendentsiyasini tushunib, qoʻmita tomonidan berilgan tavsiyalarni inobatga olgan holda AP Electricity tomonidan 1999 yil 1 fevralda Andhra Pradesh Power Generation Corporation (APGENCO) va Andhra Pradesh Limited Transmission Corporation (APTRANSCO) tarkibiga birlashtirildi[3].
+APTRANSCO 2000-yilning 1-aprelida „Transmissiya korporatsiyasi“ va toʻrtta „Distribyutor kompaniya“ga (DISCOMS) boʻlindi. 1999 yil fevralidan 2005 yil iyunigacha APTransco DISCOMlarga elektr energiyasini sotib olish va sotishda yagona xaridor sifatida qoldi.
+
+APGENCO shakllanishi va boʻlinishi[tahrir | manbasini tahrirlash]
+Keyinchalik, 2014 yil 2 iyunda, shtat ikkiga boʻlinganida, APGENCO barcha aktivlar, majburiyatlar va elektr stantsiyalarini ikkala shtatga taqsimladi va yangi tashkil etilgan Telangana shtati uchun Telangana Genco (TSGENCO) tashkil etildi va APGENCO Andxra Pradesh uchun qoldi. Andhra Pradesh qayta tashkil etish toʻgʻrisidagi qonun, 2014 yil[4].
+
+Elektr stansiyalari[tahrir | manbasini tahrirlash]
+TSGenCo tashkil etilgandan soʻng APGENCO ning umumiy oʻrnatilgan quvvati 4559,6 MVtni tashkil etadi, bu 2810 MVt issiqlik, 1747,6 MVt gidro va 2 MVt shamol elektr stantsiyalarini oʻz ichiga oladi. APGENCO ning elektr stansiyalari termal, gidel va shamolga asoslangan stansiyalarni oʻz ichiga oladi.
+
+
+Termal loyihalar
+
+
+SI
+Loyiha
+Quvvat
+Jami oʻrnatilgan MVT
+Galereya
+
+
+1
+Vijayawada IES
+6×210 + 1×500 (IV bosqich)
+1760
+ Doktor Narla Tata Rao issiqlik elektr stantsiyasi
+
+
+2
+Rayalaseema IES
+5×210 + 1×600 (IV bosqich)
+1650
+ Rayalaseema issiqlik elektr stansiyasi
+
+Eslatma: Simhadri super issiqlik stansiyasi (4x500 MVt) va Damoadaram Sanjeevaiah issiqlik stansiyasi (2x800 MVt) APGENCO mulkiga kirmagani uchun hisobga olinmaydi.
+
+
+Hydel loyihalari
+
+
+SR/NO
+Loyiha
+Oʻrnatilgan quvvat (MVT)
+Jami (MVT)
+
+
+1
+Chettipeta Mini Hydel
+2 x 0,5
+1
+
+
+2
+Donkarayi PH
+1 x 25
+25
+
+
+3
+Hampi toʻgʻoni PH
+4 x 9 (AP Share — 28,8)
+28.8
+
+
+4
+Pastki Sileru PH
+4 x 115
+460
+
+
+5
+Machkund PH
+3 x 17 + 3 x 23 (AP Share — 84)
+84
+
+
+6
+Nagarjuna Sagar RCPH
+3 x 30
+90
+
+
+7
+Penna Ahobilam PH
+2 x 10
+20
+
+
+8
+Shrisailam RBPH
+7 x 110
+770
+
+
+9
+Tungabhadra toʻgʻoni PH
+4 x 9 (AP Share — 28,8)
+28.8
+
+
+10
+Yuqori Sileru PH
+4 x 60
+240
+
+
+Hydel loyihalari (qurilayotgan)
+
+
+SR/NO
+Loyiha
+Oʻrnatilgan quvvat (MVT)
+Jami (MVT)
+
+
+1
+Polavaram GES
+12 x 80
+960
+
+
+2
+Nagarjuna Sagar quyruq hovuzi PH
+2 x 25
+50
+
+
+Anʼanaviy boʻlmagan birliklar
+
+
+SI/Yoʻq
+Loyiha
+Imkonyatlar (MVT)
+Jami (MVT)
+
+
+1
+Ramagiri shamol tegirmoni
+10 x 0,2
+2.0
+
+Operatsion ishlash[tahrir | manbasini tahrirlash]
+Garchi APGenCo issiqlik elektr stantsiyalarining ishonchliligi, mavjudligi va texnik xizmat koʻrsatish qobiliyati (RAM tahlili) Hindistondagi eng yaxshi koʻrsatkichlardan biri boʻlsa-da, uning gidroelektr stantsiyalari ishlashi qoniqarli. Issiqlik elektr stantsiyalarining issiqlik samaradorligi (issiqlik tezligi) juda ajoyib. 75 dan 100 % gacha quvvat oraligʻida issiqlik elektr stantsiyalarini „ chastotani kuzatish“ rejimida ishlatish yaxshi, lekin yuk samaradorligi bilan ortiqcha elektr tarmogʻida talabning eng yuqori soatlari bundan mustasno. Shuningdek, GESlar quvvat koeffitsientini toʻgʻirlash, energiya ishlab chiqarishning eng yuqori nuqtasi, nasos rejimida suv chiqarish va musson mavsumida mavjud boʻlgan umumiy suvdan foydalangan holda ikkilamchi energiya ishlab chiqarish kabi barcha funktsiyalarni yaxshi bajarishi kerak. Bunga gidroelektr stansiyalarni 95 % dan ortiq quvvat bilan taʼminlash orqali erishish mumkin[5].
+
+Manbalar[tahrir | manbasini tahrirlash]
+
+↑  Welcome to APGENCO Archived 19 December 2008 at the Wayback Machine
+
+↑ On https://web.archive.org/web/20140714175220/http://apgenco.gov.in/inner.asp?frm=corporate_profile
+
+↑ "History of APSEB". Transmission Corporation of AP. Archived from the original on 14 July 2014.
+
+↑ Sudheer Goutham (30 May 2014). „Power plants division between Andhra Pradesh and Telangana“. Deccan Chronicle. 
+
+↑ "APGenCo website main page".
+
+
+
+
+

@@ -1,0 +1,25 @@
+AOLServer — veb-server NaviSoft tomonidan „NaviServer“ sifatida ishlab chiqilgan, lekin 1995-yilda AOL tomonidan sotib olingan va uni freeware sifatida tarqatishni boshlagan. 1999-yilda AOLserverning 3.0 versiyasi ochiq dasturiy taʼminot sifatida chiqarildi[1].
+Bu oʻrnatilgan Tcl skript tiliga ega boʻlgan koʻp oqimli veb-server. Koʻpincha Tcl/ XOTcl da yozilgan CMS/CMF OpenACS[2] bilan birgalikda ishlatiladi. Ushbu veb-serverning asosiy xususiyatlari — koʻp oqimli (Apacheda faqat 2.0 versiyasidan boshlab paydo boʻlgan), oʻrnatilgan skript tili (bu Tcl) va SQL-serveriga doimiy ulanishni qoʻllab-quvvatlashdir[1].
+2005-yil fevral oyida AOLServer-ning 4.10 fork liniyalari yaratildi, u NaviSoft-ning ilk ishlanmasi kabi NaviServer deb nomlangan[3].
+
+Manbalar[tahrir | manbasini tahrirlash]
+
+
+↑ 1,0 1,1 Reuven M. Lerner (2002, September). Introducing AOLserver (Linux Journal nashri). http://www.linuxjournal.com/article/6164. 
+
+↑ „OpenACS“. 31-avgust 2009-yilda asl nusxadan arxivlandi. Qaraldi: 15-noyabr 2009-yil.
+
+
+
+↑ NaviServer on Tclers Wiki
+
+
+Adabiyotlar[tahrir | manbasini tahrirlash]
+Neophytos Demetriou, Stefan Koch, Gustaf Neumann. Chapter X. The Development of the OpenACS Community // Miltiadis Lytras, Ambjörn Naeve Open Source for Knowledge And Learning Management. — Idea Group Publishing, 2006. — S. 298-318. — ISBN 1599041189.
+Reuven M. Lerner. Introducing AOLserver // Linux Journal. — 2002, September. — № 101.
+Havolalar[tahrir | manbasini tahrirlash]
+Официальный сайт(ingl.)
+AOLserver wiki(ingl.)
+
+
+

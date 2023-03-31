@@ -1,0 +1,63 @@
+AGM-158 JASSM ( [ʤæzm] „Jazm“ qisqartma inglizcha: Joint Air-to-Surface Standoff Missile) „Lockheed Martin“ korporatsiyasi tomonidan ishlab chiqilgan Amerika yuqori aniqlikdagi havodan yerga qanotli raketasi hisoblanadi. Muhim, har qanday ob-havo sharoitida va kunning istalgan vaqtida yuqori darajada himoyalangan statsionar va harakatlanuvchi nishonlarni (kvazistatsionar), dushman havo hujumiga qarshi mudofaa tizimlari chegarasidan tashqaridagi masofadan yoʻq qilish uchun moʻljallangan qurol hisoblanadi[1]. AGM-158 JASSM
+ „Northrop Grumman“ tomonidan ishlab chiqilgan Amerika ogʻir yashirin strategik bombardimonchi B-2 samolyotidan uchirish
+ Usbu raketa turbojetli dvigatel bilan ish faoliyatini yuritadi. Ushbu qurolga yuqori darajadagi elektron himoyaga ega GPS sunʼiy yoʻldosh signal qabul qilgichidan toʻgʻrilangan inertial boshqaruv tizimi bilan bir qatorda parvozning yakuniy bosqichida ishga tushadigan zamonaviy infraqizil boshcha va shu bilan birgalikda, avtonom maqsadni aniqlash tizimi bilan ham jihozlangan[1].
+2012-yil holatiga koʻra, JASSM quyidagi tashuvchilarning qurollanishiga kiritilgan: B-1, B-2 va B-52H, F-15E, F-16 va F/A18 bombardimonchilar bilan integratsiya boʻyicha ishlar olib borilmoqda, F-35 bombardimonchisi bilan ham integratsiya kelajakda rejalashtirilgan[1].
+Ishlab chiqarish qiymati: $0,85 mln qiymatda. Dasturning umumiy qiymati esa: $3,5 mlrd.dan ortiqga baholangan.
+
+
+Tarixi[tahrir | manbasini tahrirlash]
+JASSM dasturi (inglizcha: Joint Air-to-Surface Standoff Missile- Havodan yerga qoʻshma raketa, havo hujumidan mudofaa zonasidan tashqarida uchirilgan yagona havo-yer raketasi [2]) AGM-137 TSSAM dasturidan keyin ishga tushirilgan (inglizcha: Tri-Service Standoff Attack Missile)1980-yilda yuqori miqdordagi xarajat tufayli toʻxtatishga majbur boʻlishgan. Dasturning maqsadi koʻzga koʻrinmas uzoq masofali yuqori aniqlikdagi raketa yaratish boʻlgan hamda bu qurol „TSSAM“ dasturi bilan solishtirganda sezilarli darajada arzon hisoblangan.
+1982-yil iyun oyida ikkita kompaniya „Lockheed Martin“ va „McDonnell Duglas“ (hozirgi Boeing) raketalarining konsepsiyasi va individual elementlarini dastlabki oʻrganish va uni yaratish paytida xavfni kamaytirish yoʻllarini aniqlash boʻyicha 24 oy davomida shartnomalar qabul qilishgan (PDRR -inglizcha: Program Definition and Risk Reduction) . Shuningdek, ikkita raqobatdosh dizaynga mos ravishda AGM-158A va AGM-159A indekslari berilgan.
+1983-yil aprel oyida „Lockheed Martin“ JASSM ning EMD dizayni va ishlab chiqish bosqichi uchun shartnomani imzolashga erishilgan.
+Patent uchun ariza 1984-yil 3-avgustda Kaliforniyaning Palmdele shahridagi „Skunk“ zavodlari („Lockheed Martin“ shoʻba korxonasi) tomonidan topshirilgan va 1984-yil 14-dekabrda olingan.
+1984-yil uchun mavjud boʻlgan rejalarga koʻra, Harbiy havo kuchlari 4900 ta JASSM va AQSh harbiy-dengiz kuchlari uchun 453 ta raketa sotib olishni koʻzda tutishgan[3][4]. Qurolning seriyali namunasi taxminan 400 ming AQSH dollarni tashkil qilgan[5].
+2000-yil holatiga koʻra, AQSh Harbiy-havo kuchlari 4900 ta AGM-158 quroliga ehtiyoj sezishgan. AGM-158A ning asosiy modifikatsiyasini toʻliq miqyosda ishlab chiqarishni boshlash 1994-yil may oyida tasdiqlangan. 2003-yil may oyiga kelib, Harbiy havo kuchlariga pudratchi tomonidan 600 ga yaqin raketa yetkazib berilgan.
+
+Bogʻlangan tuzilmalar[tahrir | manbasini tahrirlash]
+Raketalarni ishlab chiqarish Lockheed Martin raketalari va yongʻinni boshqarish tizimlari boʻlimi Florida shtatining Okala shahridagi elektrotexnika zavod korxonalarida tashkil etilgan. U yerda raketa parvozlarini boshqarish tizimining elektron dasturiy va apparat komplekslari ishlab chiqarilgan va Troyadagi raketa zavodi, Alabama, aerodinamik raketa komponentlarini ishlab chiqarish hamda yigʻish, muhandislik, muntazam texnik xizmat koʻrsatish va boshqa tadbirlar uchun mas’ul boʻlgan boʻlinmaning Florida shtatidagi Orlando shahridagi markaziy ilmiy-tadqiqot inshootida amalga oshirilgan. Asosiy pudratchi sifatida „Lockheed“ kompaniyasidan tashqari, fuselaj yuzasining 95 % „Fiber Innovations, Inc.“ kompaniyasining Massachusets shtati Walpole shahridagi polimer materiallari fabrikasida uglerod tolasidan ishlab chiqarish yoʻlga qoʻyilgan. Bundan tashqari, alohida butlovchi qismlar, agregatlar, ehtiyot qismlar va butlovchi qismlarni ishlab chiqarishda 20 ga yaqin tijorat tuzilmalari jalb qilingan.
+
+ AGM-158 JASSM quroli havoda
+JASSM dasturi boʻyicha ishlarni muvofiqlashtirish boʻyicha markaziy ofis Floridadagi Eglin havo kuchlari bazasida boʻlgan.
+
+Xarid qilish[tahrir | manbasini tahrirlash]
+2008-yilda „Lockheed Martin“ bilan yana 111 ta raketa ishlab chiqarish boʻyicha 107 million dollarlik yettinchi shartnoma tuzilgan. Shundan keyin buyurtma qilingan raketalarning umumiy soni 1053 tani tashkil qilgan[6].
+
+Jang kallagi[tahrir | manbasini tahrirlash]
+JASSM ogʻirligi taxminan 450 kg boʻlgan J-1000 (seriya belgisi WDU-42/B) unitar penetratsion jangovar kallak bilan jihozlangan. Jang kallagining korpusi volfram qotishmasidan yasalgan boʻlgan hamda 109 kg yuqori samarali past sezgir portlovchi AFX-757 bilan jihozlangan[7].
+
+ AGM-158 JASSM qurolini yuklash mashg'ulotlari. AQSh.
+Oʻzgartirishlar[tahrir | manbasini tahrirlash]
+AGM-158 JASSM-ER (AGM-158V) ning modifikatsiyasi ishlab chiqilgan boʻlib, u kattaroq yonilgʻi baklaridagi raketaning asosiy versiyasidan, shuningdek, yanada tejamkor „Williams International“ turbojetli dvigatel (oldingi bir pallali oʻrniga „Williams F112“ asosida) F-107-WR-105 orqali ajralib turgan. Ushbu yangilanishlar va oʻrta balandlikdagi uzun uchastkasi tufayli JASSM-ER uchirilgan joydan 980 kilometrgacha boʻlgan masofadagi nishonlarni ura olish imkoniga ega boʻlgan. Oʻzgartirish 2002-yil oʻrtalarida AGM-158B rasmiy nomi bilan atalgan. Shu jumladan, JASSM-ERni ishlab chiqish va namoyish qilish boʻyicha AQSh Harbiy-havo kuchlari bilan shartnoma 2004-yil fevral oyida tuzilgan.
+Parvoz sinovlarini boshlash 2006-yilda rejalashtirilgan boʻlgan, ammo, AGM-158V raketasi 2008-yil oʻrtalaridan boshlab ommaviy ishlab chiqarish yoʻlga qoʻyilgan.
+
+Manbalar[tahrir | manbasini tahrirlash]
+
+
+↑ 1,0 1,1 1,2 „JASSM“ (en).  Оф. сайт Lockheed Martin. 26-iyun 2012-yilda asl nusxadan arxivlandi. Qaraldi: 24-may 2012-yil.
+
+
+
+↑ Ispolzuemaya razlichnimi vidami voorujennix sil.
+
+↑ „JASSM/ No Ma'am - Which Will It Be?“. Archive.org.  Defence Industry Daily (12-oktabr 2005-yil). 6-aprel 2007-yilda asl nusxadan arxivlandi. Qaraldi: 3-iyun 2015-yil.
+
+
+
+↑ Rivers, Brendan. „JASSM Program Getting Back on Track“. Archive.org.  eDefence (1-fevral 2006-yil). 16-mart 2006-yilda asl nusxadan arxivlandi. Qaraldi: 3-iyun 2015-yil.
+
+
+
+↑  Перспективная американская управляемая ракета АGМ-158 класса "воздух-земля". http://commi.narod.ru/txt/2000/1006.htm. 
+
+↑ „http://rnd.cnews.ru/army/news/line/index_science.shtml?2008/07/01/306967“.
+
+
+
+↑ „AGM-158 Joint Air to Surface Standoff Missile (JASSM)“ (en).  GlobalSecurity.org. 15-aprel 2012-yilda asl nusxadan arxivlandi. Qaraldi: 22-may 2012-yil.
+
+
+
+
+
+
+

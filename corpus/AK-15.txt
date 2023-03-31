@@ -1,0 +1,42 @@
+AK-15
+
+
+
+AK-15 yoki 6P71 — 7,62 mm kalibrli rossiya avtomati. AK-12 avtomati bilan birgalikda ishlab chiqilgan.
+Ushbu avtomat 200-seriyadagi AK-lar, AK-RMO, AK-12 bilan birgalikda kalashnikov avtomatlarining beshinchi avlodi tarkibiga kiradi.
+
+
+Ishlab chiqilishi[tahrir | manbasini tahrirlash]
+2018-yil 29-yanvar kuni ommaviy axborot vositalarida Rossiya Federatsiyasi Mudofaa vazirligi AK-12 avtomatining oʻq otish uchun 5,45 mm patronlardan foydalanadigan quroli boʻlgan AK-15 avtomatini qabul qilgani haqida maʼlumot paydo boʻldi. ROC Ratnik talablariga koʻra, ikkita pulemyot ishlab chiqilishi kerak edi- 5,45 mm va 7,62 mm. Oxirgisi AK-15 edi.
+AK-15 ni ishlab chiqish tarixi 2007 yilda, IjMASH kompaniyasida Nikolay Bezborodov boshchiligidagi korxona rahbariyati tashabbusi bilan ikkita parallel dasturni — AK-200 ni ishga tushirgandan boshlanadi. 200 seriyali AK) va AK-300, yuzinchi seriyali avtomatik mashinalarni modernizatsiya qilish chuqurligining boshqa darajasidan iborat. AK-300 dagi ishlanmalarning samarasi keyinchalik AK-RMOga aylandi. 2012 yilgacha AK-200 ning faol rivojlanishi davom etdi, ammo Vladimir Zlobin kelishi bilan AK-200 emas, balki Zlobin tomonidan ishlab chiqilgan AK-12 ustuvor rivojlanishga aylandi. Biroq, 2014 yilda Zlobin tomonidan ishlab chiqilgan 7,62 mm pulemyot tanlovga qoʻshilmagani sababli AK-200 ustidagi ishlar qayta tiklandi. AK-103-3 avtomati, maʼlum bir yaxshilanishlar toʻplamiga ega AK-200. 2015 yilda Zlobinning avtomati nihoyat muvaffaqiyatsizlikka uchradi, Zlobin Ratnikda rivojlanishni toʻxtatdi, AK-103-3 ning rivojlanishi davom etdi va AK-400 ning yaratilishiga olib keldi. AK-400 ning rivojlanishi 2016 yildagi AK-12 va AK-15 edi. Hujum miltiqlari Jangchi talablariga javob berdi va sinovlardan muvaffaqiyatli oʻtdi.
+Musobaqa davomida qisqa barrelli avtomatning seriasi-AK-15K taqdim etildi, ammo ishlab chiqarish mashinasining ushbu versiyasi olinmadi.
+2018 yil boshida Mudofaa vazirligi ikkala yangi hujum miltiqlarini ham qabul qilishga qaror qildi: AK-12 asosan qoʻshma qurolli boʻlinmalar uchun, AK-15 esa maxsus kuchlar uchun moʻljallangan, bu har bir oʻq-dorining xususiyatlaridan kelib chiqqan holda. hujum miltiqlari.
+AK-15 yoki ruscha nomi 6p71 7,62 mm oʻlchamdagi 7,62x39 mm oʻlchamdagi avtomat. U AK-12 avtomati bilan birga yaratilgan.
+
+Xususiyatlari[tahrir | manbasini tahrirlash]
+bilak qabul qilgichga osilgan va barrelga tegmaydi;
+gaz trubkasi olinmaydigan boʻlib qoldi, oldingi vilka tozalash uchun chiqariladi;
+ogʻiz tormozi ip oʻrniga süngü oʻrnatish ustiga oʻrnatiladi va tezda taktik susturucuyla oʻzgartirilishi mumkin. Ogʻiz tormozining oldingi qirrasi oynani sindirish uchun karbid tojdir;
+mahkamlashning qattiqligini oshirish uchun qabul qilgichning qopqogʻi orqa qismi bilan qabul qilgichning yivlariga kiritiladi va old qismdagi koʻndalang pin bilan oʻrnatiladi;
+qabul qilgich qopqogʻi va qoʻl himoyasi Picatinny relslari bilan jihozlangan boʻlib, ular tepada bitta chiziq hosil qiladi, bu har xil turdagi kunduz va tungi diqqatga sazovor joylarni qulay va takrorlanadigan oʻrnatishni taʼminlaydi;
+tutqichning pastki qismida aksessuarlarni oʻrnatish uchun qoʻshimcha Picatinny relslari mavjud — old tutqich, chiroq, lazer koʻrsatgich va boshqalar. P.; Qoʻl himoyasida yon Picatinny relslarini oʻrnatish mumkin;
+ochiq koʻrishning oldingi koʻrinishi gaz blokiga oʻtkaziladi, diafragma orqa koʻrinishi Picatinny relsiga imkon qadar dumbaga yaqinroq oʻrnatiladi, u lateral tuzatishlarni kiritish imkoniyatiga ega; tirqishli ustunni oʻrnatish mumkin;
+sugʻurta / yongʻin rejimlarining tarjimoni 6Ch63.Sb11 4 ta pozitsiyaga ega (sugʻurta — AB (avtomatik yongʻin) — 2 (2 oʻq uzilgan uzilish portlashi) — OD (bitta)), shuningdek, koʻrsatkich barmogʻi ostida qoʻshimcha „raf“ mavjud., tortishish qoʻlining ushlagichini oʻzgartirmasdan, yongʻin rejimlarini yanada qulayroq almashtirishni taʼminlash. Strukturaviy ravishda, sugʻurta oldingi variantlardan farq qiladi. Endi, sugʻurta qutisining oʻzi tarjimonni yongʻin rejimlarida oʻrnatadigan shtamplar bilan oʻzaro taʼsir qilmaydi, balki faqat chang pardasi funktsiyalarini bajaradi, murvat ramkasining harakatini bloklaydi. Koʻrsatkich barmogʻi uchun pedal, egrilik markazi sugʻurta ostida joylashgan va barmoqning sirpanish ehtimolini kamaytiradigan tirqishli yoy shakliga ega, bayroqning bir qismidir. Bayroqning ichki qismida sugʻurta oʻrnini oʻrnatadigan ikkita perchinga shtamplangan barg kamon biriktirilgan. Shu bilan birga, USM boshqa AK lardan navbatni kesish rejimi bilan ajralib turadi, kech AK-103-2 navbatini kesishning yaxshilangan va oʻzgartirilgan amalga oshirilishiga ega. Shu bilan birga, portlash bilan oʻq otish rejimida, 2 ta oʻq otishdan oldin (birdan keyin) tetik qoʻyib yuborilganda, trigger uzilish oldidan vzvodning oʻrnini egallaydi, yaʼni tetik keyinchalik bosilganda., uchta tortishish davom etadigan kesish takrorlanadi;
+mashina zarbaga chidamli plastmassadan yasalgan chapga buklanadigan, uzunligi sozlanishi (4 ta pozitsiya) zaxirasi bilan jihozlangan. Pastki qismida GP toʻplamiga kiritilgan dumba plitasining tasmasi uchun uyasi mavjud. Dumba 6Ch63 sozlanishi yonoq toʻplamini oʻrnatishni taʼminlaydi. Yonoq davlat sinovlaridan oʻtdi va mashinani yetkazib berishga kiritilgan, ammo mijoz uni sotib olmagan. Yangi zaxira bilan bogʻliq muammolar — buklanganda teskari tebranish va noyob QD burilishlari;
+6Ch63.Sb18 toʻpponcha tutqichi yanada ergonomiklashtirildi va diqqatga sazovor joylar yoki dori-darmonlar uchun elektr batareyalarini joylashtirishingiz mumkin boʻlgan quti bilan jihozlangan;
+ramrod uchun qoʻshimchalar yoʻq, u yigʻiladigan va toʻpponcha tutqichidagi qalam qutisiga oʻtkaziladi;
+oddiy doʻkonlar shaffof qoʻshimchalar bilan jihozlangan, ular orqali siz kartridjlar sonini vizual ravishda aniqlashingiz mumkin; AK-12 jurnallaridan farqli oʻlaroq, AK-15 jurnallarida qattiq sirtga tayanish uchun jurnalning tovon burchagi yoʻq;
+barrel ostida nayzali pichoqni yoki GP-25, GP-30, GP-34 yoki bir xil oʻrnatilgan 40 mm granata otish moslamalarini oʻrnatish mumkin.
+PMS — past shovqinli otish moslamasi AK-12 (6Ch60) versiyasida ham, AK-15 (6Ch61) versiyasida ham paydo boʻldi. Tashqi tomondan, ular bir xil, ammo siz ularni qurilma tagida kalibr bilan belgilash orqali farqlashingiz mumkin. Standart DTK oʻrniga oʻrnatilgan. Avvalgi koʻplab rus va sovet susturucularidan farqli oʻlaroq, u obturatorga ega emas, shuning uchun bu qurilma PBS emas.
+Manbalar[tahrir | manbasini tahrirlash]
+
+
+Havolalar[tahrir | manbasini tahrirlash]
+Rosoboronexport AK-15 avtomati Arxivli kopiya
+Kalashnikov guruhi yangi AK-15
+Russkayagazeta Yangi AK-15 avtomatining afzalliklari
+Zvezda telekanali AK-12 va AK-15 avtomatlari: „Kalash“ seriyasidagi qotil yangi kiyimlar
+Kalashnikovmedia AK-12 va AK-15 avtomatlari
+
+
+
